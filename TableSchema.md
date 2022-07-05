@@ -14,7 +14,7 @@ Address_list (<ins>add_id, cust_id</ins>, zipcode, state, city, st_name, st_numb
 
 ***
 
-Order (<ins>ord_id, cust_id, rest_id, staff_id, cupom_id</ins>, price, status, order_type, payment_method, ord_startDate, delivered_date) <br>
+Order (<ins>ord_id</ins>, cust_id, rest_id, staff_id, cupom_id, price, status, order_type, payment_method, ord_startDate, delivered_date) <br>
 &nbsp;&nbsp;&nbsp;&nbsp;Order(rest_id) => Restaunrant(rest_id) <br>
 &nbsp;&nbsp;&nbsp;&nbsp;Order(cust_id) => Customer(cust_id) <br>
 &nbsp;&nbsp;&nbsp;&nbsp;Order(staff_id) => Staff(staff_id) <br>
@@ -30,7 +30,7 @@ Restaurant (<ins>rest_id</ins>, name, phone_number, zipcode, state, city, st_nam
 
 ***
 
-Staff (<ins>staff_id, rest_id</ins>, name, job_role, salary, phone_number, start_timeshift, end_timeshift) <br>
+Staff (<ins>staff_id</ins>, rest_id, name, job_role, salary, phone_number, start_timeshift, end_timeshift) <br>
 &nbsp;&nbsp;&nbsp;&nbsp;Staff(rest_id) => Restaurant(rest_id)
 
 ***
@@ -55,7 +55,7 @@ Beverage (<ins>item_id</ins>, brand, size) <br>
 
 ***
 
-Pizza (<ins>item_id</ins>, size, dough, crust, flavor_rightside, flavor_leftside) <br>
+Pizza (<ins>item_id</ins>, size, dough, flavor_rightside, flavor_leftside) <br>
 &nbsp;&nbsp;&nbsp;&nbsp;Pizza(item_id) => Item(item_id)
 
 ***
