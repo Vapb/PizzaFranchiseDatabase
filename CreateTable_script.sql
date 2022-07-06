@@ -97,42 +97,84 @@ CREATE TABLE Staff (
 
 -- DeliveryMan (<ins>staff_id</ins>, license, exp_date, license_plate) <br>
 CREATE TABLE DeliveryMan (
-    
+    staff_id INTEGER NOT NULL,
+    license VARCHAR,
+    exp_date DATE,
+    license_plate VARCHAR,
+    PRIMARY KEY (staff_id),
+    FOREIGN KEY (staff_id)
+        REFERENCES Staff(staff_id)
 );
 
 -- Order_Items (<ins>ord_id, item_id</ins>, quantity) <br>
 CREATE TABLE Order_Items (
-    
+    ord_id INTEGER NOT NULL,
+    item_id INTEGER NOT NULL,
+    quantity INTEGER,
+    PRIMARY KEY (ord_id, item_id),
+    FOREIGN KEY (ord_id)
+        REFERENCES Order(ord_id),
+    FOREIGN KEY (item_id)
+        REFERENCES Item(item_id)
 );
 
 -- Item (<ins>item_id</ins>, name, price)
 CREATE TABLE Item (
-    
+    item_id SERIAL PRIMARY KEY,
+    name VARCHAR(30),
+    price FLOAT
 );
 
 -- Beverage (<ins>item_id</ins>, brand, size) <br>
 CREATE TABLE Beverage (
-    
+    item_id INTEGER NOT NULL,
+    brand VARCHAR(30),
+    size VARCHAR(30),
+    PRIMARY KEY (item_id),
+    FOREIGN KEY (item_id)
+        REFERENCES Item(item_id)
 );
 
 -- Pizza (<ins>item_id</ins>, size, dough, flavor_rightside, flavor_leftside) <br>
 CREATE TABLE Pizza (
-    
+    item_id INTEGER NOT NULL,
+    size VARCHAR(30),
+    dough VARCHAR(30),
+    flavor_rightside VARCHAR(30),
+    flavor_leftside VARCHAR(30),
+    PRIMARY KEY (item_id),
+    FOREIGN KEY (item_id)
+        REFERENCES Item(item_id)
 );
 
 -- Non_pizza (<ins>item_id</ins>, flavor, description) <br>
 CREATE TABLE Non_pizza (
-    
+    item_id INTEGER NOT NULL,
+    flavor VARCHAR(30),
+    description VARCHAR(50),
+    PRIMARY KEY (item_id),
+    FOREIGN KEY (item_id)
+        REFERENCES Item(item_id)
 );
 
 -- Pizza_Toppings (<ins>item_id, top_id</ins>, quantity) <br>
 CREATE TABLE Pizza_Toppings (
-    
+    item_id INTEGER NOT NULL,
+    top_id INTEGER NOT NULL,
+    quantity INTEGER,
+    PRIMARY KEY (item_id, top_id),
+    FOREIGN KEY (item_id)
+        REFERENCES Item(item_id),
+    FOREIGN KEY (top_id)
+        REFERENCES Toppings(top_id)
 );
 
 -- Toppings(<ins>top_id</ins>, name, price, pizzaside)
 CREATE TABLE Toppings (
-    
+    top_id SERIAL PRIMARY KEY,
+    name VARCHAR(30),
+    price FLOAT,
+    pizzaside CHAR
 );
 
 
