@@ -42,26 +42,21 @@ DeliveryMan (<ins>staff_id</ins>, license, exp_date, license_plate) <br>
 
 Order_Items (<ins>ord_id, item_id</ins>, quantity) <br>
 &nbsp;&nbsp;&nbsp;&nbsp;Order_Items(ord_id) => Order(ord_id) <br>
-&nbsp;&nbsp;&nbsp;&nbsp;Order_Items(item_id) => Item(item_id)
+&nbsp;&nbsp;&nbsp;&nbsp;Order_Items(pizza_id) => Pizza(pizza_id)
+&nbsp;&nbsp;&nbsp;&nbsp;Order_Items(beverage_id) => Beverage(beverage_id)
+&nbsp;&nbsp;&nbsp;&nbsp;Order_Items(nonpizza_id) => NonPizza(nonpizza_id)
 
 ***
 
-Item (<ins>item_id</ins>, name, price)
+Beverage (<ins>beverage_id</ins>, brand, size, name, price) <br>
 
 ***
 
-Beverage (<ins>item_id</ins>, brand, size) <br>
-&nbsp;&nbsp;&nbsp;&nbsp;Beverage(item_id) => Item(item_id)
+Pizza (<ins>pizza_id</ins>, size, dough, flavor_rightside, flavor_leftside, name, price) <br>
 
 ***
 
-Pizza (<ins>item_id</ins>, size, dough, flavor_rightside, flavor_leftside) <br>
-&nbsp;&nbsp;&nbsp;&nbsp;Pizza(item_id) => Item(item_id)
-
-***
-
-Non_pizza (<ins>item_id</ins>, flavor, description) <br>
-&nbsp;&nbsp;&nbsp;&nbsp;Non_pizza(item_id) => Item(item_id)
+Non_pizza (<ins>nonpizza_id</ins>, flavor, description, name, price) <br>
 
 ***
 
