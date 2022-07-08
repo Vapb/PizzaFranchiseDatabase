@@ -1,7 +1,7 @@
--- Script to create tables in database
+-- Script to create table IF NOT EXISTS  in database
 
 -- Customer Table (<ins>cust_id</ins>, username, password, firstname, surname, birthday)
-CREATE TABLE Customer (
+CREATE TABLE IF NOT EXISTS Customer (
     cust_id SERIAL PRIMARY KEY,
     username VARCHAR(30) UNIQUE NOT NULL,
     password VARCHAR(30) NOT NULL,
@@ -11,7 +11,7 @@ CREATE TABLE Customer (
 );
  
 -- Cupom Table (<ins>cupom_id</ins>, valid, start_date, expiration_date, description)
-CREATE TABLE Cupom (
+CREATE TABLE IF NOT EXISTS Cupom (
     cupom_id SERIAL PRIMARY KEY,
     valid BOOLEAN NOT NULL,
     start_date DATE NOT NULL,
@@ -20,7 +20,7 @@ CREATE TABLE Cupom (
 );
 
 -- Restaurant Table -- Restaurant (<ins>rest_id</ins>, name, phone_number, zipcode, state, city, st_name, st_number)
-CREATE TABLE Restaurant (
+CREATE TABLE IF NOT EXISTS Restaurant (
     rest_id SERIAL PRIMARY KEY,
     name VARCHAR(50) NOT NULL,
     phone_number INTEGER NOT NULL,
@@ -32,7 +32,7 @@ CREATE TABLE Restaurant (
 );
 
 -- NonPizza -- Non_pizza (<ins>nonpizza_id</ins>, flavor, description, name, price) <br>
-CREATE TABLE Non_pizza (
+CREATE TABLE IF NOT EXISTS Non_pizza (
     nonpizza_id INTEGER NOT NULL,
     flavor VARCHAR(30),
     description VARCHAR(80),
@@ -43,7 +43,7 @@ CREATE TABLE Non_pizza (
 
 
 -- Pizza -- Pizza (<ins>pizza_id</ins>, size, dough, flavor_rightside, flavor_leftside, name, price) <br>
-CREATE TABLE Pizza (
+CREATE TABLE IF NOT EXISTS Pizza (
     pizza_id INTEGER NOT NULL,
     size VARCHAR(30),
     dough VARCHAR(30),
@@ -56,7 +56,7 @@ CREATE TABLE Pizza (
 
 
 -- Beverage -- Beverage (<ins>beverage_id</ins>, brand, size, name, price) <br>
-CREATE TABLE Beverage (
+CREATE TABLE IF NOT EXISTS Beverage (
     beverage_id INTEGER NOT NULL,
     brand VARCHAR(30),
     size VARCHAR(30),
@@ -66,16 +66,15 @@ CREATE TABLE Beverage (
 );
 
 -- Toppings Table -- Toppings(<ins>top_id</ins>, name, price, pizzaside)
-CREATE TABLE Toppings (
+CREATE TABLE IF NOT EXISTS Toppings (
     top_id SERIAL PRIMARY KEY,
     name VARCHAR(30),
     price DECIMAL(10,2),
     pizzaside CHAR
 );
 
--------------------------------------------------------
 -- Phone_list Table -- Phone_list (<ins>cust_id, phone_number</ins>) <br>
-CREATE TABLE Phone_list (
+CREATE TABLE IF NOT EXISTS Phone_list (
     cust_id INTEGER NOT NULL,
     phone_number INTEGER NOT NULL,
     PRIMARY KEY (cust_id, phone_number),
@@ -85,7 +84,7 @@ CREATE TABLE Phone_list (
 
 
 -- Address_list -- Address_list (<ins>add_id, cust_id</ins>, zipcode, state, city, st_name, st_number, custom_name) <br>
-CREATE TABLE Address_list (
+CREATE TABLE IF NOT EXISTS Address_list (
     add_id INTEGER NOT NULL,
     cust_id INTEGER NOT NULL,
     zipcode INTEGER NOT NULL,
@@ -100,7 +99,7 @@ CREATE TABLE Address_list (
 );
 
 -- Staff Table -- Staff (<ins>staff_id</ins>, rest_id, name, job_role, salary, phone_number, start_timeshift, end_timeshift) <br>
-CREATE TABLE Staff (
+CREATE TABLE IF NOT EXISTS Staff (
     staff_id SERIAL PRIMARY KEY,
     rest_id INTEGER NOT NULL,
     name VARCHAR(50),
@@ -114,7 +113,7 @@ CREATE TABLE Staff (
 );
 
 -- DeliveryMan Table -- DeliveryMan (<ins>staff_id</ins>, license, exp_date, license_plate) <br>
-CREATE TABLE DeliveryMan (
+CREATE TABLE IF NOT EXISTS DeliveryMan (
     staff_id INTEGER NOT NULL,
     license VARCHAR,
     exp_date DATE,
@@ -125,7 +124,7 @@ CREATE TABLE DeliveryMan (
 );
 
 -- Pizza_Toppings Table -- Pizza_Toppings (<ins>pizza_id, top_id</ins>, quantity) <br>
-CREATE TABLE Pizza_Toppings (
+CREATE TABLE IF NOT EXISTS Pizza_Toppings (
     pizza_id INTEGER NOT NULL,
     top_id INTEGER NOT NULL,
     quantity INTEGER,
@@ -137,7 +136,7 @@ CREATE TABLE Pizza_Toppings (
 );
 
 -- Order Table -- Order (<ins>ord_id</ins>, cust_id, rest_id, staff_id, cupom_id, price, status, order_type, payment_method, ord_startDate, delivered_date) <br>
-CREATE TABLE Order (
+CREATE TABLE IF NOT EXISTS Order (
     ord_id SERIAL PRIMARY KEY,
     cust_id INTEGER NOT NULL,
     rest_id INTEGER NOT NULL,
@@ -160,7 +159,7 @@ CREATE TABLE Order (
 );
 
 -- Order_Item TAble -- Order_Items (<ins>ord_id, pizza_id, beverage_id, nonpizza_id</ins>, quantity) <br>
-CREATE TABLE Order_Items (
+CREATE TABLE IF NOT EXISTS Order_Items (
     ord_id INTEGER NOT NULL,
     pizza_id INTEGER NOT NULL,
     beverage_id INTEGER NOT NULL,
@@ -176,4 +175,3 @@ CREATE TABLE Order_Items (
     FOREIGN KEY (nonpizza_id)
         REFERENCES Non_pizza(nonpizza_id) DEFAULT (0)     
 );
- 
