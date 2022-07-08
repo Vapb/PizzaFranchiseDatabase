@@ -40,7 +40,7 @@ DeliveryMan (<ins>staff_id</ins>, license, exp_date, license_plate) <br>
 
 ***
 
-Order_Items (<ins>ord_id, item_id</ins>, quantity) <br>
+Order_Items (<ins>ord_id, pizza_id, beverage_id, nonpizza_id</ins>, quantity) <br>
 &nbsp;&nbsp;&nbsp;&nbsp;Order_Items(ord_id) => Order(ord_id) <br>
 &nbsp;&nbsp;&nbsp;&nbsp;Order_Items(pizza_id) => Pizza(pizza_id)
 &nbsp;&nbsp;&nbsp;&nbsp;Order_Items(beverage_id) => Beverage(beverage_id)
@@ -60,8 +60,8 @@ Non_pizza (<ins>nonpizza_id</ins>, flavor, description, name, price) <br>
 
 ***
 
-Pizza_Toppings (<ins>item_id, top_id</ins>, quantity) <br>
-&nbsp;&nbsp;&nbsp;&nbsp;Pizza_Toppings(item_id) => Item(item_id) <br>
+Pizza_Toppings (<ins>pizza_id, top_id</ins>, quantity) <br>
+&nbsp;&nbsp;&nbsp;&nbsp;Pizza_Toppings(pizza_id) => Pizza(pizza_id) <br>
 &nbsp;&nbsp;&nbsp;&nbsp;Pizza_Toppings(top_id) => Toppings(top_id)
 
 ***
