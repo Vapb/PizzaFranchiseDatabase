@@ -30,4 +30,10 @@ Dominos is a big pizza franchise that has a lot of restaurants in the world. In 
 * Each domino's restaurant has its own staff with their information.
 * Some employees work as pizza delivery men and deliver pizzas.
 
-### Entity and Relation Diagram :
+### Entity–Relationship Diagram :
+
+![Entity–Relationship](/DominosER.png "Entity–Relationship")
+
+### Resulting Table Schema :
+
+![TableSchema](/TableSchema.png "TableSchema")
