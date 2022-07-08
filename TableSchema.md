@@ -1,69 +1,69 @@
 # ER -> TableSchema
 
-Customer (<ins>cust_id</ins>, username, birthday, password, firstname, surname)
+customer (<ins>cust_id</ins>, username, birthday, password, firstname, surname)
 
 ***
 
-Phone_list (<ins>cust_id, phone_number</ins>) <br>
-&nbsp;&nbsp;&nbsp;&nbsp;Phone_list(cust_id) => Customer(cust_id)
+phone_list (<ins>cust_id, phone_number</ins>) <br>
+&nbsp;&nbsp;&nbsp;&nbsp;phone_list(cust_id) => customer(cust_id)
 
 ***
 
-Address_list (<ins>add_id, cust_id</ins>, zipcode, state, city, st_name, st_number, custom_name) <br>
-&nbsp;&nbsp;&nbsp;&nbsp;Address_list(cust_id) => Customer(cust_id)
+address_list (<ins>add_id, cust_id</ins>, zipcode, state, city, st_name, st_number, custom_name) <br>
+&nbsp;&nbsp;&nbsp;&nbsp;address_list(cust_id) => customer(cust_id)
 
 ***
 
-Order (<ins>ord_id</ins>, cust_id, rest_id, staff_id, cupom_id, price, status, order_type, payment_method, ord_startDate, delivered_date) <br>
-&nbsp;&nbsp;&nbsp;&nbsp;Order(rest_id) => Restaunrant(rest_id) <br>
-&nbsp;&nbsp;&nbsp;&nbsp;Order(cust_id) => Customer(cust_id) <br>
-&nbsp;&nbsp;&nbsp;&nbsp;Order(staff_id) => Staff(staff_id) <br>
-&nbsp;&nbsp;&nbsp;&nbsp;Order(cupom_id) => Cupom(cupom_id) <br>
+customer_order (<ins>ord_id</ins>, cust_id, rest_id, staff_id, cupom_id, price, status, order_type, payment_method, ord_startDate, delivered_date) <br>
+&nbsp;&nbsp;&nbsp;&nbsp;customer_order(rest_id) => restaunrant(rest_id) <br>
+&nbsp;&nbsp;&nbsp;&nbsp;customer_order(cust_id) => customer(cust_id) <br>
+&nbsp;&nbsp;&nbsp;&nbsp;customer_order(staff_id) => staff(staff_id) <br>
+&nbsp;&nbsp;&nbsp;&nbsp;customer_order(cupom_id) => cupom(cupom_id) <br>
 
 ***
 
-Cupom (<ins>cupom_id</ins>, valid, start_date, expiration_date, description)
+cupom (<ins>cupom_id</ins>, valid, start_date, expiration_date, description)
 
 ***
 
-Restaurant (<ins>rest_id</ins>, name, phone_number, zipcode, state, city, st_name, st_number)
+restaurant (<ins>rest_id</ins>, name, phone_number, zipcode, state, city, st_name, st_number)
 
 ***
 
-Staff (<ins>staff_id</ins>, rest_id, name, job_role, salary, phone_number, start_timeshift, end_timeshift) <br>
-&nbsp;&nbsp;&nbsp;&nbsp;Staff(rest_id) => Restaurant(rest_id)
+staff (<ins>staff_id</ins>, rest_id, name, job_role, salary, phone_number, start_timeshift, end_timeshift) <br>
+&nbsp;&nbsp;&nbsp;&nbsp;staff(rest_id) => restaurant(rest_id)
 
 ***
 
-DeliveryMan (<ins>staff_id</ins>, license, exp_date, license_plate) <br>
-&nbsp;&nbsp;&nbsp;&nbsp;DeliverMan(staff_id) => Staff(staff_id)
+deliverman (<ins>staff_id</ins>, license, exp_date, license_plate) <br>
+&nbsp;&nbsp;&nbsp;&nbsp;deliverman(staff_id) => staff(staff_id)
 
 ***
 
-Order_Items (<ins>ord_id, pizza_id, beverage_id, nonpizza_id</ins>, quantity) <br>
-&nbsp;&nbsp;&nbsp;&nbsp;Order_Items(ord_id) => Order(ord_id) <br>
-&nbsp;&nbsp;&nbsp;&nbsp;Order_Items(pizza_id) => Pizza(pizza_id)
-&nbsp;&nbsp;&nbsp;&nbsp;Order_Items(beverage_id) => Beverage(beverage_id)
-&nbsp;&nbsp;&nbsp;&nbsp;Order_Items(nonpizza_id) => NonPizza(nonpizza_id)
+order_items (<ins>ord_id, pizza_id, beverage_id, nonpizza_id</ins>, quantity) <br>
+&nbsp;&nbsp;&nbsp;&nbsp;order_items(ord_id) => customer_order(ord_id) <br>
+&nbsp;&nbsp;&nbsp;&nbsp;order_items(pizza_id) => pizza(pizza_id)
+&nbsp;&nbsp;&nbsp;&nbsp;order_items(beverage_id) => beverage(beverage_id)
+&nbsp;&nbsp;&nbsp;&nbsp;order_items(nonpizza_id) => non_pizza(nonpizza_id)
 
 ***
 
-Beverage (<ins>beverage_id</ins>, brand, size, name, price) <br>
+beverage (<ins>beverage_id</ins>, brand, size, name, price) <br>
 
 ***
 
-Pizza (<ins>pizza_id</ins>, size, dough, flavor_rightside, flavor_leftside, name, price) <br>
+pizza (<ins>pizza_id</ins>, size, dough, flavor_rightside, flavor_leftside, name, price) <br>
 
 ***
 
-Non_pizza (<ins>nonpizza_id</ins>, flavor, description, name, price) <br>
+non_pizza (<ins>nonpizza_id</ins>, flavor, description, name, price) <br>
 
 ***
 
-Pizza_Toppings (<ins>pizza_id, top_id</ins>, quantity) <br>
-&nbsp;&nbsp;&nbsp;&nbsp;Pizza_Toppings(pizza_id) => Pizza(pizza_id) <br>
-&nbsp;&nbsp;&nbsp;&nbsp;Pizza_Toppings(top_id) => Toppings(top_id)
+pizza_toppings (<ins>pizza_id, top_id</ins>, quantity) <br>
+&nbsp;&nbsp;&nbsp;&nbsp;pizza_toppings(pizza_id) => pizza(pizza_id) <br>
+&nbsp;&nbsp;&nbsp;&nbsp;pizza_toppings(top_id) => toppings(top_id)
 
 ***
 
-Toppings(<ins>top_id</ins>, name, price, pizzaside)
+toppings(<ins>top_id</ins>, name, price, pizzaside)

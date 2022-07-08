@@ -33,7 +33,7 @@ CREATE TABLE IF NOT EXISTS restaurant (
     st_number SMALLINT
 );
 
--- NonPizza -- Non_pizza (<ins>nonpizza_id</ins>, flavor, description, name, price) <br>
+-- NonPizza -- non_pizza (<ins>nonpizza_id</ins>, flavor, description, name, price) <br>
 CREATE TABLE IF NOT EXISTS non_pizza (
     nonpizza_id INTEGER NOT NULL,
     flavor VARCHAR(30),
@@ -81,7 +81,7 @@ CREATE TABLE IF NOT EXISTS phone_list (
     phone_number INTEGER NOT NULL,
     PRIMARY KEY (cust_id, phone_number),
     FOREIGN KEY (cust_id)
-        REFERENCES Customer (cust_id)
+        REFERENCES customer (cust_id)
 );
 
 
@@ -97,7 +97,7 @@ CREATE TABLE IF NOT EXISTS address_list (
     custom_name VARCHAR(30),
     PRIMARY KEY (add_id, cust_id),
     FOREIGN KEY (cust_id)
-        REFERENCES Customer (cust_id)
+        REFERENCES customer (cust_id)
 );
 
 -- Staff Table -- Staff (<ins>staff_id</ins>, rest_id, name, job_role, salary, phone_number, start_timeshift, end_timeshift) <br>
@@ -111,18 +111,18 @@ CREATE TABLE IF NOT EXISTS staff (
     start_timeshift TIME,
     end_timeshift TIME,
     FOREIGN KEY (rest_id)
-        REFERENCES Restaurant(rest_id)
+        REFERENCES restaurant(rest_id)
 );
 
 -- DeliveryMan Table -- DeliveryMan (<ins>staff_id</ins>, license, exp_date, license_plate) <br>
-CREATE TABLE IF NOT EXISTS deliveryMan (
+CREATE TABLE IF NOT EXISTS deliveryman (
     staff_id INTEGER NOT NULL,
     license VARCHAR,
     exp_date DATE,
     license_plate VARCHAR,
     PRIMARY KEY (staff_id),
     FOREIGN KEY (staff_id)
-        REFERENCES Staff(staff_id)
+        REFERENCES staff(staff_id)
 );
 
 -- Pizza_Toppings Table -- Pizza_Toppings (<ins>pizza_id, top_id</ins>, quantity) <br>
@@ -132,12 +132,12 @@ CREATE TABLE IF NOT EXISTS pizza_toppings (
     quantity INTEGER,
     PRIMARY KEY (pizza_id, top_id),
     FOREIGN KEY (pizza_id)
-        REFERENCES Pizza(pizza_id),
+        REFERENCES pizza(pizza_id),
     FOREIGN KEY (top_id)
-        REFERENCES Toppings(top_id)
+        REFERENCES toppings(top_id)
 );
 
--- Order Table -- Order (<ins>ord_id</ins>, cust_id, rest_id, staff_id, cupom_id, price, status, order_type, payment_method, ord_startDate, delivered_date) <br>
+-- customer_order Table -- customer_order (<ins>ord_id</ins>, cust_id, rest_id, staff_id, cupom_id, price, status, order_type, payment_method, ord_startDate, delivered_date) <br>
 CREATE TABLE IF NOT EXISTS customer_order (
     ord_id SERIAL PRIMARY KEY,
     cust_id INTEGER NOT NULL,
@@ -151,13 +151,13 @@ CREATE TABLE IF NOT EXISTS customer_order (
     ord_startDate TIMESTAMP,
     delivered_date TIMESTAMP,
     FOREIGN KEY (cust_id)
-        REFERENCES Customer(cust_id),
+        REFERENCES customer(cust_id),
     FOREIGN KEY (rest_id)
-        REFERENCES Restaurant(rest_id),
+        REFERENCES restaurant(rest_id),
     FOREIGN KEY (staff_id)
-        REFERENCES Staff(staff_id),
+        REFERENCES staff(staff_id),
     FOREIGN KEY (cupom_id)
-        REFERENCES Cupom(cupom_id)
+        REFERENCES cupom(cupom_id)
 );
 
 -- Order_Item TAble -- Order_Items (<ins>ord_id, pizza_id, beverage_id, nonpizza_id</ins>, quantity) <br>
@@ -169,11 +169,11 @@ CREATE TABLE IF NOT EXISTS order_items (
     quantity INTEGER,
     PRIMARY KEY (ord_id, pizza_id, beverage_id, nonpizza_id),
     FOREIGN KEY (ord_id)
-        REFERENCES Customer_order(ord_id),
+        REFERENCES customer_order(ord_id),
     FOREIGN KEY (pizza_id)
-        REFERENCES Pizza(pizza_id),
+        REFERENCES pizza(pizza_id),
     FOREIGN KEY (beverage_id)
-        REFERENCES Beverage(beverage_id),
+        REFERENCES beverage(beverage_id),
     FOREIGN KEY (nonpizza_id)
-        REFERENCES Non_pizza(nonpizza_id)     
+        REFERENCES non_pizza(nonpizza_id)     
 );
