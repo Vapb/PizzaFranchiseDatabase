@@ -12,9 +12,11 @@ CREATE TABLE IF NOT EXISTS customer (
     birthday DATE
 );
  
+ 
 -- Cupom Table (<ins>cupom_id</ins>, valid, start_date, expiration_date, description)
 CREATE TABLE IF NOT EXISTS cupom (
     cupom_id SERIAL PRIMARY KEY,
+    code VARCHAR(20) NOT NULL,
     valid BOOLEAN NOT NULL,
     start_date DATE NOT NULL,
     expiration_date DATE NOT NULL,
@@ -49,8 +51,8 @@ CREATE TABLE IF NOT EXISTS pizza (
     pizza_id INTEGER NOT NULL,
     size VARCHAR(30),
     dough VARCHAR(30),
-    flavor_rightside VARCHAR(30),
-    flavor_leftside VARCHAR(30),
+    main_flavor VARCHAR(30),
+    second_flavor VARCHAR(30),
     name VARCHAR(30),
     price DECIMAL(10,2),
     PRIMARY KEY (pizza_id)
@@ -67,13 +69,6 @@ CREATE TABLE IF NOT EXISTS beverage (
     PRIMARY KEY (beverage_id)
 );
 
--- Toppings Table -- Toppings(<ins>top_id</ins>, name, price, pizzaside)
-CREATE TABLE IF NOT EXISTS toppings (
-    top_id SERIAL PRIMARY KEY,
-    name VARCHAR(30),
-    price DECIMAL(10,2),
-    pizzaside CHAR
-);
 
 -- Phone_list Table -- Phone_list (<ins>cust_id, phone_number</ins>) <br>
 CREATE TABLE IF NOT EXISTS phone_list (
@@ -125,17 +120,6 @@ CREATE TABLE IF NOT EXISTS deliveryman (
         REFERENCES staff(staff_id)
 );
 
--- Pizza_Toppings Table -- Pizza_Toppings (<ins>pizza_id, top_id</ins>, quantity) <br>
-CREATE TABLE IF NOT EXISTS pizza_toppings (
-    pizza_id INTEGER NOT NULL,
-    top_id INTEGER NOT NULL,
-    quantity INTEGER,
-    PRIMARY KEY (pizza_id, top_id),
-    FOREIGN KEY (pizza_id)
-        REFERENCES pizza(pizza_id),
-    FOREIGN KEY (top_id)
-        REFERENCES toppings(top_id)
-);
 
 -- customer_order Table -- customer_order (<ins>ord_id</ins>, cust_id, rest_id, staff_id, cupom_id, price, status, order_type, payment_method, ord_startDate, delivered_date) <br>
 CREATE TABLE IF NOT EXISTS customer_order (
