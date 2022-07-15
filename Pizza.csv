@@ -1,0 +1,2701 @@
+,Size,Dough,MainFlavor,SecondFlavor,typeFlavor,price
+0,Brotinho,Tradicional,Frango com Barbecue,Frango com Barbecue,Super Premium,34.9
+1,Brotinho,Tradicional,Frango com Barbecue,Meat & Bacon,Super Premium,34.9
+2,Brotinho,Tradicional,Frango com Barbecue,Extravaganzza®,Super Premium,34.9
+3,Brotinho,Tradicional,Frango com Barbecue,Veggie®,Super Premium,34.9
+4,Brotinho,Tradicional,Frango com Barbecue,Portuguesa,Super Premium,34.9
+5,Brotinho,Tradicional,Frango com Barbecue,Pepperrock,Super Premium,34.9
+6,Brotinho,Tradicional,Frango com Barbecue,Frango Grelhado,Super Premium,34.9
+7,Brotinho,Tradicional,Frango com Barbecue,Frango com Cream Cheese,Super Premium,34.9
+8,Brotinho,Tradicional,Frango com Barbecue,Egg & Bacon,Super Premium,34.9
+9,Brotinho,Tradicional,Frango com Barbecue,Catuperoni,Super Premium,34.9
+10,Brotinho,Tradicional,Frango com Barbecue,Calabresa Especial,Super Premium,34.9
+11,Brotinho,Tradicional,Frango com Barbecue,Búfala La Bianca,Super Premium,34.9
+12,Brotinho,Tradicional,Frango com Barbecue,Bauru,Super Premium,34.9
+13,Brotinho,Tradicional,Frango com Barbecue,4 Queijos,Super Premium,34.9
+14,Brotinho,Tradicional,Frango com Barbecue,América,Super Premium,34.9
+15,Brotinho,Tradicional,Frango com Barbecue,Napolitana,Super Premium,34.9
+16,Brotinho,Tradicional,Frango com Barbecue,Presunto,Super Premium,34.9
+17,Brotinho,Tradicional,Frango com Barbecue,Pepperoni,Super Premium,34.9
+18,Brotinho,Tradicional,Frango com Barbecue,Margherita,Super Premium,34.9
+19,Brotinho,Tradicional,Frango com Barbecue,Pizza de Queijo,Super Premium,34.9
+20,Brotinho,Tradicional,Frango com Barbecue,Corn & Bacon,Super Premium,34.9
+21,Brotinho,Tradicional,Frango com Barbecue,Calabresa,Super Premium,34.9
+22,Brotinho,Tradicional,Frango com Barbecue,Frango com Requeijão,Super Premium,34.9
+23,Brotinho,Tradicional,Frango com Barbecue,3 Queijos,Super Premium,34.9
+24,Brotinho,Tradicional,Meat & Bacon,Meat & Bacon,Super Premium,34.9
+25,Brotinho,Tradicional,Meat & Bacon,Extravaganzza®,Super Premium,34.9
+26,Brotinho,Tradicional,Meat & Bacon,Veggie®,Super Premium,34.9
+27,Brotinho,Tradicional,Meat & Bacon,Portuguesa,Super Premium,34.9
+28,Brotinho,Tradicional,Meat & Bacon,Pepperrock,Super Premium,34.9
+29,Brotinho,Tradicional,Meat & Bacon,Frango Grelhado,Super Premium,34.9
+30,Brotinho,Tradicional,Meat & Bacon,Frango com Cream Cheese,Super Premium,34.9
+31,Brotinho,Tradicional,Meat & Bacon,Egg & Bacon,Super Premium,34.9
+32,Brotinho,Tradicional,Meat & Bacon,Catuperoni,Super Premium,34.9
+33,Brotinho,Tradicional,Meat & Bacon,Calabresa Especial,Super Premium,34.9
+34,Brotinho,Tradicional,Meat & Bacon,Búfala La Bianca,Super Premium,34.9
+35,Brotinho,Tradicional,Meat & Bacon,Bauru,Super Premium,34.9
+36,Brotinho,Tradicional,Meat & Bacon,4 Queijos,Super Premium,34.9
+37,Brotinho,Tradicional,Meat & Bacon,América,Super Premium,34.9
+38,Brotinho,Tradicional,Meat & Bacon,Napolitana,Super Premium,34.9
+39,Brotinho,Tradicional,Meat & Bacon,Presunto,Super Premium,34.9
+40,Brotinho,Tradicional,Meat & Bacon,Pepperoni,Super Premium,34.9
+41,Brotinho,Tradicional,Meat & Bacon,Margherita,Super Premium,34.9
+42,Brotinho,Tradicional,Meat & Bacon,Pizza de Queijo,Super Premium,34.9
+43,Brotinho,Tradicional,Meat & Bacon,Corn & Bacon,Super Premium,34.9
+44,Brotinho,Tradicional,Meat & Bacon,Calabresa,Super Premium,34.9
+45,Brotinho,Tradicional,Meat & Bacon,Frango com Requeijão,Super Premium,34.9
+46,Brotinho,Tradicional,Meat & Bacon,3 Queijos,Super Premium,34.9
+47,Brotinho,Tradicional,Extravaganzza®,Extravaganzza®,Super Premium,34.9
+48,Brotinho,Tradicional,Extravaganzza®,Veggie®,Super Premium,34.9
+49,Brotinho,Tradicional,Extravaganzza®,Portuguesa,Super Premium,34.9
+50,Brotinho,Tradicional,Extravaganzza®,Pepperrock,Super Premium,34.9
+51,Brotinho,Tradicional,Extravaganzza®,Frango Grelhado,Super Premium,34.9
+52,Brotinho,Tradicional,Extravaganzza®,Frango com Cream Cheese,Super Premium,34.9
+53,Brotinho,Tradicional,Extravaganzza®,Egg & Bacon,Super Premium,34.9
+54,Brotinho,Tradicional,Extravaganzza®,Catuperoni,Super Premium,34.9
+55,Brotinho,Tradicional,Extravaganzza®,Calabresa Especial,Super Premium,34.9
+56,Brotinho,Tradicional,Extravaganzza®,Búfala La Bianca,Super Premium,34.9
+57,Brotinho,Tradicional,Extravaganzza®,Bauru,Super Premium,34.9
+58,Brotinho,Tradicional,Extravaganzza®,4 Queijos,Super Premium,34.9
+59,Brotinho,Tradicional,Extravaganzza®,América,Super Premium,34.9
+60,Brotinho,Tradicional,Extravaganzza®,Napolitana,Super Premium,34.9
+61,Brotinho,Tradicional,Extravaganzza®,Presunto,Super Premium,34.9
+62,Brotinho,Tradicional,Extravaganzza®,Pepperoni,Super Premium,34.9
+63,Brotinho,Tradicional,Extravaganzza®,Margherita,Super Premium,34.9
+64,Brotinho,Tradicional,Extravaganzza®,Pizza de Queijo,Super Premium,34.9
+65,Brotinho,Tradicional,Extravaganzza®,Corn & Bacon,Super Premium,34.9
+66,Brotinho,Tradicional,Extravaganzza®,Calabresa,Super Premium,34.9
+67,Brotinho,Tradicional,Extravaganzza®,Frango com Requeijão,Super Premium,34.9
+68,Brotinho,Tradicional,Extravaganzza®,3 Queijos,Super Premium,34.9
+69,Brotinho,Tradicional,Veggie®,Veggie®,Super Premium,34.9
+70,Brotinho,Tradicional,Veggie®,Portuguesa,Super Premium,34.9
+71,Brotinho,Tradicional,Veggie®,Pepperrock,Super Premium,34.9
+72,Brotinho,Tradicional,Veggie®,Frango Grelhado,Super Premium,34.9
+73,Brotinho,Tradicional,Veggie®,Frango com Cream Cheese,Super Premium,34.9
+74,Brotinho,Tradicional,Veggie®,Egg & Bacon,Super Premium,34.9
+75,Brotinho,Tradicional,Veggie®,Catuperoni,Super Premium,34.9
+76,Brotinho,Tradicional,Veggie®,Calabresa Especial,Super Premium,34.9
+77,Brotinho,Tradicional,Veggie®,Búfala La Bianca,Super Premium,34.9
+78,Brotinho,Tradicional,Veggie®,Bauru,Super Premium,34.9
+79,Brotinho,Tradicional,Veggie®,4 Queijos,Super Premium,34.9
+80,Brotinho,Tradicional,Veggie®,América,Super Premium,34.9
+81,Brotinho,Tradicional,Veggie®,Napolitana,Super Premium,34.9
+82,Brotinho,Tradicional,Veggie®,Presunto,Super Premium,34.9
+83,Brotinho,Tradicional,Veggie®,Pepperoni,Super Premium,34.9
+84,Brotinho,Tradicional,Veggie®,Margherita,Super Premium,34.9
+85,Brotinho,Tradicional,Veggie®,Pizza de Queijo,Super Premium,34.9
+86,Brotinho,Tradicional,Veggie®,Corn & Bacon,Super Premium,34.9
+87,Brotinho,Tradicional,Veggie®,Calabresa,Super Premium,34.9
+88,Brotinho,Tradicional,Veggie®,Frango com Requeijão,Super Premium,34.9
+89,Brotinho,Tradicional,Veggie®,3 Queijos,Super Premium,34.9
+90,Brotinho,Tradicional,Portuguesa,Portuguesa,Super Premium,34.9
+91,Brotinho,Tradicional,Portuguesa,Pepperrock,Super Premium,34.9
+92,Brotinho,Tradicional,Portuguesa,Frango Grelhado,Super Premium,34.9
+93,Brotinho,Tradicional,Portuguesa,Frango com Cream Cheese,Super Premium,34.9
+94,Brotinho,Tradicional,Portuguesa,Egg & Bacon,Super Premium,34.9
+95,Brotinho,Tradicional,Portuguesa,Catuperoni,Super Premium,34.9
+96,Brotinho,Tradicional,Portuguesa,Calabresa Especial,Super Premium,34.9
+97,Brotinho,Tradicional,Portuguesa,Búfala La Bianca,Super Premium,34.9
+98,Brotinho,Tradicional,Portuguesa,Bauru,Super Premium,34.9
+99,Brotinho,Tradicional,Portuguesa,4 Queijos,Super Premium,34.9
+100,Brotinho,Tradicional,Portuguesa,América,Super Premium,34.9
+101,Brotinho,Tradicional,Portuguesa,Napolitana,Super Premium,34.9
+102,Brotinho,Tradicional,Portuguesa,Presunto,Super Premium,34.9
+103,Brotinho,Tradicional,Portuguesa,Pepperoni,Super Premium,34.9
+104,Brotinho,Tradicional,Portuguesa,Margherita,Super Premium,34.9
+105,Brotinho,Tradicional,Portuguesa,Pizza de Queijo,Super Premium,34.9
+106,Brotinho,Tradicional,Portuguesa,Corn & Bacon,Super Premium,34.9
+107,Brotinho,Tradicional,Portuguesa,Calabresa,Super Premium,34.9
+108,Brotinho,Tradicional,Portuguesa,Frango com Requeijão,Super Premium,34.9
+109,Brotinho,Tradicional,Portuguesa,3 Queijos,Super Premium,34.9
+110,Brotinho,Tradicional,Pepperrock,Pepperrock,Super Premium,34.9
+111,Brotinho,Tradicional,Pepperrock,Frango Grelhado,Super Premium,34.9
+112,Brotinho,Tradicional,Pepperrock,Frango com Cream Cheese,Super Premium,34.9
+113,Brotinho,Tradicional,Pepperrock,Egg & Bacon,Super Premium,34.9
+114,Brotinho,Tradicional,Pepperrock,Catuperoni,Super Premium,34.9
+115,Brotinho,Tradicional,Pepperrock,Calabresa Especial,Super Premium,34.9
+116,Brotinho,Tradicional,Pepperrock,Búfala La Bianca,Super Premium,34.9
+117,Brotinho,Tradicional,Pepperrock,Bauru,Super Premium,34.9
+118,Brotinho,Tradicional,Pepperrock,4 Queijos,Super Premium,34.9
+119,Brotinho,Tradicional,Pepperrock,América,Super Premium,34.9
+120,Brotinho,Tradicional,Pepperrock,Napolitana,Super Premium,34.9
+121,Brotinho,Tradicional,Pepperrock,Presunto,Super Premium,34.9
+122,Brotinho,Tradicional,Pepperrock,Pepperoni,Super Premium,34.9
+123,Brotinho,Tradicional,Pepperrock,Margherita,Super Premium,34.9
+124,Brotinho,Tradicional,Pepperrock,Pizza de Queijo,Super Premium,34.9
+125,Brotinho,Tradicional,Pepperrock,Corn & Bacon,Super Premium,34.9
+126,Brotinho,Tradicional,Pepperrock,Calabresa,Super Premium,34.9
+127,Brotinho,Tradicional,Pepperrock,Frango com Requeijão,Super Premium,34.9
+128,Brotinho,Tradicional,Pepperrock,3 Queijos,Super Premium,34.9
+129,Brotinho,Tradicional,Frango Grelhado,Frango Grelhado,Super Premium,34.9
+130,Brotinho,Tradicional,Frango Grelhado,Frango com Cream Cheese,Super Premium,34.9
+131,Brotinho,Tradicional,Frango Grelhado,Egg & Bacon,Super Premium,34.9
+132,Brotinho,Tradicional,Frango Grelhado,Catuperoni,Super Premium,34.9
+133,Brotinho,Tradicional,Frango Grelhado,Calabresa Especial,Super Premium,34.9
+134,Brotinho,Tradicional,Frango Grelhado,Búfala La Bianca,Super Premium,34.9
+135,Brotinho,Tradicional,Frango Grelhado,Bauru,Super Premium,34.9
+136,Brotinho,Tradicional,Frango Grelhado,4 Queijos,Super Premium,34.9
+137,Brotinho,Tradicional,Frango Grelhado,América,Super Premium,34.9
+138,Brotinho,Tradicional,Frango Grelhado,Napolitana,Super Premium,34.9
+139,Brotinho,Tradicional,Frango Grelhado,Presunto,Super Premium,34.9
+140,Brotinho,Tradicional,Frango Grelhado,Pepperoni,Super Premium,34.9
+141,Brotinho,Tradicional,Frango Grelhado,Margherita,Super Premium,34.9
+142,Brotinho,Tradicional,Frango Grelhado,Pizza de Queijo,Super Premium,34.9
+143,Brotinho,Tradicional,Frango Grelhado,Corn & Bacon,Super Premium,34.9
+144,Brotinho,Tradicional,Frango Grelhado,Calabresa,Super Premium,34.9
+145,Brotinho,Tradicional,Frango Grelhado,Frango com Requeijão,Super Premium,34.9
+146,Brotinho,Tradicional,Frango Grelhado,3 Queijos,Super Premium,34.9
+147,Brotinho,Tradicional,Frango com Cream Cheese,Frango com Cream Cheese,Premium,31.9
+148,Brotinho,Tradicional,Frango com Cream Cheese,Egg & Bacon,Premium,31.9
+149,Brotinho,Tradicional,Frango com Cream Cheese,Catuperoni,Premium,31.9
+150,Brotinho,Tradicional,Frango com Cream Cheese,Calabresa Especial,Premium,31.9
+151,Brotinho,Tradicional,Frango com Cream Cheese,Búfala La Bianca,Premium,31.9
+152,Brotinho,Tradicional,Frango com Cream Cheese,Bauru,Premium,31.9
+153,Brotinho,Tradicional,Frango com Cream Cheese,4 Queijos,Premium,31.9
+154,Brotinho,Tradicional,Frango com Cream Cheese,América,Premium,31.9
+155,Brotinho,Tradicional,Frango com Cream Cheese,Napolitana,Premium,31.9
+156,Brotinho,Tradicional,Frango com Cream Cheese,Presunto,Premium,31.9
+157,Brotinho,Tradicional,Frango com Cream Cheese,Pepperoni,Premium,31.9
+158,Brotinho,Tradicional,Frango com Cream Cheese,Margherita,Premium,31.9
+159,Brotinho,Tradicional,Frango com Cream Cheese,Pizza de Queijo,Premium,31.9
+160,Brotinho,Tradicional,Frango com Cream Cheese,Corn & Bacon,Premium,31.9
+161,Brotinho,Tradicional,Frango com Cream Cheese,Calabresa,Premium,31.9
+162,Brotinho,Tradicional,Frango com Cream Cheese,Frango com Requeijão,Premium,31.9
+163,Brotinho,Tradicional,Frango com Cream Cheese,3 Queijos,Premium,31.9
+164,Brotinho,Tradicional,Egg & Bacon,Egg & Bacon,Premium,31.9
+165,Brotinho,Tradicional,Egg & Bacon,Catuperoni,Premium,31.9
+166,Brotinho,Tradicional,Egg & Bacon,Calabresa Especial,Premium,31.9
+167,Brotinho,Tradicional,Egg & Bacon,Búfala La Bianca,Premium,31.9
+168,Brotinho,Tradicional,Egg & Bacon,Bauru,Premium,31.9
+169,Brotinho,Tradicional,Egg & Bacon,4 Queijos,Premium,31.9
+170,Brotinho,Tradicional,Egg & Bacon,América,Premium,31.9
+171,Brotinho,Tradicional,Egg & Bacon,Napolitana,Premium,31.9
+172,Brotinho,Tradicional,Egg & Bacon,Presunto,Premium,31.9
+173,Brotinho,Tradicional,Egg & Bacon,Pepperoni,Premium,31.9
+174,Brotinho,Tradicional,Egg & Bacon,Margherita,Premium,31.9
+175,Brotinho,Tradicional,Egg & Bacon,Pizza de Queijo,Premium,31.9
+176,Brotinho,Tradicional,Egg & Bacon,Corn & Bacon,Premium,31.9
+177,Brotinho,Tradicional,Egg & Bacon,Calabresa,Premium,31.9
+178,Brotinho,Tradicional,Egg & Bacon,Frango com Requeijão,Premium,31.9
+179,Brotinho,Tradicional,Egg & Bacon,3 Queijos,Premium,31.9
+180,Brotinho,Tradicional,Catuperoni,Catuperoni,Premium,31.9
+181,Brotinho,Tradicional,Catuperoni,Calabresa Especial,Premium,31.9
+182,Brotinho,Tradicional,Catuperoni,Búfala La Bianca,Premium,31.9
+183,Brotinho,Tradicional,Catuperoni,Bauru,Premium,31.9
+184,Brotinho,Tradicional,Catuperoni,4 Queijos,Premium,31.9
+185,Brotinho,Tradicional,Catuperoni,América,Premium,31.9
+186,Brotinho,Tradicional,Catuperoni,Napolitana,Premium,31.9
+187,Brotinho,Tradicional,Catuperoni,Presunto,Premium,31.9
+188,Brotinho,Tradicional,Catuperoni,Pepperoni,Premium,31.9
+189,Brotinho,Tradicional,Catuperoni,Margherita,Premium,31.9
+190,Brotinho,Tradicional,Catuperoni,Pizza de Queijo,Premium,31.9
+191,Brotinho,Tradicional,Catuperoni,Corn & Bacon,Premium,31.9
+192,Brotinho,Tradicional,Catuperoni,Calabresa,Premium,31.9
+193,Brotinho,Tradicional,Catuperoni,Frango com Requeijão,Premium,31.9
+194,Brotinho,Tradicional,Catuperoni,3 Queijos,Premium,31.9
+195,Brotinho,Tradicional,Calabresa Especial,Calabresa Especial,Premium,31.9
+196,Brotinho,Tradicional,Calabresa Especial,Búfala La Bianca,Premium,31.9
+197,Brotinho,Tradicional,Calabresa Especial,Bauru,Premium,31.9
+198,Brotinho,Tradicional,Calabresa Especial,4 Queijos,Premium,31.9
+199,Brotinho,Tradicional,Calabresa Especial,América,Premium,31.9
+200,Brotinho,Tradicional,Calabresa Especial,Napolitana,Premium,31.9
+201,Brotinho,Tradicional,Calabresa Especial,Presunto,Premium,31.9
+202,Brotinho,Tradicional,Calabresa Especial,Pepperoni,Premium,31.9
+203,Brotinho,Tradicional,Calabresa Especial,Margherita,Premium,31.9
+204,Brotinho,Tradicional,Calabresa Especial,Pizza de Queijo,Premium,31.9
+205,Brotinho,Tradicional,Calabresa Especial,Corn & Bacon,Premium,31.9
+206,Brotinho,Tradicional,Calabresa Especial,Calabresa,Premium,31.9
+207,Brotinho,Tradicional,Calabresa Especial,Frango com Requeijão,Premium,31.9
+208,Brotinho,Tradicional,Calabresa Especial,3 Queijos,Premium,31.9
+209,Brotinho,Tradicional,Búfala La Bianca,Búfala La Bianca,Premium,31.9
+210,Brotinho,Tradicional,Búfala La Bianca,Bauru,Premium,31.9
+211,Brotinho,Tradicional,Búfala La Bianca,4 Queijos,Premium,31.9
+212,Brotinho,Tradicional,Búfala La Bianca,América,Premium,31.9
+213,Brotinho,Tradicional,Búfala La Bianca,Napolitana,Premium,31.9
+214,Brotinho,Tradicional,Búfala La Bianca,Presunto,Premium,31.9
+215,Brotinho,Tradicional,Búfala La Bianca,Pepperoni,Premium,31.9
+216,Brotinho,Tradicional,Búfala La Bianca,Margherita,Premium,31.9
+217,Brotinho,Tradicional,Búfala La Bianca,Pizza de Queijo,Premium,31.9
+218,Brotinho,Tradicional,Búfala La Bianca,Corn & Bacon,Premium,31.9
+219,Brotinho,Tradicional,Búfala La Bianca,Calabresa,Premium,31.9
+220,Brotinho,Tradicional,Búfala La Bianca,Frango com Requeijão,Premium,31.9
+221,Brotinho,Tradicional,Búfala La Bianca,3 Queijos,Premium,31.9
+222,Brotinho,Tradicional,Bauru,Bauru,Premium,31.9
+223,Brotinho,Tradicional,Bauru,4 Queijos,Premium,31.9
+224,Brotinho,Tradicional,Bauru,América,Premium,31.9
+225,Brotinho,Tradicional,Bauru,Napolitana,Premium,31.9
+226,Brotinho,Tradicional,Bauru,Presunto,Premium,31.9
+227,Brotinho,Tradicional,Bauru,Pepperoni,Premium,31.9
+228,Brotinho,Tradicional,Bauru,Margherita,Premium,31.9
+229,Brotinho,Tradicional,Bauru,Pizza de Queijo,Premium,31.9
+230,Brotinho,Tradicional,Bauru,Corn & Bacon,Premium,31.9
+231,Brotinho,Tradicional,Bauru,Calabresa,Premium,31.9
+232,Brotinho,Tradicional,Bauru,Frango com Requeijão,Premium,31.9
+233,Brotinho,Tradicional,Bauru,3 Queijos,Premium,31.9
+234,Brotinho,Tradicional,4 Queijos,4 Queijos,Premium,31.9
+235,Brotinho,Tradicional,4 Queijos,América,Premium,31.9
+236,Brotinho,Tradicional,4 Queijos,Napolitana,Premium,31.9
+237,Brotinho,Tradicional,4 Queijos,Presunto,Premium,31.9
+238,Brotinho,Tradicional,4 Queijos,Pepperoni,Premium,31.9
+239,Brotinho,Tradicional,4 Queijos,Margherita,Premium,31.9
+240,Brotinho,Tradicional,4 Queijos,Pizza de Queijo,Premium,31.9
+241,Brotinho,Tradicional,4 Queijos,Corn & Bacon,Premium,31.9
+242,Brotinho,Tradicional,4 Queijos,Calabresa,Premium,31.9
+243,Brotinho,Tradicional,4 Queijos,Frango com Requeijão,Premium,31.9
+244,Brotinho,Tradicional,4 Queijos,3 Queijos,Premium,31.9
+245,Brotinho,Tradicional,América,América,Premium,31.9
+246,Brotinho,Tradicional,América,Napolitana,Premium,31.9
+247,Brotinho,Tradicional,América,Presunto,Premium,31.9
+248,Brotinho,Tradicional,América,Pepperoni,Premium,31.9
+249,Brotinho,Tradicional,América,Margherita,Premium,31.9
+250,Brotinho,Tradicional,América,Pizza de Queijo,Premium,31.9
+251,Brotinho,Tradicional,América,Corn & Bacon,Premium,31.9
+252,Brotinho,Tradicional,América,Calabresa,Premium,31.9
+253,Brotinho,Tradicional,América,Frango com Requeijão,Premium,31.9
+254,Brotinho,Tradicional,América,3 Queijos,Premium,31.9
+255,Brotinho,Tradicional,Napolitana,Napolitana,Especialidade,28.9
+256,Brotinho,Tradicional,Napolitana,Presunto,Especialidade,28.9
+257,Brotinho,Tradicional,Napolitana,Pepperoni,Especialidade,28.9
+258,Brotinho,Tradicional,Napolitana,Margherita,Especialidade,28.9
+259,Brotinho,Tradicional,Napolitana,Pizza de Queijo,Especialidade,28.9
+260,Brotinho,Tradicional,Napolitana,Corn & Bacon,Especialidade,28.9
+261,Brotinho,Tradicional,Napolitana,Calabresa,Especialidade,28.9
+262,Brotinho,Tradicional,Napolitana,Frango com Requeijão,Especialidade,28.9
+263,Brotinho,Tradicional,Napolitana,3 Queijos,Especialidade,28.9
+264,Brotinho,Tradicional,Presunto,Presunto,Especialidade,28.9
+265,Brotinho,Tradicional,Presunto,Pepperoni,Especialidade,28.9
+266,Brotinho,Tradicional,Presunto,Margherita,Especialidade,28.9
+267,Brotinho,Tradicional,Presunto,Pizza de Queijo,Especialidade,28.9
+268,Brotinho,Tradicional,Presunto,Corn & Bacon,Especialidade,28.9
+269,Brotinho,Tradicional,Presunto,Calabresa,Especialidade,28.9
+270,Brotinho,Tradicional,Presunto,Frango com Requeijão,Especialidade,28.9
+271,Brotinho,Tradicional,Presunto,3 Queijos,Especialidade,28.9
+272,Brotinho,Tradicional,Pepperoni,Pepperoni,Especialidade,28.9
+273,Brotinho,Tradicional,Pepperoni,Margherita,Especialidade,28.9
+274,Brotinho,Tradicional,Pepperoni,Pizza de Queijo,Especialidade,28.9
+275,Brotinho,Tradicional,Pepperoni,Corn & Bacon,Especialidade,28.9
+276,Brotinho,Tradicional,Pepperoni,Calabresa,Especialidade,28.9
+277,Brotinho,Tradicional,Pepperoni,Frango com Requeijão,Especialidade,28.9
+278,Brotinho,Tradicional,Pepperoni,3 Queijos,Especialidade,28.9
+279,Brotinho,Tradicional,Margherita,Margherita,Especialidade,28.9
+280,Brotinho,Tradicional,Margherita,Pizza de Queijo,Especialidade,28.9
+281,Brotinho,Tradicional,Margherita,Corn & Bacon,Especialidade,28.9
+282,Brotinho,Tradicional,Margherita,Calabresa,Especialidade,28.9
+283,Brotinho,Tradicional,Margherita,Frango com Requeijão,Especialidade,28.9
+284,Brotinho,Tradicional,Margherita,3 Queijos,Especialidade,28.9
+285,Brotinho,Tradicional,Pizza de Queijo,Pizza de Queijo,Especialidade,28.9
+286,Brotinho,Tradicional,Pizza de Queijo,Corn & Bacon,Especialidade,28.9
+287,Brotinho,Tradicional,Pizza de Queijo,Calabresa,Especialidade,28.9
+288,Brotinho,Tradicional,Pizza de Queijo,Frango com Requeijão,Especialidade,28.9
+289,Brotinho,Tradicional,Pizza de Queijo,3 Queijos,Especialidade,28.9
+290,Brotinho,Tradicional,Corn & Bacon,Corn & Bacon,Especialidade,28.9
+291,Brotinho,Tradicional,Corn & Bacon,Calabresa,Especialidade,28.9
+292,Brotinho,Tradicional,Corn & Bacon,Frango com Requeijão,Especialidade,28.9
+293,Brotinho,Tradicional,Corn & Bacon,3 Queijos,Especialidade,28.9
+294,Brotinho,Tradicional,Calabresa,Calabresa,Especialidade,28.9
+295,Brotinho,Tradicional,Calabresa,Frango com Requeijão,Especialidade,28.9
+296,Brotinho,Tradicional,Calabresa,3 Queijos,Especialidade,28.9
+297,Brotinho,Tradicional,Frango com Requeijão,Frango com Requeijão,Especialidade,28.9
+298,Brotinho,Tradicional,Frango com Requeijão,3 Queijos,Especialidade,28.9
+299,Brotinho,Tradicional,3 Queijos,3 Queijos,Especialidade,28.9
+300,Média,Tradicional,Frango com Barbecue,Frango com Barbecue,Super Premium,72.9
+301,Média,Tradicional,Frango com Barbecue,Meat & Bacon,Super Premium,72.9
+302,Média,Tradicional,Frango com Barbecue,Extravaganzza®,Super Premium,72.9
+303,Média,Tradicional,Frango com Barbecue,Veggie®,Super Premium,72.9
+304,Média,Tradicional,Frango com Barbecue,Portuguesa,Super Premium,72.9
+305,Média,Tradicional,Frango com Barbecue,Pepperrock,Super Premium,72.9
+306,Média,Tradicional,Frango com Barbecue,Frango Grelhado,Super Premium,72.9
+307,Média,Tradicional,Frango com Barbecue,Frango com Cream Cheese,Super Premium,72.9
+308,Média,Tradicional,Frango com Barbecue,Egg & Bacon,Super Premium,72.9
+309,Média,Tradicional,Frango com Barbecue,Catuperoni,Super Premium,72.9
+310,Média,Tradicional,Frango com Barbecue,Calabresa Especial,Super Premium,72.9
+311,Média,Tradicional,Frango com Barbecue,Búfala La Bianca,Super Premium,72.9
+312,Média,Tradicional,Frango com Barbecue,Bauru,Super Premium,72.9
+313,Média,Tradicional,Frango com Barbecue,4 Queijos,Super Premium,72.9
+314,Média,Tradicional,Frango com Barbecue,América,Super Premium,72.9
+315,Média,Tradicional,Frango com Barbecue,Napolitana,Super Premium,72.9
+316,Média,Tradicional,Frango com Barbecue,Presunto,Super Premium,72.9
+317,Média,Tradicional,Frango com Barbecue,Pepperoni,Super Premium,72.9
+318,Média,Tradicional,Frango com Barbecue,Margherita,Super Premium,72.9
+319,Média,Tradicional,Frango com Barbecue,Pizza de Queijo,Super Premium,72.9
+320,Média,Tradicional,Frango com Barbecue,Corn & Bacon,Super Premium,72.9
+321,Média,Tradicional,Frango com Barbecue,Calabresa,Super Premium,72.9
+322,Média,Tradicional,Frango com Barbecue,Frango com Requeijão,Super Premium,72.9
+323,Média,Tradicional,Frango com Barbecue,3 Queijos,Super Premium,72.9
+324,Média,Tradicional,Meat & Bacon,Meat & Bacon,Super Premium,72.9
+325,Média,Tradicional,Meat & Bacon,Extravaganzza®,Super Premium,72.9
+326,Média,Tradicional,Meat & Bacon,Veggie®,Super Premium,72.9
+327,Média,Tradicional,Meat & Bacon,Portuguesa,Super Premium,72.9
+328,Média,Tradicional,Meat & Bacon,Pepperrock,Super Premium,72.9
+329,Média,Tradicional,Meat & Bacon,Frango Grelhado,Super Premium,72.9
+330,Média,Tradicional,Meat & Bacon,Frango com Cream Cheese,Super Premium,72.9
+331,Média,Tradicional,Meat & Bacon,Egg & Bacon,Super Premium,72.9
+332,Média,Tradicional,Meat & Bacon,Catuperoni,Super Premium,72.9
+333,Média,Tradicional,Meat & Bacon,Calabresa Especial,Super Premium,72.9
+334,Média,Tradicional,Meat & Bacon,Búfala La Bianca,Super Premium,72.9
+335,Média,Tradicional,Meat & Bacon,Bauru,Super Premium,72.9
+336,Média,Tradicional,Meat & Bacon,4 Queijos,Super Premium,72.9
+337,Média,Tradicional,Meat & Bacon,América,Super Premium,72.9
+338,Média,Tradicional,Meat & Bacon,Napolitana,Super Premium,72.9
+339,Média,Tradicional,Meat & Bacon,Presunto,Super Premium,72.9
+340,Média,Tradicional,Meat & Bacon,Pepperoni,Super Premium,72.9
+341,Média,Tradicional,Meat & Bacon,Margherita,Super Premium,72.9
+342,Média,Tradicional,Meat & Bacon,Pizza de Queijo,Super Premium,72.9
+343,Média,Tradicional,Meat & Bacon,Corn & Bacon,Super Premium,72.9
+344,Média,Tradicional,Meat & Bacon,Calabresa,Super Premium,72.9
+345,Média,Tradicional,Meat & Bacon,Frango com Requeijão,Super Premium,72.9
+346,Média,Tradicional,Meat & Bacon,3 Queijos,Super Premium,72.9
+347,Média,Tradicional,Extravaganzza®,Extravaganzza®,Super Premium,72.9
+348,Média,Tradicional,Extravaganzza®,Veggie®,Super Premium,72.9
+349,Média,Tradicional,Extravaganzza®,Portuguesa,Super Premium,72.9
+350,Média,Tradicional,Extravaganzza®,Pepperrock,Super Premium,72.9
+351,Média,Tradicional,Extravaganzza®,Frango Grelhado,Super Premium,72.9
+352,Média,Tradicional,Extravaganzza®,Frango com Cream Cheese,Super Premium,72.9
+353,Média,Tradicional,Extravaganzza®,Egg & Bacon,Super Premium,72.9
+354,Média,Tradicional,Extravaganzza®,Catuperoni,Super Premium,72.9
+355,Média,Tradicional,Extravaganzza®,Calabresa Especial,Super Premium,72.9
+356,Média,Tradicional,Extravaganzza®,Búfala La Bianca,Super Premium,72.9
+357,Média,Tradicional,Extravaganzza®,Bauru,Super Premium,72.9
+358,Média,Tradicional,Extravaganzza®,4 Queijos,Super Premium,72.9
+359,Média,Tradicional,Extravaganzza®,América,Super Premium,72.9
+360,Média,Tradicional,Extravaganzza®,Napolitana,Super Premium,72.9
+361,Média,Tradicional,Extravaganzza®,Presunto,Super Premium,72.9
+362,Média,Tradicional,Extravaganzza®,Pepperoni,Super Premium,72.9
+363,Média,Tradicional,Extravaganzza®,Margherita,Super Premium,72.9
+364,Média,Tradicional,Extravaganzza®,Pizza de Queijo,Super Premium,72.9
+365,Média,Tradicional,Extravaganzza®,Corn & Bacon,Super Premium,72.9
+366,Média,Tradicional,Extravaganzza®,Calabresa,Super Premium,72.9
+367,Média,Tradicional,Extravaganzza®,Frango com Requeijão,Super Premium,72.9
+368,Média,Tradicional,Extravaganzza®,3 Queijos,Super Premium,72.9
+369,Média,Tradicional,Veggie®,Veggie®,Super Premium,72.9
+370,Média,Tradicional,Veggie®,Portuguesa,Super Premium,72.9
+371,Média,Tradicional,Veggie®,Pepperrock,Super Premium,72.9
+372,Média,Tradicional,Veggie®,Frango Grelhado,Super Premium,72.9
+373,Média,Tradicional,Veggie®,Frango com Cream Cheese,Super Premium,72.9
+374,Média,Tradicional,Veggie®,Egg & Bacon,Super Premium,72.9
+375,Média,Tradicional,Veggie®,Catuperoni,Super Premium,72.9
+376,Média,Tradicional,Veggie®,Calabresa Especial,Super Premium,72.9
+377,Média,Tradicional,Veggie®,Búfala La Bianca,Super Premium,72.9
+378,Média,Tradicional,Veggie®,Bauru,Super Premium,72.9
+379,Média,Tradicional,Veggie®,4 Queijos,Super Premium,72.9
+380,Média,Tradicional,Veggie®,América,Super Premium,72.9
+381,Média,Tradicional,Veggie®,Napolitana,Super Premium,72.9
+382,Média,Tradicional,Veggie®,Presunto,Super Premium,72.9
+383,Média,Tradicional,Veggie®,Pepperoni,Super Premium,72.9
+384,Média,Tradicional,Veggie®,Margherita,Super Premium,72.9
+385,Média,Tradicional,Veggie®,Pizza de Queijo,Super Premium,72.9
+386,Média,Tradicional,Veggie®,Corn & Bacon,Super Premium,72.9
+387,Média,Tradicional,Veggie®,Calabresa,Super Premium,72.9
+388,Média,Tradicional,Veggie®,Frango com Requeijão,Super Premium,72.9
+389,Média,Tradicional,Veggie®,3 Queijos,Super Premium,72.9
+390,Média,Tradicional,Portuguesa,Portuguesa,Super Premium,72.9
+391,Média,Tradicional,Portuguesa,Pepperrock,Super Premium,72.9
+392,Média,Tradicional,Portuguesa,Frango Grelhado,Super Premium,72.9
+393,Média,Tradicional,Portuguesa,Frango com Cream Cheese,Super Premium,72.9
+394,Média,Tradicional,Portuguesa,Egg & Bacon,Super Premium,72.9
+395,Média,Tradicional,Portuguesa,Catuperoni,Super Premium,72.9
+396,Média,Tradicional,Portuguesa,Calabresa Especial,Super Premium,72.9
+397,Média,Tradicional,Portuguesa,Búfala La Bianca,Super Premium,72.9
+398,Média,Tradicional,Portuguesa,Bauru,Super Premium,72.9
+399,Média,Tradicional,Portuguesa,4 Queijos,Super Premium,72.9
+400,Média,Tradicional,Portuguesa,América,Super Premium,72.9
+401,Média,Tradicional,Portuguesa,Napolitana,Super Premium,72.9
+402,Média,Tradicional,Portuguesa,Presunto,Super Premium,72.9
+403,Média,Tradicional,Portuguesa,Pepperoni,Super Premium,72.9
+404,Média,Tradicional,Portuguesa,Margherita,Super Premium,72.9
+405,Média,Tradicional,Portuguesa,Pizza de Queijo,Super Premium,72.9
+406,Média,Tradicional,Portuguesa,Corn & Bacon,Super Premium,72.9
+407,Média,Tradicional,Portuguesa,Calabresa,Super Premium,72.9
+408,Média,Tradicional,Portuguesa,Frango com Requeijão,Super Premium,72.9
+409,Média,Tradicional,Portuguesa,3 Queijos,Super Premium,72.9
+410,Média,Tradicional,Pepperrock,Pepperrock,Super Premium,72.9
+411,Média,Tradicional,Pepperrock,Frango Grelhado,Super Premium,72.9
+412,Média,Tradicional,Pepperrock,Frango com Cream Cheese,Super Premium,72.9
+413,Média,Tradicional,Pepperrock,Egg & Bacon,Super Premium,72.9
+414,Média,Tradicional,Pepperrock,Catuperoni,Super Premium,72.9
+415,Média,Tradicional,Pepperrock,Calabresa Especial,Super Premium,72.9
+416,Média,Tradicional,Pepperrock,Búfala La Bianca,Super Premium,72.9
+417,Média,Tradicional,Pepperrock,Bauru,Super Premium,72.9
+418,Média,Tradicional,Pepperrock,4 Queijos,Super Premium,72.9
+419,Média,Tradicional,Pepperrock,América,Super Premium,72.9
+420,Média,Tradicional,Pepperrock,Napolitana,Super Premium,72.9
+421,Média,Tradicional,Pepperrock,Presunto,Super Premium,72.9
+422,Média,Tradicional,Pepperrock,Pepperoni,Super Premium,72.9
+423,Média,Tradicional,Pepperrock,Margherita,Super Premium,72.9
+424,Média,Tradicional,Pepperrock,Pizza de Queijo,Super Premium,72.9
+425,Média,Tradicional,Pepperrock,Corn & Bacon,Super Premium,72.9
+426,Média,Tradicional,Pepperrock,Calabresa,Super Premium,72.9
+427,Média,Tradicional,Pepperrock,Frango com Requeijão,Super Premium,72.9
+428,Média,Tradicional,Pepperrock,3 Queijos,Super Premium,72.9
+429,Média,Tradicional,Frango Grelhado,Frango Grelhado,Super Premium,72.9
+430,Média,Tradicional,Frango Grelhado,Frango com Cream Cheese,Super Premium,72.9
+431,Média,Tradicional,Frango Grelhado,Egg & Bacon,Super Premium,72.9
+432,Média,Tradicional,Frango Grelhado,Catuperoni,Super Premium,72.9
+433,Média,Tradicional,Frango Grelhado,Calabresa Especial,Super Premium,72.9
+434,Média,Tradicional,Frango Grelhado,Búfala La Bianca,Super Premium,72.9
+435,Média,Tradicional,Frango Grelhado,Bauru,Super Premium,72.9
+436,Média,Tradicional,Frango Grelhado,4 Queijos,Super Premium,72.9
+437,Média,Tradicional,Frango Grelhado,América,Super Premium,72.9
+438,Média,Tradicional,Frango Grelhado,Napolitana,Super Premium,72.9
+439,Média,Tradicional,Frango Grelhado,Presunto,Super Premium,72.9
+440,Média,Tradicional,Frango Grelhado,Pepperoni,Super Premium,72.9
+441,Média,Tradicional,Frango Grelhado,Margherita,Super Premium,72.9
+442,Média,Tradicional,Frango Grelhado,Pizza de Queijo,Super Premium,72.9
+443,Média,Tradicional,Frango Grelhado,Corn & Bacon,Super Premium,72.9
+444,Média,Tradicional,Frango Grelhado,Calabresa,Super Premium,72.9
+445,Média,Tradicional,Frango Grelhado,Frango com Requeijão,Super Premium,72.9
+446,Média,Tradicional,Frango Grelhado,3 Queijos,Super Premium,72.9
+447,Média,Tradicional,Frango com Cream Cheese,Frango com Cream Cheese,Premium,66.9
+448,Média,Tradicional,Frango com Cream Cheese,Egg & Bacon,Premium,66.9
+449,Média,Tradicional,Frango com Cream Cheese,Catuperoni,Premium,66.9
+450,Média,Tradicional,Frango com Cream Cheese,Calabresa Especial,Premium,66.9
+451,Média,Tradicional,Frango com Cream Cheese,Búfala La Bianca,Premium,66.9
+452,Média,Tradicional,Frango com Cream Cheese,Bauru,Premium,66.9
+453,Média,Tradicional,Frango com Cream Cheese,4 Queijos,Premium,66.9
+454,Média,Tradicional,Frango com Cream Cheese,América,Premium,66.9
+455,Média,Tradicional,Frango com Cream Cheese,Napolitana,Premium,66.9
+456,Média,Tradicional,Frango com Cream Cheese,Presunto,Premium,66.9
+457,Média,Tradicional,Frango com Cream Cheese,Pepperoni,Premium,66.9
+458,Média,Tradicional,Frango com Cream Cheese,Margherita,Premium,66.9
+459,Média,Tradicional,Frango com Cream Cheese,Pizza de Queijo,Premium,66.9
+460,Média,Tradicional,Frango com Cream Cheese,Corn & Bacon,Premium,66.9
+461,Média,Tradicional,Frango com Cream Cheese,Calabresa,Premium,66.9
+462,Média,Tradicional,Frango com Cream Cheese,Frango com Requeijão,Premium,66.9
+463,Média,Tradicional,Frango com Cream Cheese,3 Queijos,Premium,66.9
+464,Média,Tradicional,Egg & Bacon,Egg & Bacon,Premium,66.9
+465,Média,Tradicional,Egg & Bacon,Catuperoni,Premium,66.9
+466,Média,Tradicional,Egg & Bacon,Calabresa Especial,Premium,66.9
+467,Média,Tradicional,Egg & Bacon,Búfala La Bianca,Premium,66.9
+468,Média,Tradicional,Egg & Bacon,Bauru,Premium,66.9
+469,Média,Tradicional,Egg & Bacon,4 Queijos,Premium,66.9
+470,Média,Tradicional,Egg & Bacon,América,Premium,66.9
+471,Média,Tradicional,Egg & Bacon,Napolitana,Premium,66.9
+472,Média,Tradicional,Egg & Bacon,Presunto,Premium,66.9
+473,Média,Tradicional,Egg & Bacon,Pepperoni,Premium,66.9
+474,Média,Tradicional,Egg & Bacon,Margherita,Premium,66.9
+475,Média,Tradicional,Egg & Bacon,Pizza de Queijo,Premium,66.9
+476,Média,Tradicional,Egg & Bacon,Corn & Bacon,Premium,66.9
+477,Média,Tradicional,Egg & Bacon,Calabresa,Premium,66.9
+478,Média,Tradicional,Egg & Bacon,Frango com Requeijão,Premium,66.9
+479,Média,Tradicional,Egg & Bacon,3 Queijos,Premium,66.9
+480,Média,Tradicional,Catuperoni,Catuperoni,Premium,66.9
+481,Média,Tradicional,Catuperoni,Calabresa Especial,Premium,66.9
+482,Média,Tradicional,Catuperoni,Búfala La Bianca,Premium,66.9
+483,Média,Tradicional,Catuperoni,Bauru,Premium,66.9
+484,Média,Tradicional,Catuperoni,4 Queijos,Premium,66.9
+485,Média,Tradicional,Catuperoni,América,Premium,66.9
+486,Média,Tradicional,Catuperoni,Napolitana,Premium,66.9
+487,Média,Tradicional,Catuperoni,Presunto,Premium,66.9
+488,Média,Tradicional,Catuperoni,Pepperoni,Premium,66.9
+489,Média,Tradicional,Catuperoni,Margherita,Premium,66.9
+490,Média,Tradicional,Catuperoni,Pizza de Queijo,Premium,66.9
+491,Média,Tradicional,Catuperoni,Corn & Bacon,Premium,66.9
+492,Média,Tradicional,Catuperoni,Calabresa,Premium,66.9
+493,Média,Tradicional,Catuperoni,Frango com Requeijão,Premium,66.9
+494,Média,Tradicional,Catuperoni,3 Queijos,Premium,66.9
+495,Média,Tradicional,Calabresa Especial,Calabresa Especial,Premium,66.9
+496,Média,Tradicional,Calabresa Especial,Búfala La Bianca,Premium,66.9
+497,Média,Tradicional,Calabresa Especial,Bauru,Premium,66.9
+498,Média,Tradicional,Calabresa Especial,4 Queijos,Premium,66.9
+499,Média,Tradicional,Calabresa Especial,América,Premium,66.9
+500,Média,Tradicional,Calabresa Especial,Napolitana,Premium,66.9
+501,Média,Tradicional,Calabresa Especial,Presunto,Premium,66.9
+502,Média,Tradicional,Calabresa Especial,Pepperoni,Premium,66.9
+503,Média,Tradicional,Calabresa Especial,Margherita,Premium,66.9
+504,Média,Tradicional,Calabresa Especial,Pizza de Queijo,Premium,66.9
+505,Média,Tradicional,Calabresa Especial,Corn & Bacon,Premium,66.9
+506,Média,Tradicional,Calabresa Especial,Calabresa,Premium,66.9
+507,Média,Tradicional,Calabresa Especial,Frango com Requeijão,Premium,66.9
+508,Média,Tradicional,Calabresa Especial,3 Queijos,Premium,66.9
+509,Média,Tradicional,Búfala La Bianca,Búfala La Bianca,Premium,66.9
+510,Média,Tradicional,Búfala La Bianca,Bauru,Premium,66.9
+511,Média,Tradicional,Búfala La Bianca,4 Queijos,Premium,66.9
+512,Média,Tradicional,Búfala La Bianca,América,Premium,66.9
+513,Média,Tradicional,Búfala La Bianca,Napolitana,Premium,66.9
+514,Média,Tradicional,Búfala La Bianca,Presunto,Premium,66.9
+515,Média,Tradicional,Búfala La Bianca,Pepperoni,Premium,66.9
+516,Média,Tradicional,Búfala La Bianca,Margherita,Premium,66.9
+517,Média,Tradicional,Búfala La Bianca,Pizza de Queijo,Premium,66.9
+518,Média,Tradicional,Búfala La Bianca,Corn & Bacon,Premium,66.9
+519,Média,Tradicional,Búfala La Bianca,Calabresa,Premium,66.9
+520,Média,Tradicional,Búfala La Bianca,Frango com Requeijão,Premium,66.9
+521,Média,Tradicional,Búfala La Bianca,3 Queijos,Premium,66.9
+522,Média,Tradicional,Bauru,Bauru,Premium,66.9
+523,Média,Tradicional,Bauru,4 Queijos,Premium,66.9
+524,Média,Tradicional,Bauru,América,Premium,66.9
+525,Média,Tradicional,Bauru,Napolitana,Premium,66.9
+526,Média,Tradicional,Bauru,Presunto,Premium,66.9
+527,Média,Tradicional,Bauru,Pepperoni,Premium,66.9
+528,Média,Tradicional,Bauru,Margherita,Premium,66.9
+529,Média,Tradicional,Bauru,Pizza de Queijo,Premium,66.9
+530,Média,Tradicional,Bauru,Corn & Bacon,Premium,66.9
+531,Média,Tradicional,Bauru,Calabresa,Premium,66.9
+532,Média,Tradicional,Bauru,Frango com Requeijão,Premium,66.9
+533,Média,Tradicional,Bauru,3 Queijos,Premium,66.9
+534,Média,Tradicional,4 Queijos,4 Queijos,Premium,66.9
+535,Média,Tradicional,4 Queijos,América,Premium,66.9
+536,Média,Tradicional,4 Queijos,Napolitana,Premium,66.9
+537,Média,Tradicional,4 Queijos,Presunto,Premium,66.9
+538,Média,Tradicional,4 Queijos,Pepperoni,Premium,66.9
+539,Média,Tradicional,4 Queijos,Margherita,Premium,66.9
+540,Média,Tradicional,4 Queijos,Pizza de Queijo,Premium,66.9
+541,Média,Tradicional,4 Queijos,Corn & Bacon,Premium,66.9
+542,Média,Tradicional,4 Queijos,Calabresa,Premium,66.9
+543,Média,Tradicional,4 Queijos,Frango com Requeijão,Premium,66.9
+544,Média,Tradicional,4 Queijos,3 Queijos,Premium,66.9
+545,Média,Tradicional,América,América,Premium,66.9
+546,Média,Tradicional,América,Napolitana,Premium,66.9
+547,Média,Tradicional,América,Presunto,Premium,66.9
+548,Média,Tradicional,América,Pepperoni,Premium,66.9
+549,Média,Tradicional,América,Margherita,Premium,66.9
+550,Média,Tradicional,América,Pizza de Queijo,Premium,66.9
+551,Média,Tradicional,América,Corn & Bacon,Premium,66.9
+552,Média,Tradicional,América,Calabresa,Premium,66.9
+553,Média,Tradicional,América,Frango com Requeijão,Premium,66.9
+554,Média,Tradicional,América,3 Queijos,Premium,66.9
+555,Média,Tradicional,Napolitana,Napolitana,Especialidade,60.9
+556,Média,Tradicional,Napolitana,Presunto,Especialidade,60.9
+557,Média,Tradicional,Napolitana,Pepperoni,Especialidade,60.9
+558,Média,Tradicional,Napolitana,Margherita,Especialidade,60.9
+559,Média,Tradicional,Napolitana,Pizza de Queijo,Especialidade,60.9
+560,Média,Tradicional,Napolitana,Corn & Bacon,Especialidade,60.9
+561,Média,Tradicional,Napolitana,Calabresa,Especialidade,60.9
+562,Média,Tradicional,Napolitana,Frango com Requeijão,Especialidade,60.9
+563,Média,Tradicional,Napolitana,3 Queijos,Especialidade,60.9
+564,Média,Tradicional,Presunto,Presunto,Especialidade,60.9
+565,Média,Tradicional,Presunto,Pepperoni,Especialidade,60.9
+566,Média,Tradicional,Presunto,Margherita,Especialidade,60.9
+567,Média,Tradicional,Presunto,Pizza de Queijo,Especialidade,60.9
+568,Média,Tradicional,Presunto,Corn & Bacon,Especialidade,60.9
+569,Média,Tradicional,Presunto,Calabresa,Especialidade,60.9
+570,Média,Tradicional,Presunto,Frango com Requeijão,Especialidade,60.9
+571,Média,Tradicional,Presunto,3 Queijos,Especialidade,60.9
+572,Média,Tradicional,Pepperoni,Pepperoni,Especialidade,60.9
+573,Média,Tradicional,Pepperoni,Margherita,Especialidade,60.9
+574,Média,Tradicional,Pepperoni,Pizza de Queijo,Especialidade,60.9
+575,Média,Tradicional,Pepperoni,Corn & Bacon,Especialidade,60.9
+576,Média,Tradicional,Pepperoni,Calabresa,Especialidade,60.9
+577,Média,Tradicional,Pepperoni,Frango com Requeijão,Especialidade,60.9
+578,Média,Tradicional,Pepperoni,3 Queijos,Especialidade,60.9
+579,Média,Tradicional,Margherita,Margherita,Especialidade,60.9
+580,Média,Tradicional,Margherita,Pizza de Queijo,Especialidade,60.9
+581,Média,Tradicional,Margherita,Corn & Bacon,Especialidade,60.9
+582,Média,Tradicional,Margherita,Calabresa,Especialidade,60.9
+583,Média,Tradicional,Margherita,Frango com Requeijão,Especialidade,60.9
+584,Média,Tradicional,Margherita,3 Queijos,Especialidade,60.9
+585,Média,Tradicional,Pizza de Queijo,Pizza de Queijo,Especialidade,60.9
+586,Média,Tradicional,Pizza de Queijo,Corn & Bacon,Especialidade,60.9
+587,Média,Tradicional,Pizza de Queijo,Calabresa,Especialidade,60.9
+588,Média,Tradicional,Pizza de Queijo,Frango com Requeijão,Especialidade,60.9
+589,Média,Tradicional,Pizza de Queijo,3 Queijos,Especialidade,60.9
+590,Média,Tradicional,Corn & Bacon,Corn & Bacon,Especialidade,60.9
+591,Média,Tradicional,Corn & Bacon,Calabresa,Especialidade,60.9
+592,Média,Tradicional,Corn & Bacon,Frango com Requeijão,Especialidade,60.9
+593,Média,Tradicional,Corn & Bacon,3 Queijos,Especialidade,60.9
+594,Média,Tradicional,Calabresa,Calabresa,Especialidade,60.9
+595,Média,Tradicional,Calabresa,Frango com Requeijão,Especialidade,60.9
+596,Média,Tradicional,Calabresa,3 Queijos,Especialidade,60.9
+597,Média,Tradicional,Frango com Requeijão,Frango com Requeijão,Especialidade,60.9
+598,Média,Tradicional,Frango com Requeijão,3 Queijos,Especialidade,60.9
+599,Média,Tradicional,3 Queijos,3 Queijos,Especialidade,60.9
+600,Grande,Tradicional,Frango com Barbecue,Frango com Barbecue,Super Premium,84.9
+601,Grande,Tradicional,Frango com Barbecue,Meat & Bacon,Super Premium,84.9
+602,Grande,Tradicional,Frango com Barbecue,Extravaganzza®,Super Premium,84.9
+603,Grande,Tradicional,Frango com Barbecue,Veggie®,Super Premium,84.9
+604,Grande,Tradicional,Frango com Barbecue,Portuguesa,Super Premium,84.9
+605,Grande,Tradicional,Frango com Barbecue,Pepperrock,Super Premium,84.9
+606,Grande,Tradicional,Frango com Barbecue,Frango Grelhado,Super Premium,84.9
+607,Grande,Tradicional,Frango com Barbecue,Frango com Cream Cheese,Super Premium,84.9
+608,Grande,Tradicional,Frango com Barbecue,Egg & Bacon,Super Premium,84.9
+609,Grande,Tradicional,Frango com Barbecue,Catuperoni,Super Premium,84.9
+610,Grande,Tradicional,Frango com Barbecue,Calabresa Especial,Super Premium,84.9
+611,Grande,Tradicional,Frango com Barbecue,Búfala La Bianca,Super Premium,84.9
+612,Grande,Tradicional,Frango com Barbecue,Bauru,Super Premium,84.9
+613,Grande,Tradicional,Frango com Barbecue,4 Queijos,Super Premium,84.9
+614,Grande,Tradicional,Frango com Barbecue,América,Super Premium,84.9
+615,Grande,Tradicional,Frango com Barbecue,Napolitana,Super Premium,84.9
+616,Grande,Tradicional,Frango com Barbecue,Presunto,Super Premium,84.9
+617,Grande,Tradicional,Frango com Barbecue,Pepperoni,Super Premium,84.9
+618,Grande,Tradicional,Frango com Barbecue,Margherita,Super Premium,84.9
+619,Grande,Tradicional,Frango com Barbecue,Pizza de Queijo,Super Premium,84.9
+620,Grande,Tradicional,Frango com Barbecue,Corn & Bacon,Super Premium,84.9
+621,Grande,Tradicional,Frango com Barbecue,Calabresa,Super Premium,84.9
+622,Grande,Tradicional,Frango com Barbecue,Frango com Requeijão,Super Premium,84.9
+623,Grande,Tradicional,Frango com Barbecue,3 Queijos,Super Premium,84.9
+624,Grande,Tradicional,Meat & Bacon,Meat & Bacon,Super Premium,84.9
+625,Grande,Tradicional,Meat & Bacon,Extravaganzza®,Super Premium,84.9
+626,Grande,Tradicional,Meat & Bacon,Veggie®,Super Premium,84.9
+627,Grande,Tradicional,Meat & Bacon,Portuguesa,Super Premium,84.9
+628,Grande,Tradicional,Meat & Bacon,Pepperrock,Super Premium,84.9
+629,Grande,Tradicional,Meat & Bacon,Frango Grelhado,Super Premium,84.9
+630,Grande,Tradicional,Meat & Bacon,Frango com Cream Cheese,Super Premium,84.9
+631,Grande,Tradicional,Meat & Bacon,Egg & Bacon,Super Premium,84.9
+632,Grande,Tradicional,Meat & Bacon,Catuperoni,Super Premium,84.9
+633,Grande,Tradicional,Meat & Bacon,Calabresa Especial,Super Premium,84.9
+634,Grande,Tradicional,Meat & Bacon,Búfala La Bianca,Super Premium,84.9
+635,Grande,Tradicional,Meat & Bacon,Bauru,Super Premium,84.9
+636,Grande,Tradicional,Meat & Bacon,4 Queijos,Super Premium,84.9
+637,Grande,Tradicional,Meat & Bacon,América,Super Premium,84.9
+638,Grande,Tradicional,Meat & Bacon,Napolitana,Super Premium,84.9
+639,Grande,Tradicional,Meat & Bacon,Presunto,Super Premium,84.9
+640,Grande,Tradicional,Meat & Bacon,Pepperoni,Super Premium,84.9
+641,Grande,Tradicional,Meat & Bacon,Margherita,Super Premium,84.9
+642,Grande,Tradicional,Meat & Bacon,Pizza de Queijo,Super Premium,84.9
+643,Grande,Tradicional,Meat & Bacon,Corn & Bacon,Super Premium,84.9
+644,Grande,Tradicional,Meat & Bacon,Calabresa,Super Premium,84.9
+645,Grande,Tradicional,Meat & Bacon,Frango com Requeijão,Super Premium,84.9
+646,Grande,Tradicional,Meat & Bacon,3 Queijos,Super Premium,84.9
+647,Grande,Tradicional,Extravaganzza®,Extravaganzza®,Super Premium,84.9
+648,Grande,Tradicional,Extravaganzza®,Veggie®,Super Premium,84.9
+649,Grande,Tradicional,Extravaganzza®,Portuguesa,Super Premium,84.9
+650,Grande,Tradicional,Extravaganzza®,Pepperrock,Super Premium,84.9
+651,Grande,Tradicional,Extravaganzza®,Frango Grelhado,Super Premium,84.9
+652,Grande,Tradicional,Extravaganzza®,Frango com Cream Cheese,Super Premium,84.9
+653,Grande,Tradicional,Extravaganzza®,Egg & Bacon,Super Premium,84.9
+654,Grande,Tradicional,Extravaganzza®,Catuperoni,Super Premium,84.9
+655,Grande,Tradicional,Extravaganzza®,Calabresa Especial,Super Premium,84.9
+656,Grande,Tradicional,Extravaganzza®,Búfala La Bianca,Super Premium,84.9
+657,Grande,Tradicional,Extravaganzza®,Bauru,Super Premium,84.9
+658,Grande,Tradicional,Extravaganzza®,4 Queijos,Super Premium,84.9
+659,Grande,Tradicional,Extravaganzza®,América,Super Premium,84.9
+660,Grande,Tradicional,Extravaganzza®,Napolitana,Super Premium,84.9
+661,Grande,Tradicional,Extravaganzza®,Presunto,Super Premium,84.9
+662,Grande,Tradicional,Extravaganzza®,Pepperoni,Super Premium,84.9
+663,Grande,Tradicional,Extravaganzza®,Margherita,Super Premium,84.9
+664,Grande,Tradicional,Extravaganzza®,Pizza de Queijo,Super Premium,84.9
+665,Grande,Tradicional,Extravaganzza®,Corn & Bacon,Super Premium,84.9
+666,Grande,Tradicional,Extravaganzza®,Calabresa,Super Premium,84.9
+667,Grande,Tradicional,Extravaganzza®,Frango com Requeijão,Super Premium,84.9
+668,Grande,Tradicional,Extravaganzza®,3 Queijos,Super Premium,84.9
+669,Grande,Tradicional,Veggie®,Veggie®,Super Premium,84.9
+670,Grande,Tradicional,Veggie®,Portuguesa,Super Premium,84.9
+671,Grande,Tradicional,Veggie®,Pepperrock,Super Premium,84.9
+672,Grande,Tradicional,Veggie®,Frango Grelhado,Super Premium,84.9
+673,Grande,Tradicional,Veggie®,Frango com Cream Cheese,Super Premium,84.9
+674,Grande,Tradicional,Veggie®,Egg & Bacon,Super Premium,84.9
+675,Grande,Tradicional,Veggie®,Catuperoni,Super Premium,84.9
+676,Grande,Tradicional,Veggie®,Calabresa Especial,Super Premium,84.9
+677,Grande,Tradicional,Veggie®,Búfala La Bianca,Super Premium,84.9
+678,Grande,Tradicional,Veggie®,Bauru,Super Premium,84.9
+679,Grande,Tradicional,Veggie®,4 Queijos,Super Premium,84.9
+680,Grande,Tradicional,Veggie®,América,Super Premium,84.9
+681,Grande,Tradicional,Veggie®,Napolitana,Super Premium,84.9
+682,Grande,Tradicional,Veggie®,Presunto,Super Premium,84.9
+683,Grande,Tradicional,Veggie®,Pepperoni,Super Premium,84.9
+684,Grande,Tradicional,Veggie®,Margherita,Super Premium,84.9
+685,Grande,Tradicional,Veggie®,Pizza de Queijo,Super Premium,84.9
+686,Grande,Tradicional,Veggie®,Corn & Bacon,Super Premium,84.9
+687,Grande,Tradicional,Veggie®,Calabresa,Super Premium,84.9
+688,Grande,Tradicional,Veggie®,Frango com Requeijão,Super Premium,84.9
+689,Grande,Tradicional,Veggie®,3 Queijos,Super Premium,84.9
+690,Grande,Tradicional,Portuguesa,Portuguesa,Super Premium,84.9
+691,Grande,Tradicional,Portuguesa,Pepperrock,Super Premium,84.9
+692,Grande,Tradicional,Portuguesa,Frango Grelhado,Super Premium,84.9
+693,Grande,Tradicional,Portuguesa,Frango com Cream Cheese,Super Premium,84.9
+694,Grande,Tradicional,Portuguesa,Egg & Bacon,Super Premium,84.9
+695,Grande,Tradicional,Portuguesa,Catuperoni,Super Premium,84.9
+696,Grande,Tradicional,Portuguesa,Calabresa Especial,Super Premium,84.9
+697,Grande,Tradicional,Portuguesa,Búfala La Bianca,Super Premium,84.9
+698,Grande,Tradicional,Portuguesa,Bauru,Super Premium,84.9
+699,Grande,Tradicional,Portuguesa,4 Queijos,Super Premium,84.9
+700,Grande,Tradicional,Portuguesa,América,Super Premium,84.9
+701,Grande,Tradicional,Portuguesa,Napolitana,Super Premium,84.9
+702,Grande,Tradicional,Portuguesa,Presunto,Super Premium,84.9
+703,Grande,Tradicional,Portuguesa,Pepperoni,Super Premium,84.9
+704,Grande,Tradicional,Portuguesa,Margherita,Super Premium,84.9
+705,Grande,Tradicional,Portuguesa,Pizza de Queijo,Super Premium,84.9
+706,Grande,Tradicional,Portuguesa,Corn & Bacon,Super Premium,84.9
+707,Grande,Tradicional,Portuguesa,Calabresa,Super Premium,84.9
+708,Grande,Tradicional,Portuguesa,Frango com Requeijão,Super Premium,84.9
+709,Grande,Tradicional,Portuguesa,3 Queijos,Super Premium,84.9
+710,Grande,Tradicional,Pepperrock,Pepperrock,Super Premium,84.9
+711,Grande,Tradicional,Pepperrock,Frango Grelhado,Super Premium,84.9
+712,Grande,Tradicional,Pepperrock,Frango com Cream Cheese,Super Premium,84.9
+713,Grande,Tradicional,Pepperrock,Egg & Bacon,Super Premium,84.9
+714,Grande,Tradicional,Pepperrock,Catuperoni,Super Premium,84.9
+715,Grande,Tradicional,Pepperrock,Calabresa Especial,Super Premium,84.9
+716,Grande,Tradicional,Pepperrock,Búfala La Bianca,Super Premium,84.9
+717,Grande,Tradicional,Pepperrock,Bauru,Super Premium,84.9
+718,Grande,Tradicional,Pepperrock,4 Queijos,Super Premium,84.9
+719,Grande,Tradicional,Pepperrock,América,Super Premium,84.9
+720,Grande,Tradicional,Pepperrock,Napolitana,Super Premium,84.9
+721,Grande,Tradicional,Pepperrock,Presunto,Super Premium,84.9
+722,Grande,Tradicional,Pepperrock,Pepperoni,Super Premium,84.9
+723,Grande,Tradicional,Pepperrock,Margherita,Super Premium,84.9
+724,Grande,Tradicional,Pepperrock,Pizza de Queijo,Super Premium,84.9
+725,Grande,Tradicional,Pepperrock,Corn & Bacon,Super Premium,84.9
+726,Grande,Tradicional,Pepperrock,Calabresa,Super Premium,84.9
+727,Grande,Tradicional,Pepperrock,Frango com Requeijão,Super Premium,84.9
+728,Grande,Tradicional,Pepperrock,3 Queijos,Super Premium,84.9
+729,Grande,Tradicional,Frango Grelhado,Frango Grelhado,Super Premium,84.9
+730,Grande,Tradicional,Frango Grelhado,Frango com Cream Cheese,Super Premium,84.9
+731,Grande,Tradicional,Frango Grelhado,Egg & Bacon,Super Premium,84.9
+732,Grande,Tradicional,Frango Grelhado,Catuperoni,Super Premium,84.9
+733,Grande,Tradicional,Frango Grelhado,Calabresa Especial,Super Premium,84.9
+734,Grande,Tradicional,Frango Grelhado,Búfala La Bianca,Super Premium,84.9
+735,Grande,Tradicional,Frango Grelhado,Bauru,Super Premium,84.9
+736,Grande,Tradicional,Frango Grelhado,4 Queijos,Super Premium,84.9
+737,Grande,Tradicional,Frango Grelhado,América,Super Premium,84.9
+738,Grande,Tradicional,Frango Grelhado,Napolitana,Super Premium,84.9
+739,Grande,Tradicional,Frango Grelhado,Presunto,Super Premium,84.9
+740,Grande,Tradicional,Frango Grelhado,Pepperoni,Super Premium,84.9
+741,Grande,Tradicional,Frango Grelhado,Margherita,Super Premium,84.9
+742,Grande,Tradicional,Frango Grelhado,Pizza de Queijo,Super Premium,84.9
+743,Grande,Tradicional,Frango Grelhado,Corn & Bacon,Super Premium,84.9
+744,Grande,Tradicional,Frango Grelhado,Calabresa,Super Premium,84.9
+745,Grande,Tradicional,Frango Grelhado,Frango com Requeijão,Super Premium,84.9
+746,Grande,Tradicional,Frango Grelhado,3 Queijos,Super Premium,84.9
+747,Grande,Tradicional,Frango com Cream Cheese,Frango com Cream Cheese,Premium,77.9
+748,Grande,Tradicional,Frango com Cream Cheese,Egg & Bacon,Premium,77.9
+749,Grande,Tradicional,Frango com Cream Cheese,Catuperoni,Premium,77.9
+750,Grande,Tradicional,Frango com Cream Cheese,Calabresa Especial,Premium,77.9
+751,Grande,Tradicional,Frango com Cream Cheese,Búfala La Bianca,Premium,77.9
+752,Grande,Tradicional,Frango com Cream Cheese,Bauru,Premium,77.9
+753,Grande,Tradicional,Frango com Cream Cheese,4 Queijos,Premium,77.9
+754,Grande,Tradicional,Frango com Cream Cheese,América,Premium,77.9
+755,Grande,Tradicional,Frango com Cream Cheese,Napolitana,Premium,77.9
+756,Grande,Tradicional,Frango com Cream Cheese,Presunto,Premium,77.9
+757,Grande,Tradicional,Frango com Cream Cheese,Pepperoni,Premium,77.9
+758,Grande,Tradicional,Frango com Cream Cheese,Margherita,Premium,77.9
+759,Grande,Tradicional,Frango com Cream Cheese,Pizza de Queijo,Premium,77.9
+760,Grande,Tradicional,Frango com Cream Cheese,Corn & Bacon,Premium,77.9
+761,Grande,Tradicional,Frango com Cream Cheese,Calabresa,Premium,77.9
+762,Grande,Tradicional,Frango com Cream Cheese,Frango com Requeijão,Premium,77.9
+763,Grande,Tradicional,Frango com Cream Cheese,3 Queijos,Premium,77.9
+764,Grande,Tradicional,Egg & Bacon,Egg & Bacon,Premium,77.9
+765,Grande,Tradicional,Egg & Bacon,Catuperoni,Premium,77.9
+766,Grande,Tradicional,Egg & Bacon,Calabresa Especial,Premium,77.9
+767,Grande,Tradicional,Egg & Bacon,Búfala La Bianca,Premium,77.9
+768,Grande,Tradicional,Egg & Bacon,Bauru,Premium,77.9
+769,Grande,Tradicional,Egg & Bacon,4 Queijos,Premium,77.9
+770,Grande,Tradicional,Egg & Bacon,América,Premium,77.9
+771,Grande,Tradicional,Egg & Bacon,Napolitana,Premium,77.9
+772,Grande,Tradicional,Egg & Bacon,Presunto,Premium,77.9
+773,Grande,Tradicional,Egg & Bacon,Pepperoni,Premium,77.9
+774,Grande,Tradicional,Egg & Bacon,Margherita,Premium,77.9
+775,Grande,Tradicional,Egg & Bacon,Pizza de Queijo,Premium,77.9
+776,Grande,Tradicional,Egg & Bacon,Corn & Bacon,Premium,77.9
+777,Grande,Tradicional,Egg & Bacon,Calabresa,Premium,77.9
+778,Grande,Tradicional,Egg & Bacon,Frango com Requeijão,Premium,77.9
+779,Grande,Tradicional,Egg & Bacon,3 Queijos,Premium,77.9
+780,Grande,Tradicional,Catuperoni,Catuperoni,Premium,77.9
+781,Grande,Tradicional,Catuperoni,Calabresa Especial,Premium,77.9
+782,Grande,Tradicional,Catuperoni,Búfala La Bianca,Premium,77.9
+783,Grande,Tradicional,Catuperoni,Bauru,Premium,77.9
+784,Grande,Tradicional,Catuperoni,4 Queijos,Premium,77.9
+785,Grande,Tradicional,Catuperoni,América,Premium,77.9
+786,Grande,Tradicional,Catuperoni,Napolitana,Premium,77.9
+787,Grande,Tradicional,Catuperoni,Presunto,Premium,77.9
+788,Grande,Tradicional,Catuperoni,Pepperoni,Premium,77.9
+789,Grande,Tradicional,Catuperoni,Margherita,Premium,77.9
+790,Grande,Tradicional,Catuperoni,Pizza de Queijo,Premium,77.9
+791,Grande,Tradicional,Catuperoni,Corn & Bacon,Premium,77.9
+792,Grande,Tradicional,Catuperoni,Calabresa,Premium,77.9
+793,Grande,Tradicional,Catuperoni,Frango com Requeijão,Premium,77.9
+794,Grande,Tradicional,Catuperoni,3 Queijos,Premium,77.9
+795,Grande,Tradicional,Calabresa Especial,Calabresa Especial,Premium,77.9
+796,Grande,Tradicional,Calabresa Especial,Búfala La Bianca,Premium,77.9
+797,Grande,Tradicional,Calabresa Especial,Bauru,Premium,77.9
+798,Grande,Tradicional,Calabresa Especial,4 Queijos,Premium,77.9
+799,Grande,Tradicional,Calabresa Especial,América,Premium,77.9
+800,Grande,Tradicional,Calabresa Especial,Napolitana,Premium,77.9
+801,Grande,Tradicional,Calabresa Especial,Presunto,Premium,77.9
+802,Grande,Tradicional,Calabresa Especial,Pepperoni,Premium,77.9
+803,Grande,Tradicional,Calabresa Especial,Margherita,Premium,77.9
+804,Grande,Tradicional,Calabresa Especial,Pizza de Queijo,Premium,77.9
+805,Grande,Tradicional,Calabresa Especial,Corn & Bacon,Premium,77.9
+806,Grande,Tradicional,Calabresa Especial,Calabresa,Premium,77.9
+807,Grande,Tradicional,Calabresa Especial,Frango com Requeijão,Premium,77.9
+808,Grande,Tradicional,Calabresa Especial,3 Queijos,Premium,77.9
+809,Grande,Tradicional,Búfala La Bianca,Búfala La Bianca,Premium,77.9
+810,Grande,Tradicional,Búfala La Bianca,Bauru,Premium,77.9
+811,Grande,Tradicional,Búfala La Bianca,4 Queijos,Premium,77.9
+812,Grande,Tradicional,Búfala La Bianca,América,Premium,77.9
+813,Grande,Tradicional,Búfala La Bianca,Napolitana,Premium,77.9
+814,Grande,Tradicional,Búfala La Bianca,Presunto,Premium,77.9
+815,Grande,Tradicional,Búfala La Bianca,Pepperoni,Premium,77.9
+816,Grande,Tradicional,Búfala La Bianca,Margherita,Premium,77.9
+817,Grande,Tradicional,Búfala La Bianca,Pizza de Queijo,Premium,77.9
+818,Grande,Tradicional,Búfala La Bianca,Corn & Bacon,Premium,77.9
+819,Grande,Tradicional,Búfala La Bianca,Calabresa,Premium,77.9
+820,Grande,Tradicional,Búfala La Bianca,Frango com Requeijão,Premium,77.9
+821,Grande,Tradicional,Búfala La Bianca,3 Queijos,Premium,77.9
+822,Grande,Tradicional,Bauru,Bauru,Premium,77.9
+823,Grande,Tradicional,Bauru,4 Queijos,Premium,77.9
+824,Grande,Tradicional,Bauru,América,Premium,77.9
+825,Grande,Tradicional,Bauru,Napolitana,Premium,77.9
+826,Grande,Tradicional,Bauru,Presunto,Premium,77.9
+827,Grande,Tradicional,Bauru,Pepperoni,Premium,77.9
+828,Grande,Tradicional,Bauru,Margherita,Premium,77.9
+829,Grande,Tradicional,Bauru,Pizza de Queijo,Premium,77.9
+830,Grande,Tradicional,Bauru,Corn & Bacon,Premium,77.9
+831,Grande,Tradicional,Bauru,Calabresa,Premium,77.9
+832,Grande,Tradicional,Bauru,Frango com Requeijão,Premium,77.9
+833,Grande,Tradicional,Bauru,3 Queijos,Premium,77.9
+834,Grande,Tradicional,4 Queijos,4 Queijos,Premium,77.9
+835,Grande,Tradicional,4 Queijos,América,Premium,77.9
+836,Grande,Tradicional,4 Queijos,Napolitana,Premium,77.9
+837,Grande,Tradicional,4 Queijos,Presunto,Premium,77.9
+838,Grande,Tradicional,4 Queijos,Pepperoni,Premium,77.9
+839,Grande,Tradicional,4 Queijos,Margherita,Premium,77.9
+840,Grande,Tradicional,4 Queijos,Pizza de Queijo,Premium,77.9
+841,Grande,Tradicional,4 Queijos,Corn & Bacon,Premium,77.9
+842,Grande,Tradicional,4 Queijos,Calabresa,Premium,77.9
+843,Grande,Tradicional,4 Queijos,Frango com Requeijão,Premium,77.9
+844,Grande,Tradicional,4 Queijos,3 Queijos,Premium,77.9
+845,Grande,Tradicional,América,América,Premium,77.9
+846,Grande,Tradicional,América,Napolitana,Premium,77.9
+847,Grande,Tradicional,América,Presunto,Premium,77.9
+848,Grande,Tradicional,América,Pepperoni,Premium,77.9
+849,Grande,Tradicional,América,Margherita,Premium,77.9
+850,Grande,Tradicional,América,Pizza de Queijo,Premium,77.9
+851,Grande,Tradicional,América,Corn & Bacon,Premium,77.9
+852,Grande,Tradicional,América,Calabresa,Premium,77.9
+853,Grande,Tradicional,América,Frango com Requeijão,Premium,77.9
+854,Grande,Tradicional,América,3 Queijos,Premium,77.9
+855,Grande,Tradicional,Napolitana,Napolitana,Especialidade,70.9
+856,Grande,Tradicional,Napolitana,Presunto,Especialidade,70.9
+857,Grande,Tradicional,Napolitana,Pepperoni,Especialidade,70.9
+858,Grande,Tradicional,Napolitana,Margherita,Especialidade,70.9
+859,Grande,Tradicional,Napolitana,Pizza de Queijo,Especialidade,70.9
+860,Grande,Tradicional,Napolitana,Corn & Bacon,Especialidade,70.9
+861,Grande,Tradicional,Napolitana,Calabresa,Especialidade,70.9
+862,Grande,Tradicional,Napolitana,Frango com Requeijão,Especialidade,70.9
+863,Grande,Tradicional,Napolitana,3 Queijos,Especialidade,70.9
+864,Grande,Tradicional,Presunto,Presunto,Especialidade,70.9
+865,Grande,Tradicional,Presunto,Pepperoni,Especialidade,70.9
+866,Grande,Tradicional,Presunto,Margherita,Especialidade,70.9
+867,Grande,Tradicional,Presunto,Pizza de Queijo,Especialidade,70.9
+868,Grande,Tradicional,Presunto,Corn & Bacon,Especialidade,70.9
+869,Grande,Tradicional,Presunto,Calabresa,Especialidade,70.9
+870,Grande,Tradicional,Presunto,Frango com Requeijão,Especialidade,70.9
+871,Grande,Tradicional,Presunto,3 Queijos,Especialidade,70.9
+872,Grande,Tradicional,Pepperoni,Pepperoni,Especialidade,70.9
+873,Grande,Tradicional,Pepperoni,Margherita,Especialidade,70.9
+874,Grande,Tradicional,Pepperoni,Pizza de Queijo,Especialidade,70.9
+875,Grande,Tradicional,Pepperoni,Corn & Bacon,Especialidade,70.9
+876,Grande,Tradicional,Pepperoni,Calabresa,Especialidade,70.9
+877,Grande,Tradicional,Pepperoni,Frango com Requeijão,Especialidade,70.9
+878,Grande,Tradicional,Pepperoni,3 Queijos,Especialidade,70.9
+879,Grande,Tradicional,Margherita,Margherita,Especialidade,70.9
+880,Grande,Tradicional,Margherita,Pizza de Queijo,Especialidade,70.9
+881,Grande,Tradicional,Margherita,Corn & Bacon,Especialidade,70.9
+882,Grande,Tradicional,Margherita,Calabresa,Especialidade,70.9
+883,Grande,Tradicional,Margherita,Frango com Requeijão,Especialidade,70.9
+884,Grande,Tradicional,Margherita,3 Queijos,Especialidade,70.9
+885,Grande,Tradicional,Pizza de Queijo,Pizza de Queijo,Especialidade,70.9
+886,Grande,Tradicional,Pizza de Queijo,Corn & Bacon,Especialidade,70.9
+887,Grande,Tradicional,Pizza de Queijo,Calabresa,Especialidade,70.9
+888,Grande,Tradicional,Pizza de Queijo,Frango com Requeijão,Especialidade,70.9
+889,Grande,Tradicional,Pizza de Queijo,3 Queijos,Especialidade,70.9
+890,Grande,Tradicional,Corn & Bacon,Corn & Bacon,Especialidade,70.9
+891,Grande,Tradicional,Corn & Bacon,Calabresa,Especialidade,70.9
+892,Grande,Tradicional,Corn & Bacon,Frango com Requeijão,Especialidade,70.9
+893,Grande,Tradicional,Corn & Bacon,3 Queijos,Especialidade,70.9
+894,Grande,Tradicional,Calabresa,Calabresa,Especialidade,70.9
+895,Grande,Tradicional,Calabresa,Frango com Requeijão,Especialidade,70.9
+896,Grande,Tradicional,Calabresa,3 Queijos,Especialidade,70.9
+897,Grande,Tradicional,Frango com Requeijão,Frango com Requeijão,Especialidade,70.9
+898,Grande,Tradicional,Frango com Requeijão,3 Queijos,Especialidade,70.9
+899,Grande,Tradicional,3 Queijos,3 Queijos,Especialidade,70.9
+900,Giga,Tradicional,Frango com Barbecue,Frango com Barbecue,Super Premium,93.9
+901,Giga,Tradicional,Frango com Barbecue,Meat & Bacon,Super Premium,93.9
+902,Giga,Tradicional,Frango com Barbecue,Extravaganzza®,Super Premium,93.9
+903,Giga,Tradicional,Frango com Barbecue,Veggie®,Super Premium,93.9
+904,Giga,Tradicional,Frango com Barbecue,Portuguesa,Super Premium,93.9
+905,Giga,Tradicional,Frango com Barbecue,Pepperrock,Super Premium,93.9
+906,Giga,Tradicional,Frango com Barbecue,Frango Grelhado,Super Premium,93.9
+907,Giga,Tradicional,Frango com Barbecue,Frango com Cream Cheese,Super Premium,93.9
+908,Giga,Tradicional,Frango com Barbecue,Egg & Bacon,Super Premium,93.9
+909,Giga,Tradicional,Frango com Barbecue,Catuperoni,Super Premium,93.9
+910,Giga,Tradicional,Frango com Barbecue,Calabresa Especial,Super Premium,93.9
+911,Giga,Tradicional,Frango com Barbecue,Búfala La Bianca,Super Premium,93.9
+912,Giga,Tradicional,Frango com Barbecue,Bauru,Super Premium,93.9
+913,Giga,Tradicional,Frango com Barbecue,4 Queijos,Super Premium,93.9
+914,Giga,Tradicional,Frango com Barbecue,América,Super Premium,93.9
+915,Giga,Tradicional,Frango com Barbecue,Napolitana,Super Premium,93.9
+916,Giga,Tradicional,Frango com Barbecue,Presunto,Super Premium,93.9
+917,Giga,Tradicional,Frango com Barbecue,Pepperoni,Super Premium,93.9
+918,Giga,Tradicional,Frango com Barbecue,Margherita,Super Premium,93.9
+919,Giga,Tradicional,Frango com Barbecue,Pizza de Queijo,Super Premium,93.9
+920,Giga,Tradicional,Frango com Barbecue,Corn & Bacon,Super Premium,93.9
+921,Giga,Tradicional,Frango com Barbecue,Calabresa,Super Premium,93.9
+922,Giga,Tradicional,Frango com Barbecue,Frango com Requeijão,Super Premium,93.9
+923,Giga,Tradicional,Frango com Barbecue,3 Queijos,Super Premium,93.9
+924,Giga,Tradicional,Meat & Bacon,Meat & Bacon,Super Premium,93.9
+925,Giga,Tradicional,Meat & Bacon,Extravaganzza®,Super Premium,93.9
+926,Giga,Tradicional,Meat & Bacon,Veggie®,Super Premium,93.9
+927,Giga,Tradicional,Meat & Bacon,Portuguesa,Super Premium,93.9
+928,Giga,Tradicional,Meat & Bacon,Pepperrock,Super Premium,93.9
+929,Giga,Tradicional,Meat & Bacon,Frango Grelhado,Super Premium,93.9
+930,Giga,Tradicional,Meat & Bacon,Frango com Cream Cheese,Super Premium,93.9
+931,Giga,Tradicional,Meat & Bacon,Egg & Bacon,Super Premium,93.9
+932,Giga,Tradicional,Meat & Bacon,Catuperoni,Super Premium,93.9
+933,Giga,Tradicional,Meat & Bacon,Calabresa Especial,Super Premium,93.9
+934,Giga,Tradicional,Meat & Bacon,Búfala La Bianca,Super Premium,93.9
+935,Giga,Tradicional,Meat & Bacon,Bauru,Super Premium,93.9
+936,Giga,Tradicional,Meat & Bacon,4 Queijos,Super Premium,93.9
+937,Giga,Tradicional,Meat & Bacon,América,Super Premium,93.9
+938,Giga,Tradicional,Meat & Bacon,Napolitana,Super Premium,93.9
+939,Giga,Tradicional,Meat & Bacon,Presunto,Super Premium,93.9
+940,Giga,Tradicional,Meat & Bacon,Pepperoni,Super Premium,93.9
+941,Giga,Tradicional,Meat & Bacon,Margherita,Super Premium,93.9
+942,Giga,Tradicional,Meat & Bacon,Pizza de Queijo,Super Premium,93.9
+943,Giga,Tradicional,Meat & Bacon,Corn & Bacon,Super Premium,93.9
+944,Giga,Tradicional,Meat & Bacon,Calabresa,Super Premium,93.9
+945,Giga,Tradicional,Meat & Bacon,Frango com Requeijão,Super Premium,93.9
+946,Giga,Tradicional,Meat & Bacon,3 Queijos,Super Premium,93.9
+947,Giga,Tradicional,Extravaganzza®,Extravaganzza®,Super Premium,93.9
+948,Giga,Tradicional,Extravaganzza®,Veggie®,Super Premium,93.9
+949,Giga,Tradicional,Extravaganzza®,Portuguesa,Super Premium,93.9
+950,Giga,Tradicional,Extravaganzza®,Pepperrock,Super Premium,93.9
+951,Giga,Tradicional,Extravaganzza®,Frango Grelhado,Super Premium,93.9
+952,Giga,Tradicional,Extravaganzza®,Frango com Cream Cheese,Super Premium,93.9
+953,Giga,Tradicional,Extravaganzza®,Egg & Bacon,Super Premium,93.9
+954,Giga,Tradicional,Extravaganzza®,Catuperoni,Super Premium,93.9
+955,Giga,Tradicional,Extravaganzza®,Calabresa Especial,Super Premium,93.9
+956,Giga,Tradicional,Extravaganzza®,Búfala La Bianca,Super Premium,93.9
+957,Giga,Tradicional,Extravaganzza®,Bauru,Super Premium,93.9
+958,Giga,Tradicional,Extravaganzza®,4 Queijos,Super Premium,93.9
+959,Giga,Tradicional,Extravaganzza®,América,Super Premium,93.9
+960,Giga,Tradicional,Extravaganzza®,Napolitana,Super Premium,93.9
+961,Giga,Tradicional,Extravaganzza®,Presunto,Super Premium,93.9
+962,Giga,Tradicional,Extravaganzza®,Pepperoni,Super Premium,93.9
+963,Giga,Tradicional,Extravaganzza®,Margherita,Super Premium,93.9
+964,Giga,Tradicional,Extravaganzza®,Pizza de Queijo,Super Premium,93.9
+965,Giga,Tradicional,Extravaganzza®,Corn & Bacon,Super Premium,93.9
+966,Giga,Tradicional,Extravaganzza®,Calabresa,Super Premium,93.9
+967,Giga,Tradicional,Extravaganzza®,Frango com Requeijão,Super Premium,93.9
+968,Giga,Tradicional,Extravaganzza®,3 Queijos,Super Premium,93.9
+969,Giga,Tradicional,Veggie®,Veggie®,Super Premium,93.9
+970,Giga,Tradicional,Veggie®,Portuguesa,Super Premium,93.9
+971,Giga,Tradicional,Veggie®,Pepperrock,Super Premium,93.9
+972,Giga,Tradicional,Veggie®,Frango Grelhado,Super Premium,93.9
+973,Giga,Tradicional,Veggie®,Frango com Cream Cheese,Super Premium,93.9
+974,Giga,Tradicional,Veggie®,Egg & Bacon,Super Premium,93.9
+975,Giga,Tradicional,Veggie®,Catuperoni,Super Premium,93.9
+976,Giga,Tradicional,Veggie®,Calabresa Especial,Super Premium,93.9
+977,Giga,Tradicional,Veggie®,Búfala La Bianca,Super Premium,93.9
+978,Giga,Tradicional,Veggie®,Bauru,Super Premium,93.9
+979,Giga,Tradicional,Veggie®,4 Queijos,Super Premium,93.9
+980,Giga,Tradicional,Veggie®,América,Super Premium,93.9
+981,Giga,Tradicional,Veggie®,Napolitana,Super Premium,93.9
+982,Giga,Tradicional,Veggie®,Presunto,Super Premium,93.9
+983,Giga,Tradicional,Veggie®,Pepperoni,Super Premium,93.9
+984,Giga,Tradicional,Veggie®,Margherita,Super Premium,93.9
+985,Giga,Tradicional,Veggie®,Pizza de Queijo,Super Premium,93.9
+986,Giga,Tradicional,Veggie®,Corn & Bacon,Super Premium,93.9
+987,Giga,Tradicional,Veggie®,Calabresa,Super Premium,93.9
+988,Giga,Tradicional,Veggie®,Frango com Requeijão,Super Premium,93.9
+989,Giga,Tradicional,Veggie®,3 Queijos,Super Premium,93.9
+990,Giga,Tradicional,Portuguesa,Portuguesa,Super Premium,93.9
+991,Giga,Tradicional,Portuguesa,Pepperrock,Super Premium,93.9
+992,Giga,Tradicional,Portuguesa,Frango Grelhado,Super Premium,93.9
+993,Giga,Tradicional,Portuguesa,Frango com Cream Cheese,Super Premium,93.9
+994,Giga,Tradicional,Portuguesa,Egg & Bacon,Super Premium,93.9
+995,Giga,Tradicional,Portuguesa,Catuperoni,Super Premium,93.9
+996,Giga,Tradicional,Portuguesa,Calabresa Especial,Super Premium,93.9
+997,Giga,Tradicional,Portuguesa,Búfala La Bianca,Super Premium,93.9
+998,Giga,Tradicional,Portuguesa,Bauru,Super Premium,93.9
+999,Giga,Tradicional,Portuguesa,4 Queijos,Super Premium,93.9
+1000,Giga,Tradicional,Portuguesa,América,Super Premium,93.9
+1001,Giga,Tradicional,Portuguesa,Napolitana,Super Premium,93.9
+1002,Giga,Tradicional,Portuguesa,Presunto,Super Premium,93.9
+1003,Giga,Tradicional,Portuguesa,Pepperoni,Super Premium,93.9
+1004,Giga,Tradicional,Portuguesa,Margherita,Super Premium,93.9
+1005,Giga,Tradicional,Portuguesa,Pizza de Queijo,Super Premium,93.9
+1006,Giga,Tradicional,Portuguesa,Corn & Bacon,Super Premium,93.9
+1007,Giga,Tradicional,Portuguesa,Calabresa,Super Premium,93.9
+1008,Giga,Tradicional,Portuguesa,Frango com Requeijão,Super Premium,93.9
+1009,Giga,Tradicional,Portuguesa,3 Queijos,Super Premium,93.9
+1010,Giga,Tradicional,Pepperrock,Pepperrock,Super Premium,93.9
+1011,Giga,Tradicional,Pepperrock,Frango Grelhado,Super Premium,93.9
+1012,Giga,Tradicional,Pepperrock,Frango com Cream Cheese,Super Premium,93.9
+1013,Giga,Tradicional,Pepperrock,Egg & Bacon,Super Premium,93.9
+1014,Giga,Tradicional,Pepperrock,Catuperoni,Super Premium,93.9
+1015,Giga,Tradicional,Pepperrock,Calabresa Especial,Super Premium,93.9
+1016,Giga,Tradicional,Pepperrock,Búfala La Bianca,Super Premium,93.9
+1017,Giga,Tradicional,Pepperrock,Bauru,Super Premium,93.9
+1018,Giga,Tradicional,Pepperrock,4 Queijos,Super Premium,93.9
+1019,Giga,Tradicional,Pepperrock,América,Super Premium,93.9
+1020,Giga,Tradicional,Pepperrock,Napolitana,Super Premium,93.9
+1021,Giga,Tradicional,Pepperrock,Presunto,Super Premium,93.9
+1022,Giga,Tradicional,Pepperrock,Pepperoni,Super Premium,93.9
+1023,Giga,Tradicional,Pepperrock,Margherita,Super Premium,93.9
+1024,Giga,Tradicional,Pepperrock,Pizza de Queijo,Super Premium,93.9
+1025,Giga,Tradicional,Pepperrock,Corn & Bacon,Super Premium,93.9
+1026,Giga,Tradicional,Pepperrock,Calabresa,Super Premium,93.9
+1027,Giga,Tradicional,Pepperrock,Frango com Requeijão,Super Premium,93.9
+1028,Giga,Tradicional,Pepperrock,3 Queijos,Super Premium,93.9
+1029,Giga,Tradicional,Frango Grelhado,Frango Grelhado,Super Premium,93.9
+1030,Giga,Tradicional,Frango Grelhado,Frango com Cream Cheese,Super Premium,93.9
+1031,Giga,Tradicional,Frango Grelhado,Egg & Bacon,Super Premium,93.9
+1032,Giga,Tradicional,Frango Grelhado,Catuperoni,Super Premium,93.9
+1033,Giga,Tradicional,Frango Grelhado,Calabresa Especial,Super Premium,93.9
+1034,Giga,Tradicional,Frango Grelhado,Búfala La Bianca,Super Premium,93.9
+1035,Giga,Tradicional,Frango Grelhado,Bauru,Super Premium,93.9
+1036,Giga,Tradicional,Frango Grelhado,4 Queijos,Super Premium,93.9
+1037,Giga,Tradicional,Frango Grelhado,América,Super Premium,93.9
+1038,Giga,Tradicional,Frango Grelhado,Napolitana,Super Premium,93.9
+1039,Giga,Tradicional,Frango Grelhado,Presunto,Super Premium,93.9
+1040,Giga,Tradicional,Frango Grelhado,Pepperoni,Super Premium,93.9
+1041,Giga,Tradicional,Frango Grelhado,Margherita,Super Premium,93.9
+1042,Giga,Tradicional,Frango Grelhado,Pizza de Queijo,Super Premium,93.9
+1043,Giga,Tradicional,Frango Grelhado,Corn & Bacon,Super Premium,93.9
+1044,Giga,Tradicional,Frango Grelhado,Calabresa,Super Premium,93.9
+1045,Giga,Tradicional,Frango Grelhado,Frango com Requeijão,Super Premium,93.9
+1046,Giga,Tradicional,Frango Grelhado,3 Queijos,Super Premium,93.9
+1047,Giga,Tradicional,Frango com Cream Cheese,Frango com Cream Cheese,Premium,85.9
+1048,Giga,Tradicional,Frango com Cream Cheese,Egg & Bacon,Premium,85.9
+1049,Giga,Tradicional,Frango com Cream Cheese,Catuperoni,Premium,85.9
+1050,Giga,Tradicional,Frango com Cream Cheese,Calabresa Especial,Premium,85.9
+1051,Giga,Tradicional,Frango com Cream Cheese,Búfala La Bianca,Premium,85.9
+1052,Giga,Tradicional,Frango com Cream Cheese,Bauru,Premium,85.9
+1053,Giga,Tradicional,Frango com Cream Cheese,4 Queijos,Premium,85.9
+1054,Giga,Tradicional,Frango com Cream Cheese,América,Premium,85.9
+1055,Giga,Tradicional,Frango com Cream Cheese,Napolitana,Premium,85.9
+1056,Giga,Tradicional,Frango com Cream Cheese,Presunto,Premium,85.9
+1057,Giga,Tradicional,Frango com Cream Cheese,Pepperoni,Premium,85.9
+1058,Giga,Tradicional,Frango com Cream Cheese,Margherita,Premium,85.9
+1059,Giga,Tradicional,Frango com Cream Cheese,Pizza de Queijo,Premium,85.9
+1060,Giga,Tradicional,Frango com Cream Cheese,Corn & Bacon,Premium,85.9
+1061,Giga,Tradicional,Frango com Cream Cheese,Calabresa,Premium,85.9
+1062,Giga,Tradicional,Frango com Cream Cheese,Frango com Requeijão,Premium,85.9
+1063,Giga,Tradicional,Frango com Cream Cheese,3 Queijos,Premium,85.9
+1064,Giga,Tradicional,Egg & Bacon,Egg & Bacon,Premium,85.9
+1065,Giga,Tradicional,Egg & Bacon,Catuperoni,Premium,85.9
+1066,Giga,Tradicional,Egg & Bacon,Calabresa Especial,Premium,85.9
+1067,Giga,Tradicional,Egg & Bacon,Búfala La Bianca,Premium,85.9
+1068,Giga,Tradicional,Egg & Bacon,Bauru,Premium,85.9
+1069,Giga,Tradicional,Egg & Bacon,4 Queijos,Premium,85.9
+1070,Giga,Tradicional,Egg & Bacon,América,Premium,85.9
+1071,Giga,Tradicional,Egg & Bacon,Napolitana,Premium,85.9
+1072,Giga,Tradicional,Egg & Bacon,Presunto,Premium,85.9
+1073,Giga,Tradicional,Egg & Bacon,Pepperoni,Premium,85.9
+1074,Giga,Tradicional,Egg & Bacon,Margherita,Premium,85.9
+1075,Giga,Tradicional,Egg & Bacon,Pizza de Queijo,Premium,85.9
+1076,Giga,Tradicional,Egg & Bacon,Corn & Bacon,Premium,85.9
+1077,Giga,Tradicional,Egg & Bacon,Calabresa,Premium,85.9
+1078,Giga,Tradicional,Egg & Bacon,Frango com Requeijão,Premium,85.9
+1079,Giga,Tradicional,Egg & Bacon,3 Queijos,Premium,85.9
+1080,Giga,Tradicional,Catuperoni,Catuperoni,Premium,85.9
+1081,Giga,Tradicional,Catuperoni,Calabresa Especial,Premium,85.9
+1082,Giga,Tradicional,Catuperoni,Búfala La Bianca,Premium,85.9
+1083,Giga,Tradicional,Catuperoni,Bauru,Premium,85.9
+1084,Giga,Tradicional,Catuperoni,4 Queijos,Premium,85.9
+1085,Giga,Tradicional,Catuperoni,América,Premium,85.9
+1086,Giga,Tradicional,Catuperoni,Napolitana,Premium,85.9
+1087,Giga,Tradicional,Catuperoni,Presunto,Premium,85.9
+1088,Giga,Tradicional,Catuperoni,Pepperoni,Premium,85.9
+1089,Giga,Tradicional,Catuperoni,Margherita,Premium,85.9
+1090,Giga,Tradicional,Catuperoni,Pizza de Queijo,Premium,85.9
+1091,Giga,Tradicional,Catuperoni,Corn & Bacon,Premium,85.9
+1092,Giga,Tradicional,Catuperoni,Calabresa,Premium,85.9
+1093,Giga,Tradicional,Catuperoni,Frango com Requeijão,Premium,85.9
+1094,Giga,Tradicional,Catuperoni,3 Queijos,Premium,85.9
+1095,Giga,Tradicional,Calabresa Especial,Calabresa Especial,Premium,85.9
+1096,Giga,Tradicional,Calabresa Especial,Búfala La Bianca,Premium,85.9
+1097,Giga,Tradicional,Calabresa Especial,Bauru,Premium,85.9
+1098,Giga,Tradicional,Calabresa Especial,4 Queijos,Premium,85.9
+1099,Giga,Tradicional,Calabresa Especial,América,Premium,85.9
+1100,Giga,Tradicional,Calabresa Especial,Napolitana,Premium,85.9
+1101,Giga,Tradicional,Calabresa Especial,Presunto,Premium,85.9
+1102,Giga,Tradicional,Calabresa Especial,Pepperoni,Premium,85.9
+1103,Giga,Tradicional,Calabresa Especial,Margherita,Premium,85.9
+1104,Giga,Tradicional,Calabresa Especial,Pizza de Queijo,Premium,85.9
+1105,Giga,Tradicional,Calabresa Especial,Corn & Bacon,Premium,85.9
+1106,Giga,Tradicional,Calabresa Especial,Calabresa,Premium,85.9
+1107,Giga,Tradicional,Calabresa Especial,Frango com Requeijão,Premium,85.9
+1108,Giga,Tradicional,Calabresa Especial,3 Queijos,Premium,85.9
+1109,Giga,Tradicional,Búfala La Bianca,Búfala La Bianca,Premium,85.9
+1110,Giga,Tradicional,Búfala La Bianca,Bauru,Premium,85.9
+1111,Giga,Tradicional,Búfala La Bianca,4 Queijos,Premium,85.9
+1112,Giga,Tradicional,Búfala La Bianca,América,Premium,85.9
+1113,Giga,Tradicional,Búfala La Bianca,Napolitana,Premium,85.9
+1114,Giga,Tradicional,Búfala La Bianca,Presunto,Premium,85.9
+1115,Giga,Tradicional,Búfala La Bianca,Pepperoni,Premium,85.9
+1116,Giga,Tradicional,Búfala La Bianca,Margherita,Premium,85.9
+1117,Giga,Tradicional,Búfala La Bianca,Pizza de Queijo,Premium,85.9
+1118,Giga,Tradicional,Búfala La Bianca,Corn & Bacon,Premium,85.9
+1119,Giga,Tradicional,Búfala La Bianca,Calabresa,Premium,85.9
+1120,Giga,Tradicional,Búfala La Bianca,Frango com Requeijão,Premium,85.9
+1121,Giga,Tradicional,Búfala La Bianca,3 Queijos,Premium,85.9
+1122,Giga,Tradicional,Bauru,Bauru,Premium,85.9
+1123,Giga,Tradicional,Bauru,4 Queijos,Premium,85.9
+1124,Giga,Tradicional,Bauru,América,Premium,85.9
+1125,Giga,Tradicional,Bauru,Napolitana,Premium,85.9
+1126,Giga,Tradicional,Bauru,Presunto,Premium,85.9
+1127,Giga,Tradicional,Bauru,Pepperoni,Premium,85.9
+1128,Giga,Tradicional,Bauru,Margherita,Premium,85.9
+1129,Giga,Tradicional,Bauru,Pizza de Queijo,Premium,85.9
+1130,Giga,Tradicional,Bauru,Corn & Bacon,Premium,85.9
+1131,Giga,Tradicional,Bauru,Calabresa,Premium,85.9
+1132,Giga,Tradicional,Bauru,Frango com Requeijão,Premium,85.9
+1133,Giga,Tradicional,Bauru,3 Queijos,Premium,85.9
+1134,Giga,Tradicional,4 Queijos,4 Queijos,Premium,85.9
+1135,Giga,Tradicional,4 Queijos,América,Premium,85.9
+1136,Giga,Tradicional,4 Queijos,Napolitana,Premium,85.9
+1137,Giga,Tradicional,4 Queijos,Presunto,Premium,85.9
+1138,Giga,Tradicional,4 Queijos,Pepperoni,Premium,85.9
+1139,Giga,Tradicional,4 Queijos,Margherita,Premium,85.9
+1140,Giga,Tradicional,4 Queijos,Pizza de Queijo,Premium,85.9
+1141,Giga,Tradicional,4 Queijos,Corn & Bacon,Premium,85.9
+1142,Giga,Tradicional,4 Queijos,Calabresa,Premium,85.9
+1143,Giga,Tradicional,4 Queijos,Frango com Requeijão,Premium,85.9
+1144,Giga,Tradicional,4 Queijos,3 Queijos,Premium,85.9
+1145,Giga,Tradicional,América,América,Premium,85.9
+1146,Giga,Tradicional,América,Napolitana,Premium,85.9
+1147,Giga,Tradicional,América,Presunto,Premium,85.9
+1148,Giga,Tradicional,América,Pepperoni,Premium,85.9
+1149,Giga,Tradicional,América,Margherita,Premium,85.9
+1150,Giga,Tradicional,América,Pizza de Queijo,Premium,85.9
+1151,Giga,Tradicional,América,Corn & Bacon,Premium,85.9
+1152,Giga,Tradicional,América,Calabresa,Premium,85.9
+1153,Giga,Tradicional,América,Frango com Requeijão,Premium,85.9
+1154,Giga,Tradicional,América,3 Queijos,Premium,85.9
+1155,Giga,Tradicional,Napolitana,Napolitana,Especialidade,78.9
+1156,Giga,Tradicional,Napolitana,Presunto,Especialidade,78.9
+1157,Giga,Tradicional,Napolitana,Pepperoni,Especialidade,78.9
+1158,Giga,Tradicional,Napolitana,Margherita,Especialidade,78.9
+1159,Giga,Tradicional,Napolitana,Pizza de Queijo,Especialidade,78.9
+1160,Giga,Tradicional,Napolitana,Corn & Bacon,Especialidade,78.9
+1161,Giga,Tradicional,Napolitana,Calabresa,Especialidade,78.9
+1162,Giga,Tradicional,Napolitana,Frango com Requeijão,Especialidade,78.9
+1163,Giga,Tradicional,Napolitana,3 Queijos,Especialidade,78.9
+1164,Giga,Tradicional,Presunto,Presunto,Especialidade,78.9
+1165,Giga,Tradicional,Presunto,Pepperoni,Especialidade,78.9
+1166,Giga,Tradicional,Presunto,Margherita,Especialidade,78.9
+1167,Giga,Tradicional,Presunto,Pizza de Queijo,Especialidade,78.9
+1168,Giga,Tradicional,Presunto,Corn & Bacon,Especialidade,78.9
+1169,Giga,Tradicional,Presunto,Calabresa,Especialidade,78.9
+1170,Giga,Tradicional,Presunto,Frango com Requeijão,Especialidade,78.9
+1171,Giga,Tradicional,Presunto,3 Queijos,Especialidade,78.9
+1172,Giga,Tradicional,Pepperoni,Pepperoni,Especialidade,78.9
+1173,Giga,Tradicional,Pepperoni,Margherita,Especialidade,78.9
+1174,Giga,Tradicional,Pepperoni,Pizza de Queijo,Especialidade,78.9
+1175,Giga,Tradicional,Pepperoni,Corn & Bacon,Especialidade,78.9
+1176,Giga,Tradicional,Pepperoni,Calabresa,Especialidade,78.9
+1177,Giga,Tradicional,Pepperoni,Frango com Requeijão,Especialidade,78.9
+1178,Giga,Tradicional,Pepperoni,3 Queijos,Especialidade,78.9
+1179,Giga,Tradicional,Margherita,Margherita,Especialidade,78.9
+1180,Giga,Tradicional,Margherita,Pizza de Queijo,Especialidade,78.9
+1181,Giga,Tradicional,Margherita,Corn & Bacon,Especialidade,78.9
+1182,Giga,Tradicional,Margherita,Calabresa,Especialidade,78.9
+1183,Giga,Tradicional,Margherita,Frango com Requeijão,Especialidade,78.9
+1184,Giga,Tradicional,Margherita,3 Queijos,Especialidade,78.9
+1185,Giga,Tradicional,Pizza de Queijo,Pizza de Queijo,Especialidade,78.9
+1186,Giga,Tradicional,Pizza de Queijo,Corn & Bacon,Especialidade,78.9
+1187,Giga,Tradicional,Pizza de Queijo,Calabresa,Especialidade,78.9
+1188,Giga,Tradicional,Pizza de Queijo,Frango com Requeijão,Especialidade,78.9
+1189,Giga,Tradicional,Pizza de Queijo,3 Queijos,Especialidade,78.9
+1190,Giga,Tradicional,Corn & Bacon,Corn & Bacon,Especialidade,78.9
+1191,Giga,Tradicional,Corn & Bacon,Calabresa,Especialidade,78.9
+1192,Giga,Tradicional,Corn & Bacon,Frango com Requeijão,Especialidade,78.9
+1193,Giga,Tradicional,Corn & Bacon,3 Queijos,Especialidade,78.9
+1194,Giga,Tradicional,Calabresa,Calabresa,Especialidade,78.9
+1195,Giga,Tradicional,Calabresa,Frango com Requeijão,Especialidade,78.9
+1196,Giga,Tradicional,Calabresa,3 Queijos,Especialidade,78.9
+1197,Giga,Tradicional,Frango com Requeijão,Frango com Requeijão,Especialidade,78.9
+1198,Giga,Tradicional,Frango com Requeijão,3 Queijos,Especialidade,78.9
+1199,Giga,Tradicional,3 Queijos,3 Queijos,Especialidade,78.9
+1200,Grande,Finissima,Frango com Barbecue,Frango com Barbecue,Super Premium,62.9
+1201,Grande,Finissima,Frango com Barbecue,Meat & Bacon,Super Premium,62.9
+1202,Grande,Finissima,Frango com Barbecue,Extravaganzza®,Super Premium,62.9
+1203,Grande,Finissima,Frango com Barbecue,Veggie®,Super Premium,62.9
+1204,Grande,Finissima,Frango com Barbecue,Portuguesa,Super Premium,62.9
+1205,Grande,Finissima,Frango com Barbecue,Pepperrock,Super Premium,62.9
+1206,Grande,Finissima,Frango com Barbecue,Frango Grelhado,Super Premium,62.9
+1207,Grande,Finissima,Frango com Barbecue,Frango com Cream Cheese,Super Premium,62.9
+1208,Grande,Finissima,Frango com Barbecue,Egg & Bacon,Super Premium,62.9
+1209,Grande,Finissima,Frango com Barbecue,Catuperoni,Super Premium,62.9
+1210,Grande,Finissima,Frango com Barbecue,Calabresa Especial,Super Premium,62.9
+1211,Grande,Finissima,Frango com Barbecue,Búfala La Bianca,Super Premium,62.9
+1212,Grande,Finissima,Frango com Barbecue,Bauru,Super Premium,62.9
+1213,Grande,Finissima,Frango com Barbecue,4 Queijos,Super Premium,62.9
+1214,Grande,Finissima,Frango com Barbecue,América,Super Premium,62.9
+1215,Grande,Finissima,Frango com Barbecue,Napolitana,Super Premium,62.9
+1216,Grande,Finissima,Frango com Barbecue,Presunto,Super Premium,62.9
+1217,Grande,Finissima,Frango com Barbecue,Pepperoni,Super Premium,62.9
+1218,Grande,Finissima,Frango com Barbecue,Margherita,Super Premium,62.9
+1219,Grande,Finissima,Frango com Barbecue,Pizza de Queijo,Super Premium,62.9
+1220,Grande,Finissima,Frango com Barbecue,Corn & Bacon,Super Premium,62.9
+1221,Grande,Finissima,Frango com Barbecue,Calabresa,Super Premium,62.9
+1222,Grande,Finissima,Frango com Barbecue,Frango com Requeijão,Super Premium,62.9
+1223,Grande,Finissima,Frango com Barbecue,3 Queijos,Super Premium,62.9
+1224,Grande,Finissima,Meat & Bacon,Meat & Bacon,Super Premium,62.9
+1225,Grande,Finissima,Meat & Bacon,Extravaganzza®,Super Premium,62.9
+1226,Grande,Finissima,Meat & Bacon,Veggie®,Super Premium,62.9
+1227,Grande,Finissima,Meat & Bacon,Portuguesa,Super Premium,62.9
+1228,Grande,Finissima,Meat & Bacon,Pepperrock,Super Premium,62.9
+1229,Grande,Finissima,Meat & Bacon,Frango Grelhado,Super Premium,62.9
+1230,Grande,Finissima,Meat & Bacon,Frango com Cream Cheese,Super Premium,62.9
+1231,Grande,Finissima,Meat & Bacon,Egg & Bacon,Super Premium,62.9
+1232,Grande,Finissima,Meat & Bacon,Catuperoni,Super Premium,62.9
+1233,Grande,Finissima,Meat & Bacon,Calabresa Especial,Super Premium,62.9
+1234,Grande,Finissima,Meat & Bacon,Búfala La Bianca,Super Premium,62.9
+1235,Grande,Finissima,Meat & Bacon,Bauru,Super Premium,62.9
+1236,Grande,Finissima,Meat & Bacon,4 Queijos,Super Premium,62.9
+1237,Grande,Finissima,Meat & Bacon,América,Super Premium,62.9
+1238,Grande,Finissima,Meat & Bacon,Napolitana,Super Premium,62.9
+1239,Grande,Finissima,Meat & Bacon,Presunto,Super Premium,62.9
+1240,Grande,Finissima,Meat & Bacon,Pepperoni,Super Premium,62.9
+1241,Grande,Finissima,Meat & Bacon,Margherita,Super Premium,62.9
+1242,Grande,Finissima,Meat & Bacon,Pizza de Queijo,Super Premium,62.9
+1243,Grande,Finissima,Meat & Bacon,Corn & Bacon,Super Premium,62.9
+1244,Grande,Finissima,Meat & Bacon,Calabresa,Super Premium,62.9
+1245,Grande,Finissima,Meat & Bacon,Frango com Requeijão,Super Premium,62.9
+1246,Grande,Finissima,Meat & Bacon,3 Queijos,Super Premium,62.9
+1247,Grande,Finissima,Extravaganzza®,Extravaganzza®,Super Premium,62.9
+1248,Grande,Finissima,Extravaganzza®,Veggie®,Super Premium,62.9
+1249,Grande,Finissima,Extravaganzza®,Portuguesa,Super Premium,62.9
+1250,Grande,Finissima,Extravaganzza®,Pepperrock,Super Premium,62.9
+1251,Grande,Finissima,Extravaganzza®,Frango Grelhado,Super Premium,62.9
+1252,Grande,Finissima,Extravaganzza®,Frango com Cream Cheese,Super Premium,62.9
+1253,Grande,Finissima,Extravaganzza®,Egg & Bacon,Super Premium,62.9
+1254,Grande,Finissima,Extravaganzza®,Catuperoni,Super Premium,62.9
+1255,Grande,Finissima,Extravaganzza®,Calabresa Especial,Super Premium,62.9
+1256,Grande,Finissima,Extravaganzza®,Búfala La Bianca,Super Premium,62.9
+1257,Grande,Finissima,Extravaganzza®,Bauru,Super Premium,62.9
+1258,Grande,Finissima,Extravaganzza®,4 Queijos,Super Premium,62.9
+1259,Grande,Finissima,Extravaganzza®,América,Super Premium,62.9
+1260,Grande,Finissima,Extravaganzza®,Napolitana,Super Premium,62.9
+1261,Grande,Finissima,Extravaganzza®,Presunto,Super Premium,62.9
+1262,Grande,Finissima,Extravaganzza®,Pepperoni,Super Premium,62.9
+1263,Grande,Finissima,Extravaganzza®,Margherita,Super Premium,62.9
+1264,Grande,Finissima,Extravaganzza®,Pizza de Queijo,Super Premium,62.9
+1265,Grande,Finissima,Extravaganzza®,Corn & Bacon,Super Premium,62.9
+1266,Grande,Finissima,Extravaganzza®,Calabresa,Super Premium,62.9
+1267,Grande,Finissima,Extravaganzza®,Frango com Requeijão,Super Premium,62.9
+1268,Grande,Finissima,Extravaganzza®,3 Queijos,Super Premium,62.9
+1269,Grande,Finissima,Veggie®,Veggie®,Super Premium,62.9
+1270,Grande,Finissima,Veggie®,Portuguesa,Super Premium,62.9
+1271,Grande,Finissima,Veggie®,Pepperrock,Super Premium,62.9
+1272,Grande,Finissima,Veggie®,Frango Grelhado,Super Premium,62.9
+1273,Grande,Finissima,Veggie®,Frango com Cream Cheese,Super Premium,62.9
+1274,Grande,Finissima,Veggie®,Egg & Bacon,Super Premium,62.9
+1275,Grande,Finissima,Veggie®,Catuperoni,Super Premium,62.9
+1276,Grande,Finissima,Veggie®,Calabresa Especial,Super Premium,62.9
+1277,Grande,Finissima,Veggie®,Búfala La Bianca,Super Premium,62.9
+1278,Grande,Finissima,Veggie®,Bauru,Super Premium,62.9
+1279,Grande,Finissima,Veggie®,4 Queijos,Super Premium,62.9
+1280,Grande,Finissima,Veggie®,América,Super Premium,62.9
+1281,Grande,Finissima,Veggie®,Napolitana,Super Premium,62.9
+1282,Grande,Finissima,Veggie®,Presunto,Super Premium,62.9
+1283,Grande,Finissima,Veggie®,Pepperoni,Super Premium,62.9
+1284,Grande,Finissima,Veggie®,Margherita,Super Premium,62.9
+1285,Grande,Finissima,Veggie®,Pizza de Queijo,Super Premium,62.9
+1286,Grande,Finissima,Veggie®,Corn & Bacon,Super Premium,62.9
+1287,Grande,Finissima,Veggie®,Calabresa,Super Premium,62.9
+1288,Grande,Finissima,Veggie®,Frango com Requeijão,Super Premium,62.9
+1289,Grande,Finissima,Veggie®,3 Queijos,Super Premium,62.9
+1290,Grande,Finissima,Portuguesa,Portuguesa,Super Premium,62.9
+1291,Grande,Finissima,Portuguesa,Pepperrock,Super Premium,62.9
+1292,Grande,Finissima,Portuguesa,Frango Grelhado,Super Premium,62.9
+1293,Grande,Finissima,Portuguesa,Frango com Cream Cheese,Super Premium,62.9
+1294,Grande,Finissima,Portuguesa,Egg & Bacon,Super Premium,62.9
+1295,Grande,Finissima,Portuguesa,Catuperoni,Super Premium,62.9
+1296,Grande,Finissima,Portuguesa,Calabresa Especial,Super Premium,62.9
+1297,Grande,Finissima,Portuguesa,Búfala La Bianca,Super Premium,62.9
+1298,Grande,Finissima,Portuguesa,Bauru,Super Premium,62.9
+1299,Grande,Finissima,Portuguesa,4 Queijos,Super Premium,62.9
+1300,Grande,Finissima,Portuguesa,América,Super Premium,62.9
+1301,Grande,Finissima,Portuguesa,Napolitana,Super Premium,62.9
+1302,Grande,Finissima,Portuguesa,Presunto,Super Premium,62.9
+1303,Grande,Finissima,Portuguesa,Pepperoni,Super Premium,62.9
+1304,Grande,Finissima,Portuguesa,Margherita,Super Premium,62.9
+1305,Grande,Finissima,Portuguesa,Pizza de Queijo,Super Premium,62.9
+1306,Grande,Finissima,Portuguesa,Corn & Bacon,Super Premium,62.9
+1307,Grande,Finissima,Portuguesa,Calabresa,Super Premium,62.9
+1308,Grande,Finissima,Portuguesa,Frango com Requeijão,Super Premium,62.9
+1309,Grande,Finissima,Portuguesa,3 Queijos,Super Premium,62.9
+1310,Grande,Finissima,Pepperrock,Pepperrock,Super Premium,62.9
+1311,Grande,Finissima,Pepperrock,Frango Grelhado,Super Premium,62.9
+1312,Grande,Finissima,Pepperrock,Frango com Cream Cheese,Super Premium,62.9
+1313,Grande,Finissima,Pepperrock,Egg & Bacon,Super Premium,62.9
+1314,Grande,Finissima,Pepperrock,Catuperoni,Super Premium,62.9
+1315,Grande,Finissima,Pepperrock,Calabresa Especial,Super Premium,62.9
+1316,Grande,Finissima,Pepperrock,Búfala La Bianca,Super Premium,62.9
+1317,Grande,Finissima,Pepperrock,Bauru,Super Premium,62.9
+1318,Grande,Finissima,Pepperrock,4 Queijos,Super Premium,62.9
+1319,Grande,Finissima,Pepperrock,América,Super Premium,62.9
+1320,Grande,Finissima,Pepperrock,Napolitana,Super Premium,62.9
+1321,Grande,Finissima,Pepperrock,Presunto,Super Premium,62.9
+1322,Grande,Finissima,Pepperrock,Pepperoni,Super Premium,62.9
+1323,Grande,Finissima,Pepperrock,Margherita,Super Premium,62.9
+1324,Grande,Finissima,Pepperrock,Pizza de Queijo,Super Premium,62.9
+1325,Grande,Finissima,Pepperrock,Corn & Bacon,Super Premium,62.9
+1326,Grande,Finissima,Pepperrock,Calabresa,Super Premium,62.9
+1327,Grande,Finissima,Pepperrock,Frango com Requeijão,Super Premium,62.9
+1328,Grande,Finissima,Pepperrock,3 Queijos,Super Premium,62.9
+1329,Grande,Finissima,Frango Grelhado,Frango Grelhado,Super Premium,62.9
+1330,Grande,Finissima,Frango Grelhado,Frango com Cream Cheese,Super Premium,62.9
+1331,Grande,Finissima,Frango Grelhado,Egg & Bacon,Super Premium,62.9
+1332,Grande,Finissima,Frango Grelhado,Catuperoni,Super Premium,62.9
+1333,Grande,Finissima,Frango Grelhado,Calabresa Especial,Super Premium,62.9
+1334,Grande,Finissima,Frango Grelhado,Búfala La Bianca,Super Premium,62.9
+1335,Grande,Finissima,Frango Grelhado,Bauru,Super Premium,62.9
+1336,Grande,Finissima,Frango Grelhado,4 Queijos,Super Premium,62.9
+1337,Grande,Finissima,Frango Grelhado,América,Super Premium,62.9
+1338,Grande,Finissima,Frango Grelhado,Napolitana,Super Premium,62.9
+1339,Grande,Finissima,Frango Grelhado,Presunto,Super Premium,62.9
+1340,Grande,Finissima,Frango Grelhado,Pepperoni,Super Premium,62.9
+1341,Grande,Finissima,Frango Grelhado,Margherita,Super Premium,62.9
+1342,Grande,Finissima,Frango Grelhado,Pizza de Queijo,Super Premium,62.9
+1343,Grande,Finissima,Frango Grelhado,Corn & Bacon,Super Premium,62.9
+1344,Grande,Finissima,Frango Grelhado,Calabresa,Super Premium,62.9
+1345,Grande,Finissima,Frango Grelhado,Frango com Requeijão,Super Premium,62.9
+1346,Grande,Finissima,Frango Grelhado,3 Queijos,Super Premium,62.9
+1347,Grande,Finissima,Frango com Cream Cheese,Frango com Cream Cheese,Premium,57.9
+1348,Grande,Finissima,Frango com Cream Cheese,Egg & Bacon,Premium,57.9
+1349,Grande,Finissima,Frango com Cream Cheese,Catuperoni,Premium,57.9
+1350,Grande,Finissima,Frango com Cream Cheese,Calabresa Especial,Premium,57.9
+1351,Grande,Finissima,Frango com Cream Cheese,Búfala La Bianca,Premium,57.9
+1352,Grande,Finissima,Frango com Cream Cheese,Bauru,Premium,57.9
+1353,Grande,Finissima,Frango com Cream Cheese,4 Queijos,Premium,57.9
+1354,Grande,Finissima,Frango com Cream Cheese,América,Premium,57.9
+1355,Grande,Finissima,Frango com Cream Cheese,Napolitana,Premium,57.9
+1356,Grande,Finissima,Frango com Cream Cheese,Presunto,Premium,57.9
+1357,Grande,Finissima,Frango com Cream Cheese,Pepperoni,Premium,57.9
+1358,Grande,Finissima,Frango com Cream Cheese,Margherita,Premium,57.9
+1359,Grande,Finissima,Frango com Cream Cheese,Pizza de Queijo,Premium,57.9
+1360,Grande,Finissima,Frango com Cream Cheese,Corn & Bacon,Premium,57.9
+1361,Grande,Finissima,Frango com Cream Cheese,Calabresa,Premium,57.9
+1362,Grande,Finissima,Frango com Cream Cheese,Frango com Requeijão,Premium,57.9
+1363,Grande,Finissima,Frango com Cream Cheese,3 Queijos,Premium,57.9
+1364,Grande,Finissima,Egg & Bacon,Egg & Bacon,Premium,57.9
+1365,Grande,Finissima,Egg & Bacon,Catuperoni,Premium,57.9
+1366,Grande,Finissima,Egg & Bacon,Calabresa Especial,Premium,57.9
+1367,Grande,Finissima,Egg & Bacon,Búfala La Bianca,Premium,57.9
+1368,Grande,Finissima,Egg & Bacon,Bauru,Premium,57.9
+1369,Grande,Finissima,Egg & Bacon,4 Queijos,Premium,57.9
+1370,Grande,Finissima,Egg & Bacon,América,Premium,57.9
+1371,Grande,Finissima,Egg & Bacon,Napolitana,Premium,57.9
+1372,Grande,Finissima,Egg & Bacon,Presunto,Premium,57.9
+1373,Grande,Finissima,Egg & Bacon,Pepperoni,Premium,57.9
+1374,Grande,Finissima,Egg & Bacon,Margherita,Premium,57.9
+1375,Grande,Finissima,Egg & Bacon,Pizza de Queijo,Premium,57.9
+1376,Grande,Finissima,Egg & Bacon,Corn & Bacon,Premium,57.9
+1377,Grande,Finissima,Egg & Bacon,Calabresa,Premium,57.9
+1378,Grande,Finissima,Egg & Bacon,Frango com Requeijão,Premium,57.9
+1379,Grande,Finissima,Egg & Bacon,3 Queijos,Premium,57.9
+1380,Grande,Finissima,Catuperoni,Catuperoni,Premium,57.9
+1381,Grande,Finissima,Catuperoni,Calabresa Especial,Premium,57.9
+1382,Grande,Finissima,Catuperoni,Búfala La Bianca,Premium,57.9
+1383,Grande,Finissima,Catuperoni,Bauru,Premium,57.9
+1384,Grande,Finissima,Catuperoni,4 Queijos,Premium,57.9
+1385,Grande,Finissima,Catuperoni,América,Premium,57.9
+1386,Grande,Finissima,Catuperoni,Napolitana,Premium,57.9
+1387,Grande,Finissima,Catuperoni,Presunto,Premium,57.9
+1388,Grande,Finissima,Catuperoni,Pepperoni,Premium,57.9
+1389,Grande,Finissima,Catuperoni,Margherita,Premium,57.9
+1390,Grande,Finissima,Catuperoni,Pizza de Queijo,Premium,57.9
+1391,Grande,Finissima,Catuperoni,Corn & Bacon,Premium,57.9
+1392,Grande,Finissima,Catuperoni,Calabresa,Premium,57.9
+1393,Grande,Finissima,Catuperoni,Frango com Requeijão,Premium,57.9
+1394,Grande,Finissima,Catuperoni,3 Queijos,Premium,57.9
+1395,Grande,Finissima,Calabresa Especial,Calabresa Especial,Premium,57.9
+1396,Grande,Finissima,Calabresa Especial,Búfala La Bianca,Premium,57.9
+1397,Grande,Finissima,Calabresa Especial,Bauru,Premium,57.9
+1398,Grande,Finissima,Calabresa Especial,4 Queijos,Premium,57.9
+1399,Grande,Finissima,Calabresa Especial,América,Premium,57.9
+1400,Grande,Finissima,Calabresa Especial,Napolitana,Premium,57.9
+1401,Grande,Finissima,Calabresa Especial,Presunto,Premium,57.9
+1402,Grande,Finissima,Calabresa Especial,Pepperoni,Premium,57.9
+1403,Grande,Finissima,Calabresa Especial,Margherita,Premium,57.9
+1404,Grande,Finissima,Calabresa Especial,Pizza de Queijo,Premium,57.9
+1405,Grande,Finissima,Calabresa Especial,Corn & Bacon,Premium,57.9
+1406,Grande,Finissima,Calabresa Especial,Calabresa,Premium,57.9
+1407,Grande,Finissima,Calabresa Especial,Frango com Requeijão,Premium,57.9
+1408,Grande,Finissima,Calabresa Especial,3 Queijos,Premium,57.9
+1409,Grande,Finissima,Búfala La Bianca,Búfala La Bianca,Premium,57.9
+1410,Grande,Finissima,Búfala La Bianca,Bauru,Premium,57.9
+1411,Grande,Finissima,Búfala La Bianca,4 Queijos,Premium,57.9
+1412,Grande,Finissima,Búfala La Bianca,América,Premium,57.9
+1413,Grande,Finissima,Búfala La Bianca,Napolitana,Premium,57.9
+1414,Grande,Finissima,Búfala La Bianca,Presunto,Premium,57.9
+1415,Grande,Finissima,Búfala La Bianca,Pepperoni,Premium,57.9
+1416,Grande,Finissima,Búfala La Bianca,Margherita,Premium,57.9
+1417,Grande,Finissima,Búfala La Bianca,Pizza de Queijo,Premium,57.9
+1418,Grande,Finissima,Búfala La Bianca,Corn & Bacon,Premium,57.9
+1419,Grande,Finissima,Búfala La Bianca,Calabresa,Premium,57.9
+1420,Grande,Finissima,Búfala La Bianca,Frango com Requeijão,Premium,57.9
+1421,Grande,Finissima,Búfala La Bianca,3 Queijos,Premium,57.9
+1422,Grande,Finissima,Bauru,Bauru,Premium,57.9
+1423,Grande,Finissima,Bauru,4 Queijos,Premium,57.9
+1424,Grande,Finissima,Bauru,América,Premium,57.9
+1425,Grande,Finissima,Bauru,Napolitana,Premium,57.9
+1426,Grande,Finissima,Bauru,Presunto,Premium,57.9
+1427,Grande,Finissima,Bauru,Pepperoni,Premium,57.9
+1428,Grande,Finissima,Bauru,Margherita,Premium,57.9
+1429,Grande,Finissima,Bauru,Pizza de Queijo,Premium,57.9
+1430,Grande,Finissima,Bauru,Corn & Bacon,Premium,57.9
+1431,Grande,Finissima,Bauru,Calabresa,Premium,57.9
+1432,Grande,Finissima,Bauru,Frango com Requeijão,Premium,57.9
+1433,Grande,Finissima,Bauru,3 Queijos,Premium,57.9
+1434,Grande,Finissima,4 Queijos,4 Queijos,Premium,57.9
+1435,Grande,Finissima,4 Queijos,América,Premium,57.9
+1436,Grande,Finissima,4 Queijos,Napolitana,Premium,57.9
+1437,Grande,Finissima,4 Queijos,Presunto,Premium,57.9
+1438,Grande,Finissima,4 Queijos,Pepperoni,Premium,57.9
+1439,Grande,Finissima,4 Queijos,Margherita,Premium,57.9
+1440,Grande,Finissima,4 Queijos,Pizza de Queijo,Premium,57.9
+1441,Grande,Finissima,4 Queijos,Corn & Bacon,Premium,57.9
+1442,Grande,Finissima,4 Queijos,Calabresa,Premium,57.9
+1443,Grande,Finissima,4 Queijos,Frango com Requeijão,Premium,57.9
+1444,Grande,Finissima,4 Queijos,3 Queijos,Premium,57.9
+1445,Grande,Finissima,América,América,Premium,57.9
+1446,Grande,Finissima,América,Napolitana,Premium,57.9
+1447,Grande,Finissima,América,Presunto,Premium,57.9
+1448,Grande,Finissima,América,Pepperoni,Premium,57.9
+1449,Grande,Finissima,América,Margherita,Premium,57.9
+1450,Grande,Finissima,América,Pizza de Queijo,Premium,57.9
+1451,Grande,Finissima,América,Corn & Bacon,Premium,57.9
+1452,Grande,Finissima,América,Calabresa,Premium,57.9
+1453,Grande,Finissima,América,Frango com Requeijão,Premium,57.9
+1454,Grande,Finissima,América,3 Queijos,Premium,57.9
+1455,Grande,Finissima,Napolitana,Napolitana,Especialidade,52.9
+1456,Grande,Finissima,Napolitana,Presunto,Especialidade,52.9
+1457,Grande,Finissima,Napolitana,Pepperoni,Especialidade,52.9
+1458,Grande,Finissima,Napolitana,Margherita,Especialidade,52.9
+1459,Grande,Finissima,Napolitana,Pizza de Queijo,Especialidade,52.9
+1460,Grande,Finissima,Napolitana,Corn & Bacon,Especialidade,52.9
+1461,Grande,Finissima,Napolitana,Calabresa,Especialidade,52.9
+1462,Grande,Finissima,Napolitana,Frango com Requeijão,Especialidade,52.9
+1463,Grande,Finissima,Napolitana,3 Queijos,Especialidade,52.9
+1464,Grande,Finissima,Presunto,Presunto,Especialidade,52.9
+1465,Grande,Finissima,Presunto,Pepperoni,Especialidade,52.9
+1466,Grande,Finissima,Presunto,Margherita,Especialidade,52.9
+1467,Grande,Finissima,Presunto,Pizza de Queijo,Especialidade,52.9
+1468,Grande,Finissima,Presunto,Corn & Bacon,Especialidade,52.9
+1469,Grande,Finissima,Presunto,Calabresa,Especialidade,52.9
+1470,Grande,Finissima,Presunto,Frango com Requeijão,Especialidade,52.9
+1471,Grande,Finissima,Presunto,3 Queijos,Especialidade,52.9
+1472,Grande,Finissima,Pepperoni,Pepperoni,Especialidade,52.9
+1473,Grande,Finissima,Pepperoni,Margherita,Especialidade,52.9
+1474,Grande,Finissima,Pepperoni,Pizza de Queijo,Especialidade,52.9
+1475,Grande,Finissima,Pepperoni,Corn & Bacon,Especialidade,52.9
+1476,Grande,Finissima,Pepperoni,Calabresa,Especialidade,52.9
+1477,Grande,Finissima,Pepperoni,Frango com Requeijão,Especialidade,52.9
+1478,Grande,Finissima,Pepperoni,3 Queijos,Especialidade,52.9
+1479,Grande,Finissima,Margherita,Margherita,Especialidade,52.9
+1480,Grande,Finissima,Margherita,Pizza de Queijo,Especialidade,52.9
+1481,Grande,Finissima,Margherita,Corn & Bacon,Especialidade,52.9
+1482,Grande,Finissima,Margherita,Calabresa,Especialidade,52.9
+1483,Grande,Finissima,Margherita,Frango com Requeijão,Especialidade,52.9
+1484,Grande,Finissima,Margherita,3 Queijos,Especialidade,52.9
+1485,Grande,Finissima,Pizza de Queijo,Pizza de Queijo,Especialidade,52.9
+1486,Grande,Finissima,Pizza de Queijo,Corn & Bacon,Especialidade,52.9
+1487,Grande,Finissima,Pizza de Queijo,Calabresa,Especialidade,52.9
+1488,Grande,Finissima,Pizza de Queijo,Frango com Requeijão,Especialidade,52.9
+1489,Grande,Finissima,Pizza de Queijo,3 Queijos,Especialidade,52.9
+1490,Grande,Finissima,Corn & Bacon,Corn & Bacon,Especialidade,52.9
+1491,Grande,Finissima,Corn & Bacon,Calabresa,Especialidade,52.9
+1492,Grande,Finissima,Corn & Bacon,Frango com Requeijão,Especialidade,52.9
+1493,Grande,Finissima,Corn & Bacon,3 Queijos,Especialidade,52.9
+1494,Grande,Finissima,Calabresa,Calabresa,Especialidade,52.9
+1495,Grande,Finissima,Calabresa,Frango com Requeijão,Especialidade,52.9
+1496,Grande,Finissima,Calabresa,3 Queijos,Especialidade,52.9
+1497,Grande,Finissima,Frango com Requeijão,Frango com Requeijão,Especialidade,52.9
+1498,Grande,Finissima,Frango com Requeijão,3 Queijos,Especialidade,52.9
+1499,Grande,Finissima,3 Queijos,3 Queijos,Especialidade,52.9
+1500,Média,Fina,Frango com Barbecue,Frango com Barbecue,Super Premium,72.9
+1501,Média,Fina,Frango com Barbecue,Meat & Bacon,Super Premium,72.9
+1502,Média,Fina,Frango com Barbecue,Extravaganzza®,Super Premium,72.9
+1503,Média,Fina,Frango com Barbecue,Veggie®,Super Premium,72.9
+1504,Média,Fina,Frango com Barbecue,Portuguesa,Super Premium,72.9
+1505,Média,Fina,Frango com Barbecue,Pepperrock,Super Premium,72.9
+1506,Média,Fina,Frango com Barbecue,Frango Grelhado,Super Premium,72.9
+1507,Média,Fina,Frango com Barbecue,Frango com Cream Cheese,Super Premium,72.9
+1508,Média,Fina,Frango com Barbecue,Egg & Bacon,Super Premium,72.9
+1509,Média,Fina,Frango com Barbecue,Catuperoni,Super Premium,72.9
+1510,Média,Fina,Frango com Barbecue,Calabresa Especial,Super Premium,72.9
+1511,Média,Fina,Frango com Barbecue,Búfala La Bianca,Super Premium,72.9
+1512,Média,Fina,Frango com Barbecue,Bauru,Super Premium,72.9
+1513,Média,Fina,Frango com Barbecue,4 Queijos,Super Premium,72.9
+1514,Média,Fina,Frango com Barbecue,América,Super Premium,72.9
+1515,Média,Fina,Frango com Barbecue,Napolitana,Super Premium,72.9
+1516,Média,Fina,Frango com Barbecue,Presunto,Super Premium,72.9
+1517,Média,Fina,Frango com Barbecue,Pepperoni,Super Premium,72.9
+1518,Média,Fina,Frango com Barbecue,Margherita,Super Premium,72.9
+1519,Média,Fina,Frango com Barbecue,Pizza de Queijo,Super Premium,72.9
+1520,Média,Fina,Frango com Barbecue,Corn & Bacon,Super Premium,72.9
+1521,Média,Fina,Frango com Barbecue,Calabresa,Super Premium,72.9
+1522,Média,Fina,Frango com Barbecue,Frango com Requeijão,Super Premium,72.9
+1523,Média,Fina,Frango com Barbecue,3 Queijos,Super Premium,72.9
+1524,Média,Fina,Meat & Bacon,Meat & Bacon,Super Premium,72.9
+1525,Média,Fina,Meat & Bacon,Extravaganzza®,Super Premium,72.9
+1526,Média,Fina,Meat & Bacon,Veggie®,Super Premium,72.9
+1527,Média,Fina,Meat & Bacon,Portuguesa,Super Premium,72.9
+1528,Média,Fina,Meat & Bacon,Pepperrock,Super Premium,72.9
+1529,Média,Fina,Meat & Bacon,Frango Grelhado,Super Premium,72.9
+1530,Média,Fina,Meat & Bacon,Frango com Cream Cheese,Super Premium,72.9
+1531,Média,Fina,Meat & Bacon,Egg & Bacon,Super Premium,72.9
+1532,Média,Fina,Meat & Bacon,Catuperoni,Super Premium,72.9
+1533,Média,Fina,Meat & Bacon,Calabresa Especial,Super Premium,72.9
+1534,Média,Fina,Meat & Bacon,Búfala La Bianca,Super Premium,72.9
+1535,Média,Fina,Meat & Bacon,Bauru,Super Premium,72.9
+1536,Média,Fina,Meat & Bacon,4 Queijos,Super Premium,72.9
+1537,Média,Fina,Meat & Bacon,América,Super Premium,72.9
+1538,Média,Fina,Meat & Bacon,Napolitana,Super Premium,72.9
+1539,Média,Fina,Meat & Bacon,Presunto,Super Premium,72.9
+1540,Média,Fina,Meat & Bacon,Pepperoni,Super Premium,72.9
+1541,Média,Fina,Meat & Bacon,Margherita,Super Premium,72.9
+1542,Média,Fina,Meat & Bacon,Pizza de Queijo,Super Premium,72.9
+1543,Média,Fina,Meat & Bacon,Corn & Bacon,Super Premium,72.9
+1544,Média,Fina,Meat & Bacon,Calabresa,Super Premium,72.9
+1545,Média,Fina,Meat & Bacon,Frango com Requeijão,Super Premium,72.9
+1546,Média,Fina,Meat & Bacon,3 Queijos,Super Premium,72.9
+1547,Média,Fina,Extravaganzza®,Extravaganzza®,Super Premium,72.9
+1548,Média,Fina,Extravaganzza®,Veggie®,Super Premium,72.9
+1549,Média,Fina,Extravaganzza®,Portuguesa,Super Premium,72.9
+1550,Média,Fina,Extravaganzza®,Pepperrock,Super Premium,72.9
+1551,Média,Fina,Extravaganzza®,Frango Grelhado,Super Premium,72.9
+1552,Média,Fina,Extravaganzza®,Frango com Cream Cheese,Super Premium,72.9
+1553,Média,Fina,Extravaganzza®,Egg & Bacon,Super Premium,72.9
+1554,Média,Fina,Extravaganzza®,Catuperoni,Super Premium,72.9
+1555,Média,Fina,Extravaganzza®,Calabresa Especial,Super Premium,72.9
+1556,Média,Fina,Extravaganzza®,Búfala La Bianca,Super Premium,72.9
+1557,Média,Fina,Extravaganzza®,Bauru,Super Premium,72.9
+1558,Média,Fina,Extravaganzza®,4 Queijos,Super Premium,72.9
+1559,Média,Fina,Extravaganzza®,América,Super Premium,72.9
+1560,Média,Fina,Extravaganzza®,Napolitana,Super Premium,72.9
+1561,Média,Fina,Extravaganzza®,Presunto,Super Premium,72.9
+1562,Média,Fina,Extravaganzza®,Pepperoni,Super Premium,72.9
+1563,Média,Fina,Extravaganzza®,Margherita,Super Premium,72.9
+1564,Média,Fina,Extravaganzza®,Pizza de Queijo,Super Premium,72.9
+1565,Média,Fina,Extravaganzza®,Corn & Bacon,Super Premium,72.9
+1566,Média,Fina,Extravaganzza®,Calabresa,Super Premium,72.9
+1567,Média,Fina,Extravaganzza®,Frango com Requeijão,Super Premium,72.9
+1568,Média,Fina,Extravaganzza®,3 Queijos,Super Premium,72.9
+1569,Média,Fina,Veggie®,Veggie®,Super Premium,72.9
+1570,Média,Fina,Veggie®,Portuguesa,Super Premium,72.9
+1571,Média,Fina,Veggie®,Pepperrock,Super Premium,72.9
+1572,Média,Fina,Veggie®,Frango Grelhado,Super Premium,72.9
+1573,Média,Fina,Veggie®,Frango com Cream Cheese,Super Premium,72.9
+1574,Média,Fina,Veggie®,Egg & Bacon,Super Premium,72.9
+1575,Média,Fina,Veggie®,Catuperoni,Super Premium,72.9
+1576,Média,Fina,Veggie®,Calabresa Especial,Super Premium,72.9
+1577,Média,Fina,Veggie®,Búfala La Bianca,Super Premium,72.9
+1578,Média,Fina,Veggie®,Bauru,Super Premium,72.9
+1579,Média,Fina,Veggie®,4 Queijos,Super Premium,72.9
+1580,Média,Fina,Veggie®,América,Super Premium,72.9
+1581,Média,Fina,Veggie®,Napolitana,Super Premium,72.9
+1582,Média,Fina,Veggie®,Presunto,Super Premium,72.9
+1583,Média,Fina,Veggie®,Pepperoni,Super Premium,72.9
+1584,Média,Fina,Veggie®,Margherita,Super Premium,72.9
+1585,Média,Fina,Veggie®,Pizza de Queijo,Super Premium,72.9
+1586,Média,Fina,Veggie®,Corn & Bacon,Super Premium,72.9
+1587,Média,Fina,Veggie®,Calabresa,Super Premium,72.9
+1588,Média,Fina,Veggie®,Frango com Requeijão,Super Premium,72.9
+1589,Média,Fina,Veggie®,3 Queijos,Super Premium,72.9
+1590,Média,Fina,Portuguesa,Portuguesa,Super Premium,72.9
+1591,Média,Fina,Portuguesa,Pepperrock,Super Premium,72.9
+1592,Média,Fina,Portuguesa,Frango Grelhado,Super Premium,72.9
+1593,Média,Fina,Portuguesa,Frango com Cream Cheese,Super Premium,72.9
+1594,Média,Fina,Portuguesa,Egg & Bacon,Super Premium,72.9
+1595,Média,Fina,Portuguesa,Catuperoni,Super Premium,72.9
+1596,Média,Fina,Portuguesa,Calabresa Especial,Super Premium,72.9
+1597,Média,Fina,Portuguesa,Búfala La Bianca,Super Premium,72.9
+1598,Média,Fina,Portuguesa,Bauru,Super Premium,72.9
+1599,Média,Fina,Portuguesa,4 Queijos,Super Premium,72.9
+1600,Média,Fina,Portuguesa,América,Super Premium,72.9
+1601,Média,Fina,Portuguesa,Napolitana,Super Premium,72.9
+1602,Média,Fina,Portuguesa,Presunto,Super Premium,72.9
+1603,Média,Fina,Portuguesa,Pepperoni,Super Premium,72.9
+1604,Média,Fina,Portuguesa,Margherita,Super Premium,72.9
+1605,Média,Fina,Portuguesa,Pizza de Queijo,Super Premium,72.9
+1606,Média,Fina,Portuguesa,Corn & Bacon,Super Premium,72.9
+1607,Média,Fina,Portuguesa,Calabresa,Super Premium,72.9
+1608,Média,Fina,Portuguesa,Frango com Requeijão,Super Premium,72.9
+1609,Média,Fina,Portuguesa,3 Queijos,Super Premium,72.9
+1610,Média,Fina,Pepperrock,Pepperrock,Super Premium,72.9
+1611,Média,Fina,Pepperrock,Frango Grelhado,Super Premium,72.9
+1612,Média,Fina,Pepperrock,Frango com Cream Cheese,Super Premium,72.9
+1613,Média,Fina,Pepperrock,Egg & Bacon,Super Premium,72.9
+1614,Média,Fina,Pepperrock,Catuperoni,Super Premium,72.9
+1615,Média,Fina,Pepperrock,Calabresa Especial,Super Premium,72.9
+1616,Média,Fina,Pepperrock,Búfala La Bianca,Super Premium,72.9
+1617,Média,Fina,Pepperrock,Bauru,Super Premium,72.9
+1618,Média,Fina,Pepperrock,4 Queijos,Super Premium,72.9
+1619,Média,Fina,Pepperrock,América,Super Premium,72.9
+1620,Média,Fina,Pepperrock,Napolitana,Super Premium,72.9
+1621,Média,Fina,Pepperrock,Presunto,Super Premium,72.9
+1622,Média,Fina,Pepperrock,Pepperoni,Super Premium,72.9
+1623,Média,Fina,Pepperrock,Margherita,Super Premium,72.9
+1624,Média,Fina,Pepperrock,Pizza de Queijo,Super Premium,72.9
+1625,Média,Fina,Pepperrock,Corn & Bacon,Super Premium,72.9
+1626,Média,Fina,Pepperrock,Calabresa,Super Premium,72.9
+1627,Média,Fina,Pepperrock,Frango com Requeijão,Super Premium,72.9
+1628,Média,Fina,Pepperrock,3 Queijos,Super Premium,72.9
+1629,Média,Fina,Frango Grelhado,Frango Grelhado,Super Premium,72.9
+1630,Média,Fina,Frango Grelhado,Frango com Cream Cheese,Super Premium,72.9
+1631,Média,Fina,Frango Grelhado,Egg & Bacon,Super Premium,72.9
+1632,Média,Fina,Frango Grelhado,Catuperoni,Super Premium,72.9
+1633,Média,Fina,Frango Grelhado,Calabresa Especial,Super Premium,72.9
+1634,Média,Fina,Frango Grelhado,Búfala La Bianca,Super Premium,72.9
+1635,Média,Fina,Frango Grelhado,Bauru,Super Premium,72.9
+1636,Média,Fina,Frango Grelhado,4 Queijos,Super Premium,72.9
+1637,Média,Fina,Frango Grelhado,América,Super Premium,72.9
+1638,Média,Fina,Frango Grelhado,Napolitana,Super Premium,72.9
+1639,Média,Fina,Frango Grelhado,Presunto,Super Premium,72.9
+1640,Média,Fina,Frango Grelhado,Pepperoni,Super Premium,72.9
+1641,Média,Fina,Frango Grelhado,Margherita,Super Premium,72.9
+1642,Média,Fina,Frango Grelhado,Pizza de Queijo,Super Premium,72.9
+1643,Média,Fina,Frango Grelhado,Corn & Bacon,Super Premium,72.9
+1644,Média,Fina,Frango Grelhado,Calabresa,Super Premium,72.9
+1645,Média,Fina,Frango Grelhado,Frango com Requeijão,Super Premium,72.9
+1646,Média,Fina,Frango Grelhado,3 Queijos,Super Premium,72.9
+1647,Média,Fina,Frango com Cream Cheese,Frango com Cream Cheese,Premium,66.9
+1648,Média,Fina,Frango com Cream Cheese,Egg & Bacon,Premium,66.9
+1649,Média,Fina,Frango com Cream Cheese,Catuperoni,Premium,66.9
+1650,Média,Fina,Frango com Cream Cheese,Calabresa Especial,Premium,66.9
+1651,Média,Fina,Frango com Cream Cheese,Búfala La Bianca,Premium,66.9
+1652,Média,Fina,Frango com Cream Cheese,Bauru,Premium,66.9
+1653,Média,Fina,Frango com Cream Cheese,4 Queijos,Premium,66.9
+1654,Média,Fina,Frango com Cream Cheese,América,Premium,66.9
+1655,Média,Fina,Frango com Cream Cheese,Napolitana,Premium,66.9
+1656,Média,Fina,Frango com Cream Cheese,Presunto,Premium,66.9
+1657,Média,Fina,Frango com Cream Cheese,Pepperoni,Premium,66.9
+1658,Média,Fina,Frango com Cream Cheese,Margherita,Premium,66.9
+1659,Média,Fina,Frango com Cream Cheese,Pizza de Queijo,Premium,66.9
+1660,Média,Fina,Frango com Cream Cheese,Corn & Bacon,Premium,66.9
+1661,Média,Fina,Frango com Cream Cheese,Calabresa,Premium,66.9
+1662,Média,Fina,Frango com Cream Cheese,Frango com Requeijão,Premium,66.9
+1663,Média,Fina,Frango com Cream Cheese,3 Queijos,Premium,66.9
+1664,Média,Fina,Egg & Bacon,Egg & Bacon,Premium,66.9
+1665,Média,Fina,Egg & Bacon,Catuperoni,Premium,66.9
+1666,Média,Fina,Egg & Bacon,Calabresa Especial,Premium,66.9
+1667,Média,Fina,Egg & Bacon,Búfala La Bianca,Premium,66.9
+1668,Média,Fina,Egg & Bacon,Bauru,Premium,66.9
+1669,Média,Fina,Egg & Bacon,4 Queijos,Premium,66.9
+1670,Média,Fina,Egg & Bacon,América,Premium,66.9
+1671,Média,Fina,Egg & Bacon,Napolitana,Premium,66.9
+1672,Média,Fina,Egg & Bacon,Presunto,Premium,66.9
+1673,Média,Fina,Egg & Bacon,Pepperoni,Premium,66.9
+1674,Média,Fina,Egg & Bacon,Margherita,Premium,66.9
+1675,Média,Fina,Egg & Bacon,Pizza de Queijo,Premium,66.9
+1676,Média,Fina,Egg & Bacon,Corn & Bacon,Premium,66.9
+1677,Média,Fina,Egg & Bacon,Calabresa,Premium,66.9
+1678,Média,Fina,Egg & Bacon,Frango com Requeijão,Premium,66.9
+1679,Média,Fina,Egg & Bacon,3 Queijos,Premium,66.9
+1680,Média,Fina,Catuperoni,Catuperoni,Premium,66.9
+1681,Média,Fina,Catuperoni,Calabresa Especial,Premium,66.9
+1682,Média,Fina,Catuperoni,Búfala La Bianca,Premium,66.9
+1683,Média,Fina,Catuperoni,Bauru,Premium,66.9
+1684,Média,Fina,Catuperoni,4 Queijos,Premium,66.9
+1685,Média,Fina,Catuperoni,América,Premium,66.9
+1686,Média,Fina,Catuperoni,Napolitana,Premium,66.9
+1687,Média,Fina,Catuperoni,Presunto,Premium,66.9
+1688,Média,Fina,Catuperoni,Pepperoni,Premium,66.9
+1689,Média,Fina,Catuperoni,Margherita,Premium,66.9
+1690,Média,Fina,Catuperoni,Pizza de Queijo,Premium,66.9
+1691,Média,Fina,Catuperoni,Corn & Bacon,Premium,66.9
+1692,Média,Fina,Catuperoni,Calabresa,Premium,66.9
+1693,Média,Fina,Catuperoni,Frango com Requeijão,Premium,66.9
+1694,Média,Fina,Catuperoni,3 Queijos,Premium,66.9
+1695,Média,Fina,Calabresa Especial,Calabresa Especial,Premium,66.9
+1696,Média,Fina,Calabresa Especial,Búfala La Bianca,Premium,66.9
+1697,Média,Fina,Calabresa Especial,Bauru,Premium,66.9
+1698,Média,Fina,Calabresa Especial,4 Queijos,Premium,66.9
+1699,Média,Fina,Calabresa Especial,América,Premium,66.9
+1700,Média,Fina,Calabresa Especial,Napolitana,Premium,66.9
+1701,Média,Fina,Calabresa Especial,Presunto,Premium,66.9
+1702,Média,Fina,Calabresa Especial,Pepperoni,Premium,66.9
+1703,Média,Fina,Calabresa Especial,Margherita,Premium,66.9
+1704,Média,Fina,Calabresa Especial,Pizza de Queijo,Premium,66.9
+1705,Média,Fina,Calabresa Especial,Corn & Bacon,Premium,66.9
+1706,Média,Fina,Calabresa Especial,Calabresa,Premium,66.9
+1707,Média,Fina,Calabresa Especial,Frango com Requeijão,Premium,66.9
+1708,Média,Fina,Calabresa Especial,3 Queijos,Premium,66.9
+1709,Média,Fina,Búfala La Bianca,Búfala La Bianca,Premium,66.9
+1710,Média,Fina,Búfala La Bianca,Bauru,Premium,66.9
+1711,Média,Fina,Búfala La Bianca,4 Queijos,Premium,66.9
+1712,Média,Fina,Búfala La Bianca,América,Premium,66.9
+1713,Média,Fina,Búfala La Bianca,Napolitana,Premium,66.9
+1714,Média,Fina,Búfala La Bianca,Presunto,Premium,66.9
+1715,Média,Fina,Búfala La Bianca,Pepperoni,Premium,66.9
+1716,Média,Fina,Búfala La Bianca,Margherita,Premium,66.9
+1717,Média,Fina,Búfala La Bianca,Pizza de Queijo,Premium,66.9
+1718,Média,Fina,Búfala La Bianca,Corn & Bacon,Premium,66.9
+1719,Média,Fina,Búfala La Bianca,Calabresa,Premium,66.9
+1720,Média,Fina,Búfala La Bianca,Frango com Requeijão,Premium,66.9
+1721,Média,Fina,Búfala La Bianca,3 Queijos,Premium,66.9
+1722,Média,Fina,Bauru,Bauru,Premium,66.9
+1723,Média,Fina,Bauru,4 Queijos,Premium,66.9
+1724,Média,Fina,Bauru,América,Premium,66.9
+1725,Média,Fina,Bauru,Napolitana,Premium,66.9
+1726,Média,Fina,Bauru,Presunto,Premium,66.9
+1727,Média,Fina,Bauru,Pepperoni,Premium,66.9
+1728,Média,Fina,Bauru,Margherita,Premium,66.9
+1729,Média,Fina,Bauru,Pizza de Queijo,Premium,66.9
+1730,Média,Fina,Bauru,Corn & Bacon,Premium,66.9
+1731,Média,Fina,Bauru,Calabresa,Premium,66.9
+1732,Média,Fina,Bauru,Frango com Requeijão,Premium,66.9
+1733,Média,Fina,Bauru,3 Queijos,Premium,66.9
+1734,Média,Fina,4 Queijos,4 Queijos,Premium,66.9
+1735,Média,Fina,4 Queijos,América,Premium,66.9
+1736,Média,Fina,4 Queijos,Napolitana,Premium,66.9
+1737,Média,Fina,4 Queijos,Presunto,Premium,66.9
+1738,Média,Fina,4 Queijos,Pepperoni,Premium,66.9
+1739,Média,Fina,4 Queijos,Margherita,Premium,66.9
+1740,Média,Fina,4 Queijos,Pizza de Queijo,Premium,66.9
+1741,Média,Fina,4 Queijos,Corn & Bacon,Premium,66.9
+1742,Média,Fina,4 Queijos,Calabresa,Premium,66.9
+1743,Média,Fina,4 Queijos,Frango com Requeijão,Premium,66.9
+1744,Média,Fina,4 Queijos,3 Queijos,Premium,66.9
+1745,Média,Fina,América,América,Premium,66.9
+1746,Média,Fina,América,Napolitana,Premium,66.9
+1747,Média,Fina,América,Presunto,Premium,66.9
+1748,Média,Fina,América,Pepperoni,Premium,66.9
+1749,Média,Fina,América,Margherita,Premium,66.9
+1750,Média,Fina,América,Pizza de Queijo,Premium,66.9
+1751,Média,Fina,América,Corn & Bacon,Premium,66.9
+1752,Média,Fina,América,Calabresa,Premium,66.9
+1753,Média,Fina,América,Frango com Requeijão,Premium,66.9
+1754,Média,Fina,América,3 Queijos,Premium,66.9
+1755,Média,Fina,Napolitana,Napolitana,Especialidade,60.9
+1756,Média,Fina,Napolitana,Presunto,Especialidade,60.9
+1757,Média,Fina,Napolitana,Pepperoni,Especialidade,60.9
+1758,Média,Fina,Napolitana,Margherita,Especialidade,60.9
+1759,Média,Fina,Napolitana,Pizza de Queijo,Especialidade,60.9
+1760,Média,Fina,Napolitana,Corn & Bacon,Especialidade,60.9
+1761,Média,Fina,Napolitana,Calabresa,Especialidade,60.9
+1762,Média,Fina,Napolitana,Frango com Requeijão,Especialidade,60.9
+1763,Média,Fina,Napolitana,3 Queijos,Especialidade,60.9
+1764,Média,Fina,Presunto,Presunto,Especialidade,60.9
+1765,Média,Fina,Presunto,Pepperoni,Especialidade,60.9
+1766,Média,Fina,Presunto,Margherita,Especialidade,60.9
+1767,Média,Fina,Presunto,Pizza de Queijo,Especialidade,60.9
+1768,Média,Fina,Presunto,Corn & Bacon,Especialidade,60.9
+1769,Média,Fina,Presunto,Calabresa,Especialidade,60.9
+1770,Média,Fina,Presunto,Frango com Requeijão,Especialidade,60.9
+1771,Média,Fina,Presunto,3 Queijos,Especialidade,60.9
+1772,Média,Fina,Pepperoni,Pepperoni,Especialidade,60.9
+1773,Média,Fina,Pepperoni,Margherita,Especialidade,60.9
+1774,Média,Fina,Pepperoni,Pizza de Queijo,Especialidade,60.9
+1775,Média,Fina,Pepperoni,Corn & Bacon,Especialidade,60.9
+1776,Média,Fina,Pepperoni,Calabresa,Especialidade,60.9
+1777,Média,Fina,Pepperoni,Frango com Requeijão,Especialidade,60.9
+1778,Média,Fina,Pepperoni,3 Queijos,Especialidade,60.9
+1779,Média,Fina,Margherita,Margherita,Especialidade,60.9
+1780,Média,Fina,Margherita,Pizza de Queijo,Especialidade,60.9
+1781,Média,Fina,Margherita,Corn & Bacon,Especialidade,60.9
+1782,Média,Fina,Margherita,Calabresa,Especialidade,60.9
+1783,Média,Fina,Margherita,Frango com Requeijão,Especialidade,60.9
+1784,Média,Fina,Margherita,3 Queijos,Especialidade,60.9
+1785,Média,Fina,Pizza de Queijo,Pizza de Queijo,Especialidade,60.9
+1786,Média,Fina,Pizza de Queijo,Corn & Bacon,Especialidade,60.9
+1787,Média,Fina,Pizza de Queijo,Calabresa,Especialidade,60.9
+1788,Média,Fina,Pizza de Queijo,Frango com Requeijão,Especialidade,60.9
+1789,Média,Fina,Pizza de Queijo,3 Queijos,Especialidade,60.9
+1790,Média,Fina,Corn & Bacon,Corn & Bacon,Especialidade,60.9
+1791,Média,Fina,Corn & Bacon,Calabresa,Especialidade,60.9
+1792,Média,Fina,Corn & Bacon,Frango com Requeijão,Especialidade,60.9
+1793,Média,Fina,Corn & Bacon,3 Queijos,Especialidade,60.9
+1794,Média,Fina,Calabresa,Calabresa,Especialidade,60.9
+1795,Média,Fina,Calabresa,Frango com Requeijão,Especialidade,60.9
+1796,Média,Fina,Calabresa,3 Queijos,Especialidade,60.9
+1797,Média,Fina,Frango com Requeijão,Frango com Requeijão,Especialidade,60.9
+1798,Média,Fina,Frango com Requeijão,3 Queijos,Especialidade,60.9
+1799,Média,Fina,3 Queijos,3 Queijos,Especialidade,60.9
+1800,Grande,Fina,Frango com Barbecue,Frango com Barbecue,Super Premium,84.9
+1801,Grande,Fina,Frango com Barbecue,Meat & Bacon,Super Premium,84.9
+1802,Grande,Fina,Frango com Barbecue,Extravaganzza®,Super Premium,84.9
+1803,Grande,Fina,Frango com Barbecue,Veggie®,Super Premium,84.9
+1804,Grande,Fina,Frango com Barbecue,Portuguesa,Super Premium,84.9
+1805,Grande,Fina,Frango com Barbecue,Pepperrock,Super Premium,84.9
+1806,Grande,Fina,Frango com Barbecue,Frango Grelhado,Super Premium,84.9
+1807,Grande,Fina,Frango com Barbecue,Frango com Cream Cheese,Super Premium,84.9
+1808,Grande,Fina,Frango com Barbecue,Egg & Bacon,Super Premium,84.9
+1809,Grande,Fina,Frango com Barbecue,Catuperoni,Super Premium,84.9
+1810,Grande,Fina,Frango com Barbecue,Calabresa Especial,Super Premium,84.9
+1811,Grande,Fina,Frango com Barbecue,Búfala La Bianca,Super Premium,84.9
+1812,Grande,Fina,Frango com Barbecue,Bauru,Super Premium,84.9
+1813,Grande,Fina,Frango com Barbecue,4 Queijos,Super Premium,84.9
+1814,Grande,Fina,Frango com Barbecue,América,Super Premium,84.9
+1815,Grande,Fina,Frango com Barbecue,Napolitana,Super Premium,84.9
+1816,Grande,Fina,Frango com Barbecue,Presunto,Super Premium,84.9
+1817,Grande,Fina,Frango com Barbecue,Pepperoni,Super Premium,84.9
+1818,Grande,Fina,Frango com Barbecue,Margherita,Super Premium,84.9
+1819,Grande,Fina,Frango com Barbecue,Pizza de Queijo,Super Premium,84.9
+1820,Grande,Fina,Frango com Barbecue,Corn & Bacon,Super Premium,84.9
+1821,Grande,Fina,Frango com Barbecue,Calabresa,Super Premium,84.9
+1822,Grande,Fina,Frango com Barbecue,Frango com Requeijão,Super Premium,84.9
+1823,Grande,Fina,Frango com Barbecue,3 Queijos,Super Premium,84.9
+1824,Grande,Fina,Meat & Bacon,Meat & Bacon,Super Premium,84.9
+1825,Grande,Fina,Meat & Bacon,Extravaganzza®,Super Premium,84.9
+1826,Grande,Fina,Meat & Bacon,Veggie®,Super Premium,84.9
+1827,Grande,Fina,Meat & Bacon,Portuguesa,Super Premium,84.9
+1828,Grande,Fina,Meat & Bacon,Pepperrock,Super Premium,84.9
+1829,Grande,Fina,Meat & Bacon,Frango Grelhado,Super Premium,84.9
+1830,Grande,Fina,Meat & Bacon,Frango com Cream Cheese,Super Premium,84.9
+1831,Grande,Fina,Meat & Bacon,Egg & Bacon,Super Premium,84.9
+1832,Grande,Fina,Meat & Bacon,Catuperoni,Super Premium,84.9
+1833,Grande,Fina,Meat & Bacon,Calabresa Especial,Super Premium,84.9
+1834,Grande,Fina,Meat & Bacon,Búfala La Bianca,Super Premium,84.9
+1835,Grande,Fina,Meat & Bacon,Bauru,Super Premium,84.9
+1836,Grande,Fina,Meat & Bacon,4 Queijos,Super Premium,84.9
+1837,Grande,Fina,Meat & Bacon,América,Super Premium,84.9
+1838,Grande,Fina,Meat & Bacon,Napolitana,Super Premium,84.9
+1839,Grande,Fina,Meat & Bacon,Presunto,Super Premium,84.9
+1840,Grande,Fina,Meat & Bacon,Pepperoni,Super Premium,84.9
+1841,Grande,Fina,Meat & Bacon,Margherita,Super Premium,84.9
+1842,Grande,Fina,Meat & Bacon,Pizza de Queijo,Super Premium,84.9
+1843,Grande,Fina,Meat & Bacon,Corn & Bacon,Super Premium,84.9
+1844,Grande,Fina,Meat & Bacon,Calabresa,Super Premium,84.9
+1845,Grande,Fina,Meat & Bacon,Frango com Requeijão,Super Premium,84.9
+1846,Grande,Fina,Meat & Bacon,3 Queijos,Super Premium,84.9
+1847,Grande,Fina,Extravaganzza®,Extravaganzza®,Super Premium,84.9
+1848,Grande,Fina,Extravaganzza®,Veggie®,Super Premium,84.9
+1849,Grande,Fina,Extravaganzza®,Portuguesa,Super Premium,84.9
+1850,Grande,Fina,Extravaganzza®,Pepperrock,Super Premium,84.9
+1851,Grande,Fina,Extravaganzza®,Frango Grelhado,Super Premium,84.9
+1852,Grande,Fina,Extravaganzza®,Frango com Cream Cheese,Super Premium,84.9
+1853,Grande,Fina,Extravaganzza®,Egg & Bacon,Super Premium,84.9
+1854,Grande,Fina,Extravaganzza®,Catuperoni,Super Premium,84.9
+1855,Grande,Fina,Extravaganzza®,Calabresa Especial,Super Premium,84.9
+1856,Grande,Fina,Extravaganzza®,Búfala La Bianca,Super Premium,84.9
+1857,Grande,Fina,Extravaganzza®,Bauru,Super Premium,84.9
+1858,Grande,Fina,Extravaganzza®,4 Queijos,Super Premium,84.9
+1859,Grande,Fina,Extravaganzza®,América,Super Premium,84.9
+1860,Grande,Fina,Extravaganzza®,Napolitana,Super Premium,84.9
+1861,Grande,Fina,Extravaganzza®,Presunto,Super Premium,84.9
+1862,Grande,Fina,Extravaganzza®,Pepperoni,Super Premium,84.9
+1863,Grande,Fina,Extravaganzza®,Margherita,Super Premium,84.9
+1864,Grande,Fina,Extravaganzza®,Pizza de Queijo,Super Premium,84.9
+1865,Grande,Fina,Extravaganzza®,Corn & Bacon,Super Premium,84.9
+1866,Grande,Fina,Extravaganzza®,Calabresa,Super Premium,84.9
+1867,Grande,Fina,Extravaganzza®,Frango com Requeijão,Super Premium,84.9
+1868,Grande,Fina,Extravaganzza®,3 Queijos,Super Premium,84.9
+1869,Grande,Fina,Veggie®,Veggie®,Super Premium,84.9
+1870,Grande,Fina,Veggie®,Portuguesa,Super Premium,84.9
+1871,Grande,Fina,Veggie®,Pepperrock,Super Premium,84.9
+1872,Grande,Fina,Veggie®,Frango Grelhado,Super Premium,84.9
+1873,Grande,Fina,Veggie®,Frango com Cream Cheese,Super Premium,84.9
+1874,Grande,Fina,Veggie®,Egg & Bacon,Super Premium,84.9
+1875,Grande,Fina,Veggie®,Catuperoni,Super Premium,84.9
+1876,Grande,Fina,Veggie®,Calabresa Especial,Super Premium,84.9
+1877,Grande,Fina,Veggie®,Búfala La Bianca,Super Premium,84.9
+1878,Grande,Fina,Veggie®,Bauru,Super Premium,84.9
+1879,Grande,Fina,Veggie®,4 Queijos,Super Premium,84.9
+1880,Grande,Fina,Veggie®,América,Super Premium,84.9
+1881,Grande,Fina,Veggie®,Napolitana,Super Premium,84.9
+1882,Grande,Fina,Veggie®,Presunto,Super Premium,84.9
+1883,Grande,Fina,Veggie®,Pepperoni,Super Premium,84.9
+1884,Grande,Fina,Veggie®,Margherita,Super Premium,84.9
+1885,Grande,Fina,Veggie®,Pizza de Queijo,Super Premium,84.9
+1886,Grande,Fina,Veggie®,Corn & Bacon,Super Premium,84.9
+1887,Grande,Fina,Veggie®,Calabresa,Super Premium,84.9
+1888,Grande,Fina,Veggie®,Frango com Requeijão,Super Premium,84.9
+1889,Grande,Fina,Veggie®,3 Queijos,Super Premium,84.9
+1890,Grande,Fina,Portuguesa,Portuguesa,Super Premium,84.9
+1891,Grande,Fina,Portuguesa,Pepperrock,Super Premium,84.9
+1892,Grande,Fina,Portuguesa,Frango Grelhado,Super Premium,84.9
+1893,Grande,Fina,Portuguesa,Frango com Cream Cheese,Super Premium,84.9
+1894,Grande,Fina,Portuguesa,Egg & Bacon,Super Premium,84.9
+1895,Grande,Fina,Portuguesa,Catuperoni,Super Premium,84.9
+1896,Grande,Fina,Portuguesa,Calabresa Especial,Super Premium,84.9
+1897,Grande,Fina,Portuguesa,Búfala La Bianca,Super Premium,84.9
+1898,Grande,Fina,Portuguesa,Bauru,Super Premium,84.9
+1899,Grande,Fina,Portuguesa,4 Queijos,Super Premium,84.9
+1900,Grande,Fina,Portuguesa,América,Super Premium,84.9
+1901,Grande,Fina,Portuguesa,Napolitana,Super Premium,84.9
+1902,Grande,Fina,Portuguesa,Presunto,Super Premium,84.9
+1903,Grande,Fina,Portuguesa,Pepperoni,Super Premium,84.9
+1904,Grande,Fina,Portuguesa,Margherita,Super Premium,84.9
+1905,Grande,Fina,Portuguesa,Pizza de Queijo,Super Premium,84.9
+1906,Grande,Fina,Portuguesa,Corn & Bacon,Super Premium,84.9
+1907,Grande,Fina,Portuguesa,Calabresa,Super Premium,84.9
+1908,Grande,Fina,Portuguesa,Frango com Requeijão,Super Premium,84.9
+1909,Grande,Fina,Portuguesa,3 Queijos,Super Premium,84.9
+1910,Grande,Fina,Pepperrock,Pepperrock,Super Premium,84.9
+1911,Grande,Fina,Pepperrock,Frango Grelhado,Super Premium,84.9
+1912,Grande,Fina,Pepperrock,Frango com Cream Cheese,Super Premium,84.9
+1913,Grande,Fina,Pepperrock,Egg & Bacon,Super Premium,84.9
+1914,Grande,Fina,Pepperrock,Catuperoni,Super Premium,84.9
+1915,Grande,Fina,Pepperrock,Calabresa Especial,Super Premium,84.9
+1916,Grande,Fina,Pepperrock,Búfala La Bianca,Super Premium,84.9
+1917,Grande,Fina,Pepperrock,Bauru,Super Premium,84.9
+1918,Grande,Fina,Pepperrock,4 Queijos,Super Premium,84.9
+1919,Grande,Fina,Pepperrock,América,Super Premium,84.9
+1920,Grande,Fina,Pepperrock,Napolitana,Super Premium,84.9
+1921,Grande,Fina,Pepperrock,Presunto,Super Premium,84.9
+1922,Grande,Fina,Pepperrock,Pepperoni,Super Premium,84.9
+1923,Grande,Fina,Pepperrock,Margherita,Super Premium,84.9
+1924,Grande,Fina,Pepperrock,Pizza de Queijo,Super Premium,84.9
+1925,Grande,Fina,Pepperrock,Corn & Bacon,Super Premium,84.9
+1926,Grande,Fina,Pepperrock,Calabresa,Super Premium,84.9
+1927,Grande,Fina,Pepperrock,Frango com Requeijão,Super Premium,84.9
+1928,Grande,Fina,Pepperrock,3 Queijos,Super Premium,84.9
+1929,Grande,Fina,Frango Grelhado,Frango Grelhado,Super Premium,84.9
+1930,Grande,Fina,Frango Grelhado,Frango com Cream Cheese,Super Premium,84.9
+1931,Grande,Fina,Frango Grelhado,Egg & Bacon,Super Premium,84.9
+1932,Grande,Fina,Frango Grelhado,Catuperoni,Super Premium,84.9
+1933,Grande,Fina,Frango Grelhado,Calabresa Especial,Super Premium,84.9
+1934,Grande,Fina,Frango Grelhado,Búfala La Bianca,Super Premium,84.9
+1935,Grande,Fina,Frango Grelhado,Bauru,Super Premium,84.9
+1936,Grande,Fina,Frango Grelhado,4 Queijos,Super Premium,84.9
+1937,Grande,Fina,Frango Grelhado,América,Super Premium,84.9
+1938,Grande,Fina,Frango Grelhado,Napolitana,Super Premium,84.9
+1939,Grande,Fina,Frango Grelhado,Presunto,Super Premium,84.9
+1940,Grande,Fina,Frango Grelhado,Pepperoni,Super Premium,84.9
+1941,Grande,Fina,Frango Grelhado,Margherita,Super Premium,84.9
+1942,Grande,Fina,Frango Grelhado,Pizza de Queijo,Super Premium,84.9
+1943,Grande,Fina,Frango Grelhado,Corn & Bacon,Super Premium,84.9
+1944,Grande,Fina,Frango Grelhado,Calabresa,Super Premium,84.9
+1945,Grande,Fina,Frango Grelhado,Frango com Requeijão,Super Premium,84.9
+1946,Grande,Fina,Frango Grelhado,3 Queijos,Super Premium,84.9
+1947,Grande,Fina,Frango com Cream Cheese,Frango com Cream Cheese,Premium,77.9
+1948,Grande,Fina,Frango com Cream Cheese,Egg & Bacon,Premium,77.9
+1949,Grande,Fina,Frango com Cream Cheese,Catuperoni,Premium,77.9
+1950,Grande,Fina,Frango com Cream Cheese,Calabresa Especial,Premium,77.9
+1951,Grande,Fina,Frango com Cream Cheese,Búfala La Bianca,Premium,77.9
+1952,Grande,Fina,Frango com Cream Cheese,Bauru,Premium,77.9
+1953,Grande,Fina,Frango com Cream Cheese,4 Queijos,Premium,77.9
+1954,Grande,Fina,Frango com Cream Cheese,América,Premium,77.9
+1955,Grande,Fina,Frango com Cream Cheese,Napolitana,Premium,77.9
+1956,Grande,Fina,Frango com Cream Cheese,Presunto,Premium,77.9
+1957,Grande,Fina,Frango com Cream Cheese,Pepperoni,Premium,77.9
+1958,Grande,Fina,Frango com Cream Cheese,Margherita,Premium,77.9
+1959,Grande,Fina,Frango com Cream Cheese,Pizza de Queijo,Premium,77.9
+1960,Grande,Fina,Frango com Cream Cheese,Corn & Bacon,Premium,77.9
+1961,Grande,Fina,Frango com Cream Cheese,Calabresa,Premium,77.9
+1962,Grande,Fina,Frango com Cream Cheese,Frango com Requeijão,Premium,77.9
+1963,Grande,Fina,Frango com Cream Cheese,3 Queijos,Premium,77.9
+1964,Grande,Fina,Egg & Bacon,Egg & Bacon,Premium,77.9
+1965,Grande,Fina,Egg & Bacon,Catuperoni,Premium,77.9
+1966,Grande,Fina,Egg & Bacon,Calabresa Especial,Premium,77.9
+1967,Grande,Fina,Egg & Bacon,Búfala La Bianca,Premium,77.9
+1968,Grande,Fina,Egg & Bacon,Bauru,Premium,77.9
+1969,Grande,Fina,Egg & Bacon,4 Queijos,Premium,77.9
+1970,Grande,Fina,Egg & Bacon,América,Premium,77.9
+1971,Grande,Fina,Egg & Bacon,Napolitana,Premium,77.9
+1972,Grande,Fina,Egg & Bacon,Presunto,Premium,77.9
+1973,Grande,Fina,Egg & Bacon,Pepperoni,Premium,77.9
+1974,Grande,Fina,Egg & Bacon,Margherita,Premium,77.9
+1975,Grande,Fina,Egg & Bacon,Pizza de Queijo,Premium,77.9
+1976,Grande,Fina,Egg & Bacon,Corn & Bacon,Premium,77.9
+1977,Grande,Fina,Egg & Bacon,Calabresa,Premium,77.9
+1978,Grande,Fina,Egg & Bacon,Frango com Requeijão,Premium,77.9
+1979,Grande,Fina,Egg & Bacon,3 Queijos,Premium,77.9
+1980,Grande,Fina,Catuperoni,Catuperoni,Premium,77.9
+1981,Grande,Fina,Catuperoni,Calabresa Especial,Premium,77.9
+1982,Grande,Fina,Catuperoni,Búfala La Bianca,Premium,77.9
+1983,Grande,Fina,Catuperoni,Bauru,Premium,77.9
+1984,Grande,Fina,Catuperoni,4 Queijos,Premium,77.9
+1985,Grande,Fina,Catuperoni,América,Premium,77.9
+1986,Grande,Fina,Catuperoni,Napolitana,Premium,77.9
+1987,Grande,Fina,Catuperoni,Presunto,Premium,77.9
+1988,Grande,Fina,Catuperoni,Pepperoni,Premium,77.9
+1989,Grande,Fina,Catuperoni,Margherita,Premium,77.9
+1990,Grande,Fina,Catuperoni,Pizza de Queijo,Premium,77.9
+1991,Grande,Fina,Catuperoni,Corn & Bacon,Premium,77.9
+1992,Grande,Fina,Catuperoni,Calabresa,Premium,77.9
+1993,Grande,Fina,Catuperoni,Frango com Requeijão,Premium,77.9
+1994,Grande,Fina,Catuperoni,3 Queijos,Premium,77.9
+1995,Grande,Fina,Calabresa Especial,Calabresa Especial,Premium,77.9
+1996,Grande,Fina,Calabresa Especial,Búfala La Bianca,Premium,77.9
+1997,Grande,Fina,Calabresa Especial,Bauru,Premium,77.9
+1998,Grande,Fina,Calabresa Especial,4 Queijos,Premium,77.9
+1999,Grande,Fina,Calabresa Especial,América,Premium,77.9
+2000,Grande,Fina,Calabresa Especial,Napolitana,Premium,77.9
+2001,Grande,Fina,Calabresa Especial,Presunto,Premium,77.9
+2002,Grande,Fina,Calabresa Especial,Pepperoni,Premium,77.9
+2003,Grande,Fina,Calabresa Especial,Margherita,Premium,77.9
+2004,Grande,Fina,Calabresa Especial,Pizza de Queijo,Premium,77.9
+2005,Grande,Fina,Calabresa Especial,Corn & Bacon,Premium,77.9
+2006,Grande,Fina,Calabresa Especial,Calabresa,Premium,77.9
+2007,Grande,Fina,Calabresa Especial,Frango com Requeijão,Premium,77.9
+2008,Grande,Fina,Calabresa Especial,3 Queijos,Premium,77.9
+2009,Grande,Fina,Búfala La Bianca,Búfala La Bianca,Premium,77.9
+2010,Grande,Fina,Búfala La Bianca,Bauru,Premium,77.9
+2011,Grande,Fina,Búfala La Bianca,4 Queijos,Premium,77.9
+2012,Grande,Fina,Búfala La Bianca,América,Premium,77.9
+2013,Grande,Fina,Búfala La Bianca,Napolitana,Premium,77.9
+2014,Grande,Fina,Búfala La Bianca,Presunto,Premium,77.9
+2015,Grande,Fina,Búfala La Bianca,Pepperoni,Premium,77.9
+2016,Grande,Fina,Búfala La Bianca,Margherita,Premium,77.9
+2017,Grande,Fina,Búfala La Bianca,Pizza de Queijo,Premium,77.9
+2018,Grande,Fina,Búfala La Bianca,Corn & Bacon,Premium,77.9
+2019,Grande,Fina,Búfala La Bianca,Calabresa,Premium,77.9
+2020,Grande,Fina,Búfala La Bianca,Frango com Requeijão,Premium,77.9
+2021,Grande,Fina,Búfala La Bianca,3 Queijos,Premium,77.9
+2022,Grande,Fina,Bauru,Bauru,Premium,77.9
+2023,Grande,Fina,Bauru,4 Queijos,Premium,77.9
+2024,Grande,Fina,Bauru,América,Premium,77.9
+2025,Grande,Fina,Bauru,Napolitana,Premium,77.9
+2026,Grande,Fina,Bauru,Presunto,Premium,77.9
+2027,Grande,Fina,Bauru,Pepperoni,Premium,77.9
+2028,Grande,Fina,Bauru,Margherita,Premium,77.9
+2029,Grande,Fina,Bauru,Pizza de Queijo,Premium,77.9
+2030,Grande,Fina,Bauru,Corn & Bacon,Premium,77.9
+2031,Grande,Fina,Bauru,Calabresa,Premium,77.9
+2032,Grande,Fina,Bauru,Frango com Requeijão,Premium,77.9
+2033,Grande,Fina,Bauru,3 Queijos,Premium,77.9
+2034,Grande,Fina,4 Queijos,4 Queijos,Premium,77.9
+2035,Grande,Fina,4 Queijos,América,Premium,77.9
+2036,Grande,Fina,4 Queijos,Napolitana,Premium,77.9
+2037,Grande,Fina,4 Queijos,Presunto,Premium,77.9
+2038,Grande,Fina,4 Queijos,Pepperoni,Premium,77.9
+2039,Grande,Fina,4 Queijos,Margherita,Premium,77.9
+2040,Grande,Fina,4 Queijos,Pizza de Queijo,Premium,77.9
+2041,Grande,Fina,4 Queijos,Corn & Bacon,Premium,77.9
+2042,Grande,Fina,4 Queijos,Calabresa,Premium,77.9
+2043,Grande,Fina,4 Queijos,Frango com Requeijão,Premium,77.9
+2044,Grande,Fina,4 Queijos,3 Queijos,Premium,77.9
+2045,Grande,Fina,América,América,Premium,77.9
+2046,Grande,Fina,América,Napolitana,Premium,77.9
+2047,Grande,Fina,América,Presunto,Premium,77.9
+2048,Grande,Fina,América,Pepperoni,Premium,77.9
+2049,Grande,Fina,América,Margherita,Premium,77.9
+2050,Grande,Fina,América,Pizza de Queijo,Premium,77.9
+2051,Grande,Fina,América,Corn & Bacon,Premium,77.9
+2052,Grande,Fina,América,Calabresa,Premium,77.9
+2053,Grande,Fina,América,Frango com Requeijão,Premium,77.9
+2054,Grande,Fina,América,3 Queijos,Premium,77.9
+2055,Grande,Fina,Napolitana,Napolitana,Especialidade,70.9
+2056,Grande,Fina,Napolitana,Presunto,Especialidade,70.9
+2057,Grande,Fina,Napolitana,Pepperoni,Especialidade,70.9
+2058,Grande,Fina,Napolitana,Margherita,Especialidade,70.9
+2059,Grande,Fina,Napolitana,Pizza de Queijo,Especialidade,70.9
+2060,Grande,Fina,Napolitana,Corn & Bacon,Especialidade,70.9
+2061,Grande,Fina,Napolitana,Calabresa,Especialidade,70.9
+2062,Grande,Fina,Napolitana,Frango com Requeijão,Especialidade,70.9
+2063,Grande,Fina,Napolitana,3 Queijos,Especialidade,70.9
+2064,Grande,Fina,Presunto,Presunto,Especialidade,70.9
+2065,Grande,Fina,Presunto,Pepperoni,Especialidade,70.9
+2066,Grande,Fina,Presunto,Margherita,Especialidade,70.9
+2067,Grande,Fina,Presunto,Pizza de Queijo,Especialidade,70.9
+2068,Grande,Fina,Presunto,Corn & Bacon,Especialidade,70.9
+2069,Grande,Fina,Presunto,Calabresa,Especialidade,70.9
+2070,Grande,Fina,Presunto,Frango com Requeijão,Especialidade,70.9
+2071,Grande,Fina,Presunto,3 Queijos,Especialidade,70.9
+2072,Grande,Fina,Pepperoni,Pepperoni,Especialidade,70.9
+2073,Grande,Fina,Pepperoni,Margherita,Especialidade,70.9
+2074,Grande,Fina,Pepperoni,Pizza de Queijo,Especialidade,70.9
+2075,Grande,Fina,Pepperoni,Corn & Bacon,Especialidade,70.9
+2076,Grande,Fina,Pepperoni,Calabresa,Especialidade,70.9
+2077,Grande,Fina,Pepperoni,Frango com Requeijão,Especialidade,70.9
+2078,Grande,Fina,Pepperoni,3 Queijos,Especialidade,70.9
+2079,Grande,Fina,Margherita,Margherita,Especialidade,70.9
+2080,Grande,Fina,Margherita,Pizza de Queijo,Especialidade,70.9
+2081,Grande,Fina,Margherita,Corn & Bacon,Especialidade,70.9
+2082,Grande,Fina,Margherita,Calabresa,Especialidade,70.9
+2083,Grande,Fina,Margherita,Frango com Requeijão,Especialidade,70.9
+2084,Grande,Fina,Margherita,3 Queijos,Especialidade,70.9
+2085,Grande,Fina,Pizza de Queijo,Pizza de Queijo,Especialidade,70.9
+2086,Grande,Fina,Pizza de Queijo,Corn & Bacon,Especialidade,70.9
+2087,Grande,Fina,Pizza de Queijo,Calabresa,Especialidade,70.9
+2088,Grande,Fina,Pizza de Queijo,Frango com Requeijão,Especialidade,70.9
+2089,Grande,Fina,Pizza de Queijo,3 Queijos,Especialidade,70.9
+2090,Grande,Fina,Corn & Bacon,Corn & Bacon,Especialidade,70.9
+2091,Grande,Fina,Corn & Bacon,Calabresa,Especialidade,70.9
+2092,Grande,Fina,Corn & Bacon,Frango com Requeijão,Especialidade,70.9
+2093,Grande,Fina,Corn & Bacon,3 Queijos,Especialidade,70.9
+2094,Grande,Fina,Calabresa,Calabresa,Especialidade,70.9
+2095,Grande,Fina,Calabresa,Frango com Requeijão,Especialidade,70.9
+2096,Grande,Fina,Calabresa,3 Queijos,Especialidade,70.9
+2097,Grande,Fina,Frango com Requeijão,Frango com Requeijão,Especialidade,70.9
+2098,Grande,Fina,Frango com Requeijão,3 Queijos,Especialidade,70.9
+2099,Grande,Fina,3 Queijos,3 Queijos,Especialidade,70.9
+2100,Giga,Fina,Frango com Barbecue,Frango com Barbecue,Super Premium,93.9
+2101,Giga,Fina,Frango com Barbecue,Meat & Bacon,Super Premium,93.9
+2102,Giga,Fina,Frango com Barbecue,Extravaganzza®,Super Premium,93.9
+2103,Giga,Fina,Frango com Barbecue,Veggie®,Super Premium,93.9
+2104,Giga,Fina,Frango com Barbecue,Portuguesa,Super Premium,93.9
+2105,Giga,Fina,Frango com Barbecue,Pepperrock,Super Premium,93.9
+2106,Giga,Fina,Frango com Barbecue,Frango Grelhado,Super Premium,93.9
+2107,Giga,Fina,Frango com Barbecue,Frango com Cream Cheese,Super Premium,93.9
+2108,Giga,Fina,Frango com Barbecue,Egg & Bacon,Super Premium,93.9
+2109,Giga,Fina,Frango com Barbecue,Catuperoni,Super Premium,93.9
+2110,Giga,Fina,Frango com Barbecue,Calabresa Especial,Super Premium,93.9
+2111,Giga,Fina,Frango com Barbecue,Búfala La Bianca,Super Premium,93.9
+2112,Giga,Fina,Frango com Barbecue,Bauru,Super Premium,93.9
+2113,Giga,Fina,Frango com Barbecue,4 Queijos,Super Premium,93.9
+2114,Giga,Fina,Frango com Barbecue,América,Super Premium,93.9
+2115,Giga,Fina,Frango com Barbecue,Napolitana,Super Premium,93.9
+2116,Giga,Fina,Frango com Barbecue,Presunto,Super Premium,93.9
+2117,Giga,Fina,Frango com Barbecue,Pepperoni,Super Premium,93.9
+2118,Giga,Fina,Frango com Barbecue,Margherita,Super Premium,93.9
+2119,Giga,Fina,Frango com Barbecue,Pizza de Queijo,Super Premium,93.9
+2120,Giga,Fina,Frango com Barbecue,Corn & Bacon,Super Premium,93.9
+2121,Giga,Fina,Frango com Barbecue,Calabresa,Super Premium,93.9
+2122,Giga,Fina,Frango com Barbecue,Frango com Requeijão,Super Premium,93.9
+2123,Giga,Fina,Frango com Barbecue,3 Queijos,Super Premium,93.9
+2124,Giga,Fina,Meat & Bacon,Meat & Bacon,Super Premium,93.9
+2125,Giga,Fina,Meat & Bacon,Extravaganzza®,Super Premium,93.9
+2126,Giga,Fina,Meat & Bacon,Veggie®,Super Premium,93.9
+2127,Giga,Fina,Meat & Bacon,Portuguesa,Super Premium,93.9
+2128,Giga,Fina,Meat & Bacon,Pepperrock,Super Premium,93.9
+2129,Giga,Fina,Meat & Bacon,Frango Grelhado,Super Premium,93.9
+2130,Giga,Fina,Meat & Bacon,Frango com Cream Cheese,Super Premium,93.9
+2131,Giga,Fina,Meat & Bacon,Egg & Bacon,Super Premium,93.9
+2132,Giga,Fina,Meat & Bacon,Catuperoni,Super Premium,93.9
+2133,Giga,Fina,Meat & Bacon,Calabresa Especial,Super Premium,93.9
+2134,Giga,Fina,Meat & Bacon,Búfala La Bianca,Super Premium,93.9
+2135,Giga,Fina,Meat & Bacon,Bauru,Super Premium,93.9
+2136,Giga,Fina,Meat & Bacon,4 Queijos,Super Premium,93.9
+2137,Giga,Fina,Meat & Bacon,América,Super Premium,93.9
+2138,Giga,Fina,Meat & Bacon,Napolitana,Super Premium,93.9
+2139,Giga,Fina,Meat & Bacon,Presunto,Super Premium,93.9
+2140,Giga,Fina,Meat & Bacon,Pepperoni,Super Premium,93.9
+2141,Giga,Fina,Meat & Bacon,Margherita,Super Premium,93.9
+2142,Giga,Fina,Meat & Bacon,Pizza de Queijo,Super Premium,93.9
+2143,Giga,Fina,Meat & Bacon,Corn & Bacon,Super Premium,93.9
+2144,Giga,Fina,Meat & Bacon,Calabresa,Super Premium,93.9
+2145,Giga,Fina,Meat & Bacon,Frango com Requeijão,Super Premium,93.9
+2146,Giga,Fina,Meat & Bacon,3 Queijos,Super Premium,93.9
+2147,Giga,Fina,Extravaganzza®,Extravaganzza®,Super Premium,93.9
+2148,Giga,Fina,Extravaganzza®,Veggie®,Super Premium,93.9
+2149,Giga,Fina,Extravaganzza®,Portuguesa,Super Premium,93.9
+2150,Giga,Fina,Extravaganzza®,Pepperrock,Super Premium,93.9
+2151,Giga,Fina,Extravaganzza®,Frango Grelhado,Super Premium,93.9
+2152,Giga,Fina,Extravaganzza®,Frango com Cream Cheese,Super Premium,93.9
+2153,Giga,Fina,Extravaganzza®,Egg & Bacon,Super Premium,93.9
+2154,Giga,Fina,Extravaganzza®,Catuperoni,Super Premium,93.9
+2155,Giga,Fina,Extravaganzza®,Calabresa Especial,Super Premium,93.9
+2156,Giga,Fina,Extravaganzza®,Búfala La Bianca,Super Premium,93.9
+2157,Giga,Fina,Extravaganzza®,Bauru,Super Premium,93.9
+2158,Giga,Fina,Extravaganzza®,4 Queijos,Super Premium,93.9
+2159,Giga,Fina,Extravaganzza®,América,Super Premium,93.9
+2160,Giga,Fina,Extravaganzza®,Napolitana,Super Premium,93.9
+2161,Giga,Fina,Extravaganzza®,Presunto,Super Premium,93.9
+2162,Giga,Fina,Extravaganzza®,Pepperoni,Super Premium,93.9
+2163,Giga,Fina,Extravaganzza®,Margherita,Super Premium,93.9
+2164,Giga,Fina,Extravaganzza®,Pizza de Queijo,Super Premium,93.9
+2165,Giga,Fina,Extravaganzza®,Corn & Bacon,Super Premium,93.9
+2166,Giga,Fina,Extravaganzza®,Calabresa,Super Premium,93.9
+2167,Giga,Fina,Extravaganzza®,Frango com Requeijão,Super Premium,93.9
+2168,Giga,Fina,Extravaganzza®,3 Queijos,Super Premium,93.9
+2169,Giga,Fina,Veggie®,Veggie®,Super Premium,93.9
+2170,Giga,Fina,Veggie®,Portuguesa,Super Premium,93.9
+2171,Giga,Fina,Veggie®,Pepperrock,Super Premium,93.9
+2172,Giga,Fina,Veggie®,Frango Grelhado,Super Premium,93.9
+2173,Giga,Fina,Veggie®,Frango com Cream Cheese,Super Premium,93.9
+2174,Giga,Fina,Veggie®,Egg & Bacon,Super Premium,93.9
+2175,Giga,Fina,Veggie®,Catuperoni,Super Premium,93.9
+2176,Giga,Fina,Veggie®,Calabresa Especial,Super Premium,93.9
+2177,Giga,Fina,Veggie®,Búfala La Bianca,Super Premium,93.9
+2178,Giga,Fina,Veggie®,Bauru,Super Premium,93.9
+2179,Giga,Fina,Veggie®,4 Queijos,Super Premium,93.9
+2180,Giga,Fina,Veggie®,América,Super Premium,93.9
+2181,Giga,Fina,Veggie®,Napolitana,Super Premium,93.9
+2182,Giga,Fina,Veggie®,Presunto,Super Premium,93.9
+2183,Giga,Fina,Veggie®,Pepperoni,Super Premium,93.9
+2184,Giga,Fina,Veggie®,Margherita,Super Premium,93.9
+2185,Giga,Fina,Veggie®,Pizza de Queijo,Super Premium,93.9
+2186,Giga,Fina,Veggie®,Corn & Bacon,Super Premium,93.9
+2187,Giga,Fina,Veggie®,Calabresa,Super Premium,93.9
+2188,Giga,Fina,Veggie®,Frango com Requeijão,Super Premium,93.9
+2189,Giga,Fina,Veggie®,3 Queijos,Super Premium,93.9
+2190,Giga,Fina,Portuguesa,Portuguesa,Super Premium,93.9
+2191,Giga,Fina,Portuguesa,Pepperrock,Super Premium,93.9
+2192,Giga,Fina,Portuguesa,Frango Grelhado,Super Premium,93.9
+2193,Giga,Fina,Portuguesa,Frango com Cream Cheese,Super Premium,93.9
+2194,Giga,Fina,Portuguesa,Egg & Bacon,Super Premium,93.9
+2195,Giga,Fina,Portuguesa,Catuperoni,Super Premium,93.9
+2196,Giga,Fina,Portuguesa,Calabresa Especial,Super Premium,93.9
+2197,Giga,Fina,Portuguesa,Búfala La Bianca,Super Premium,93.9
+2198,Giga,Fina,Portuguesa,Bauru,Super Premium,93.9
+2199,Giga,Fina,Portuguesa,4 Queijos,Super Premium,93.9
+2200,Giga,Fina,Portuguesa,América,Super Premium,93.9
+2201,Giga,Fina,Portuguesa,Napolitana,Super Premium,93.9
+2202,Giga,Fina,Portuguesa,Presunto,Super Premium,93.9
+2203,Giga,Fina,Portuguesa,Pepperoni,Super Premium,93.9
+2204,Giga,Fina,Portuguesa,Margherita,Super Premium,93.9
+2205,Giga,Fina,Portuguesa,Pizza de Queijo,Super Premium,93.9
+2206,Giga,Fina,Portuguesa,Corn & Bacon,Super Premium,93.9
+2207,Giga,Fina,Portuguesa,Calabresa,Super Premium,93.9
+2208,Giga,Fina,Portuguesa,Frango com Requeijão,Super Premium,93.9
+2209,Giga,Fina,Portuguesa,3 Queijos,Super Premium,93.9
+2210,Giga,Fina,Pepperrock,Pepperrock,Super Premium,93.9
+2211,Giga,Fina,Pepperrock,Frango Grelhado,Super Premium,93.9
+2212,Giga,Fina,Pepperrock,Frango com Cream Cheese,Super Premium,93.9
+2213,Giga,Fina,Pepperrock,Egg & Bacon,Super Premium,93.9
+2214,Giga,Fina,Pepperrock,Catuperoni,Super Premium,93.9
+2215,Giga,Fina,Pepperrock,Calabresa Especial,Super Premium,93.9
+2216,Giga,Fina,Pepperrock,Búfala La Bianca,Super Premium,93.9
+2217,Giga,Fina,Pepperrock,Bauru,Super Premium,93.9
+2218,Giga,Fina,Pepperrock,4 Queijos,Super Premium,93.9
+2219,Giga,Fina,Pepperrock,América,Super Premium,93.9
+2220,Giga,Fina,Pepperrock,Napolitana,Super Premium,93.9
+2221,Giga,Fina,Pepperrock,Presunto,Super Premium,93.9
+2222,Giga,Fina,Pepperrock,Pepperoni,Super Premium,93.9
+2223,Giga,Fina,Pepperrock,Margherita,Super Premium,93.9
+2224,Giga,Fina,Pepperrock,Pizza de Queijo,Super Premium,93.9
+2225,Giga,Fina,Pepperrock,Corn & Bacon,Super Premium,93.9
+2226,Giga,Fina,Pepperrock,Calabresa,Super Premium,93.9
+2227,Giga,Fina,Pepperrock,Frango com Requeijão,Super Premium,93.9
+2228,Giga,Fina,Pepperrock,3 Queijos,Super Premium,93.9
+2229,Giga,Fina,Frango Grelhado,Frango Grelhado,Super Premium,93.9
+2230,Giga,Fina,Frango Grelhado,Frango com Cream Cheese,Super Premium,93.9
+2231,Giga,Fina,Frango Grelhado,Egg & Bacon,Super Premium,93.9
+2232,Giga,Fina,Frango Grelhado,Catuperoni,Super Premium,93.9
+2233,Giga,Fina,Frango Grelhado,Calabresa Especial,Super Premium,93.9
+2234,Giga,Fina,Frango Grelhado,Búfala La Bianca,Super Premium,93.9
+2235,Giga,Fina,Frango Grelhado,Bauru,Super Premium,93.9
+2236,Giga,Fina,Frango Grelhado,4 Queijos,Super Premium,93.9
+2237,Giga,Fina,Frango Grelhado,América,Super Premium,93.9
+2238,Giga,Fina,Frango Grelhado,Napolitana,Super Premium,93.9
+2239,Giga,Fina,Frango Grelhado,Presunto,Super Premium,93.9
+2240,Giga,Fina,Frango Grelhado,Pepperoni,Super Premium,93.9
+2241,Giga,Fina,Frango Grelhado,Margherita,Super Premium,93.9
+2242,Giga,Fina,Frango Grelhado,Pizza de Queijo,Super Premium,93.9
+2243,Giga,Fina,Frango Grelhado,Corn & Bacon,Super Premium,93.9
+2244,Giga,Fina,Frango Grelhado,Calabresa,Super Premium,93.9
+2245,Giga,Fina,Frango Grelhado,Frango com Requeijão,Super Premium,93.9
+2246,Giga,Fina,Frango Grelhado,3 Queijos,Super Premium,93.9
+2247,Giga,Fina,Frango com Cream Cheese,Frango com Cream Cheese,Premium,85.9
+2248,Giga,Fina,Frango com Cream Cheese,Egg & Bacon,Premium,85.9
+2249,Giga,Fina,Frango com Cream Cheese,Catuperoni,Premium,85.9
+2250,Giga,Fina,Frango com Cream Cheese,Calabresa Especial,Premium,85.9
+2251,Giga,Fina,Frango com Cream Cheese,Búfala La Bianca,Premium,85.9
+2252,Giga,Fina,Frango com Cream Cheese,Bauru,Premium,85.9
+2253,Giga,Fina,Frango com Cream Cheese,4 Queijos,Premium,85.9
+2254,Giga,Fina,Frango com Cream Cheese,América,Premium,85.9
+2255,Giga,Fina,Frango com Cream Cheese,Napolitana,Premium,85.9
+2256,Giga,Fina,Frango com Cream Cheese,Presunto,Premium,85.9
+2257,Giga,Fina,Frango com Cream Cheese,Pepperoni,Premium,85.9
+2258,Giga,Fina,Frango com Cream Cheese,Margherita,Premium,85.9
+2259,Giga,Fina,Frango com Cream Cheese,Pizza de Queijo,Premium,85.9
+2260,Giga,Fina,Frango com Cream Cheese,Corn & Bacon,Premium,85.9
+2261,Giga,Fina,Frango com Cream Cheese,Calabresa,Premium,85.9
+2262,Giga,Fina,Frango com Cream Cheese,Frango com Requeijão,Premium,85.9
+2263,Giga,Fina,Frango com Cream Cheese,3 Queijos,Premium,85.9
+2264,Giga,Fina,Egg & Bacon,Egg & Bacon,Premium,85.9
+2265,Giga,Fina,Egg & Bacon,Catuperoni,Premium,85.9
+2266,Giga,Fina,Egg & Bacon,Calabresa Especial,Premium,85.9
+2267,Giga,Fina,Egg & Bacon,Búfala La Bianca,Premium,85.9
+2268,Giga,Fina,Egg & Bacon,Bauru,Premium,85.9
+2269,Giga,Fina,Egg & Bacon,4 Queijos,Premium,85.9
+2270,Giga,Fina,Egg & Bacon,América,Premium,85.9
+2271,Giga,Fina,Egg & Bacon,Napolitana,Premium,85.9
+2272,Giga,Fina,Egg & Bacon,Presunto,Premium,85.9
+2273,Giga,Fina,Egg & Bacon,Pepperoni,Premium,85.9
+2274,Giga,Fina,Egg & Bacon,Margherita,Premium,85.9
+2275,Giga,Fina,Egg & Bacon,Pizza de Queijo,Premium,85.9
+2276,Giga,Fina,Egg & Bacon,Corn & Bacon,Premium,85.9
+2277,Giga,Fina,Egg & Bacon,Calabresa,Premium,85.9
+2278,Giga,Fina,Egg & Bacon,Frango com Requeijão,Premium,85.9
+2279,Giga,Fina,Egg & Bacon,3 Queijos,Premium,85.9
+2280,Giga,Fina,Catuperoni,Catuperoni,Premium,85.9
+2281,Giga,Fina,Catuperoni,Calabresa Especial,Premium,85.9
+2282,Giga,Fina,Catuperoni,Búfala La Bianca,Premium,85.9
+2283,Giga,Fina,Catuperoni,Bauru,Premium,85.9
+2284,Giga,Fina,Catuperoni,4 Queijos,Premium,85.9
+2285,Giga,Fina,Catuperoni,América,Premium,85.9
+2286,Giga,Fina,Catuperoni,Napolitana,Premium,85.9
+2287,Giga,Fina,Catuperoni,Presunto,Premium,85.9
+2288,Giga,Fina,Catuperoni,Pepperoni,Premium,85.9
+2289,Giga,Fina,Catuperoni,Margherita,Premium,85.9
+2290,Giga,Fina,Catuperoni,Pizza de Queijo,Premium,85.9
+2291,Giga,Fina,Catuperoni,Corn & Bacon,Premium,85.9
+2292,Giga,Fina,Catuperoni,Calabresa,Premium,85.9
+2293,Giga,Fina,Catuperoni,Frango com Requeijão,Premium,85.9
+2294,Giga,Fina,Catuperoni,3 Queijos,Premium,85.9
+2295,Giga,Fina,Calabresa Especial,Calabresa Especial,Premium,85.9
+2296,Giga,Fina,Calabresa Especial,Búfala La Bianca,Premium,85.9
+2297,Giga,Fina,Calabresa Especial,Bauru,Premium,85.9
+2298,Giga,Fina,Calabresa Especial,4 Queijos,Premium,85.9
+2299,Giga,Fina,Calabresa Especial,América,Premium,85.9
+2300,Giga,Fina,Calabresa Especial,Napolitana,Premium,85.9
+2301,Giga,Fina,Calabresa Especial,Presunto,Premium,85.9
+2302,Giga,Fina,Calabresa Especial,Pepperoni,Premium,85.9
+2303,Giga,Fina,Calabresa Especial,Margherita,Premium,85.9
+2304,Giga,Fina,Calabresa Especial,Pizza de Queijo,Premium,85.9
+2305,Giga,Fina,Calabresa Especial,Corn & Bacon,Premium,85.9
+2306,Giga,Fina,Calabresa Especial,Calabresa,Premium,85.9
+2307,Giga,Fina,Calabresa Especial,Frango com Requeijão,Premium,85.9
+2308,Giga,Fina,Calabresa Especial,3 Queijos,Premium,85.9
+2309,Giga,Fina,Búfala La Bianca,Búfala La Bianca,Premium,85.9
+2310,Giga,Fina,Búfala La Bianca,Bauru,Premium,85.9
+2311,Giga,Fina,Búfala La Bianca,4 Queijos,Premium,85.9
+2312,Giga,Fina,Búfala La Bianca,América,Premium,85.9
+2313,Giga,Fina,Búfala La Bianca,Napolitana,Premium,85.9
+2314,Giga,Fina,Búfala La Bianca,Presunto,Premium,85.9
+2315,Giga,Fina,Búfala La Bianca,Pepperoni,Premium,85.9
+2316,Giga,Fina,Búfala La Bianca,Margherita,Premium,85.9
+2317,Giga,Fina,Búfala La Bianca,Pizza de Queijo,Premium,85.9
+2318,Giga,Fina,Búfala La Bianca,Corn & Bacon,Premium,85.9
+2319,Giga,Fina,Búfala La Bianca,Calabresa,Premium,85.9
+2320,Giga,Fina,Búfala La Bianca,Frango com Requeijão,Premium,85.9
+2321,Giga,Fina,Búfala La Bianca,3 Queijos,Premium,85.9
+2322,Giga,Fina,Bauru,Bauru,Premium,85.9
+2323,Giga,Fina,Bauru,4 Queijos,Premium,85.9
+2324,Giga,Fina,Bauru,América,Premium,85.9
+2325,Giga,Fina,Bauru,Napolitana,Premium,85.9
+2326,Giga,Fina,Bauru,Presunto,Premium,85.9
+2327,Giga,Fina,Bauru,Pepperoni,Premium,85.9
+2328,Giga,Fina,Bauru,Margherita,Premium,85.9
+2329,Giga,Fina,Bauru,Pizza de Queijo,Premium,85.9
+2330,Giga,Fina,Bauru,Corn & Bacon,Premium,85.9
+2331,Giga,Fina,Bauru,Calabresa,Premium,85.9
+2332,Giga,Fina,Bauru,Frango com Requeijão,Premium,85.9
+2333,Giga,Fina,Bauru,3 Queijos,Premium,85.9
+2334,Giga,Fina,4 Queijos,4 Queijos,Premium,85.9
+2335,Giga,Fina,4 Queijos,América,Premium,85.9
+2336,Giga,Fina,4 Queijos,Napolitana,Premium,85.9
+2337,Giga,Fina,4 Queijos,Presunto,Premium,85.9
+2338,Giga,Fina,4 Queijos,Pepperoni,Premium,85.9
+2339,Giga,Fina,4 Queijos,Margherita,Premium,85.9
+2340,Giga,Fina,4 Queijos,Pizza de Queijo,Premium,85.9
+2341,Giga,Fina,4 Queijos,Corn & Bacon,Premium,85.9
+2342,Giga,Fina,4 Queijos,Calabresa,Premium,85.9
+2343,Giga,Fina,4 Queijos,Frango com Requeijão,Premium,85.9
+2344,Giga,Fina,4 Queijos,3 Queijos,Premium,85.9
+2345,Giga,Fina,América,América,Premium,85.9
+2346,Giga,Fina,América,Napolitana,Premium,85.9
+2347,Giga,Fina,América,Presunto,Premium,85.9
+2348,Giga,Fina,América,Pepperoni,Premium,85.9
+2349,Giga,Fina,América,Margherita,Premium,85.9
+2350,Giga,Fina,América,Pizza de Queijo,Premium,85.9
+2351,Giga,Fina,América,Corn & Bacon,Premium,85.9
+2352,Giga,Fina,América,Calabresa,Premium,85.9
+2353,Giga,Fina,América,Frango com Requeijão,Premium,85.9
+2354,Giga,Fina,América,3 Queijos,Premium,85.9
+2355,Giga,Fina,Napolitana,Napolitana,Especialidade,78.9
+2356,Giga,Fina,Napolitana,Presunto,Especialidade,78.9
+2357,Giga,Fina,Napolitana,Pepperoni,Especialidade,78.9
+2358,Giga,Fina,Napolitana,Margherita,Especialidade,78.9
+2359,Giga,Fina,Napolitana,Pizza de Queijo,Especialidade,78.9
+2360,Giga,Fina,Napolitana,Corn & Bacon,Especialidade,78.9
+2361,Giga,Fina,Napolitana,Calabresa,Especialidade,78.9
+2362,Giga,Fina,Napolitana,Frango com Requeijão,Especialidade,78.9
+2363,Giga,Fina,Napolitana,3 Queijos,Especialidade,78.9
+2364,Giga,Fina,Presunto,Presunto,Especialidade,78.9
+2365,Giga,Fina,Presunto,Pepperoni,Especialidade,78.9
+2366,Giga,Fina,Presunto,Margherita,Especialidade,78.9
+2367,Giga,Fina,Presunto,Pizza de Queijo,Especialidade,78.9
+2368,Giga,Fina,Presunto,Corn & Bacon,Especialidade,78.9
+2369,Giga,Fina,Presunto,Calabresa,Especialidade,78.9
+2370,Giga,Fina,Presunto,Frango com Requeijão,Especialidade,78.9
+2371,Giga,Fina,Presunto,3 Queijos,Especialidade,78.9
+2372,Giga,Fina,Pepperoni,Pepperoni,Especialidade,78.9
+2373,Giga,Fina,Pepperoni,Margherita,Especialidade,78.9
+2374,Giga,Fina,Pepperoni,Pizza de Queijo,Especialidade,78.9
+2375,Giga,Fina,Pepperoni,Corn & Bacon,Especialidade,78.9
+2376,Giga,Fina,Pepperoni,Calabresa,Especialidade,78.9
+2377,Giga,Fina,Pepperoni,Frango com Requeijão,Especialidade,78.9
+2378,Giga,Fina,Pepperoni,3 Queijos,Especialidade,78.9
+2379,Giga,Fina,Margherita,Margherita,Especialidade,78.9
+2380,Giga,Fina,Margherita,Pizza de Queijo,Especialidade,78.9
+2381,Giga,Fina,Margherita,Corn & Bacon,Especialidade,78.9
+2382,Giga,Fina,Margherita,Calabresa,Especialidade,78.9
+2383,Giga,Fina,Margherita,Frango com Requeijão,Especialidade,78.9
+2384,Giga,Fina,Margherita,3 Queijos,Especialidade,78.9
+2385,Giga,Fina,Pizza de Queijo,Pizza de Queijo,Especialidade,78.9
+2386,Giga,Fina,Pizza de Queijo,Corn & Bacon,Especialidade,78.9
+2387,Giga,Fina,Pizza de Queijo,Calabresa,Especialidade,78.9
+2388,Giga,Fina,Pizza de Queijo,Frango com Requeijão,Especialidade,78.9
+2389,Giga,Fina,Pizza de Queijo,3 Queijos,Especialidade,78.9
+2390,Giga,Fina,Corn & Bacon,Corn & Bacon,Especialidade,78.9
+2391,Giga,Fina,Corn & Bacon,Calabresa,Especialidade,78.9
+2392,Giga,Fina,Corn & Bacon,Frango com Requeijão,Especialidade,78.9
+2393,Giga,Fina,Corn & Bacon,3 Queijos,Especialidade,78.9
+2394,Giga,Fina,Calabresa,Calabresa,Especialidade,78.9
+2395,Giga,Fina,Calabresa,Frango com Requeijão,Especialidade,78.9
+2396,Giga,Fina,Calabresa,3 Queijos,Especialidade,78.9
+2397,Giga,Fina,Frango com Requeijão,Frango com Requeijão,Especialidade,78.9
+2398,Giga,Fina,Frango com Requeijão,3 Queijos,Especialidade,78.9
+2399,Giga,Fina,3 Queijos,3 Queijos,Especialidade,78.9
+2400,Média,Pan,Frango com Barbecue,Frango com Barbecue,Super Premium,62.9
+2401,Média,Pan,Frango com Barbecue,Meat & Bacon,Super Premium,62.9
+2402,Média,Pan,Frango com Barbecue,Extravaganzza®,Super Premium,62.9
+2403,Média,Pan,Frango com Barbecue,Veggie®,Super Premium,62.9
+2404,Média,Pan,Frango com Barbecue,Portuguesa,Super Premium,62.9
+2405,Média,Pan,Frango com Barbecue,Pepperrock,Super Premium,62.9
+2406,Média,Pan,Frango com Barbecue,Frango Grelhado,Super Premium,62.9
+2407,Média,Pan,Frango com Barbecue,Frango com Cream Cheese,Super Premium,62.9
+2408,Média,Pan,Frango com Barbecue,Egg & Bacon,Super Premium,62.9
+2409,Média,Pan,Frango com Barbecue,Catuperoni,Super Premium,62.9
+2410,Média,Pan,Frango com Barbecue,Calabresa Especial,Super Premium,62.9
+2411,Média,Pan,Frango com Barbecue,Búfala La Bianca,Super Premium,62.9
+2412,Média,Pan,Frango com Barbecue,Bauru,Super Premium,62.9
+2413,Média,Pan,Frango com Barbecue,4 Queijos,Super Premium,62.9
+2414,Média,Pan,Frango com Barbecue,América,Super Premium,62.9
+2415,Média,Pan,Frango com Barbecue,Napolitana,Super Premium,62.9
+2416,Média,Pan,Frango com Barbecue,Presunto,Super Premium,62.9
+2417,Média,Pan,Frango com Barbecue,Pepperoni,Super Premium,62.9
+2418,Média,Pan,Frango com Barbecue,Margherita,Super Premium,62.9
+2419,Média,Pan,Frango com Barbecue,Pizza de Queijo,Super Premium,62.9
+2420,Média,Pan,Frango com Barbecue,Corn & Bacon,Super Premium,62.9
+2421,Média,Pan,Frango com Barbecue,Calabresa,Super Premium,62.9
+2422,Média,Pan,Frango com Barbecue,Frango com Requeijão,Super Premium,62.9
+2423,Média,Pan,Frango com Barbecue,3 Queijos,Super Premium,62.9
+2424,Média,Pan,Meat & Bacon,Meat & Bacon,Super Premium,62.9
+2425,Média,Pan,Meat & Bacon,Extravaganzza®,Super Premium,62.9
+2426,Média,Pan,Meat & Bacon,Veggie®,Super Premium,62.9
+2427,Média,Pan,Meat & Bacon,Portuguesa,Super Premium,62.9
+2428,Média,Pan,Meat & Bacon,Pepperrock,Super Premium,62.9
+2429,Média,Pan,Meat & Bacon,Frango Grelhado,Super Premium,62.9
+2430,Média,Pan,Meat & Bacon,Frango com Cream Cheese,Super Premium,62.9
+2431,Média,Pan,Meat & Bacon,Egg & Bacon,Super Premium,62.9
+2432,Média,Pan,Meat & Bacon,Catuperoni,Super Premium,62.9
+2433,Média,Pan,Meat & Bacon,Calabresa Especial,Super Premium,62.9
+2434,Média,Pan,Meat & Bacon,Búfala La Bianca,Super Premium,62.9
+2435,Média,Pan,Meat & Bacon,Bauru,Super Premium,62.9
+2436,Média,Pan,Meat & Bacon,4 Queijos,Super Premium,62.9
+2437,Média,Pan,Meat & Bacon,América,Super Premium,62.9
+2438,Média,Pan,Meat & Bacon,Napolitana,Super Premium,62.9
+2439,Média,Pan,Meat & Bacon,Presunto,Super Premium,62.9
+2440,Média,Pan,Meat & Bacon,Pepperoni,Super Premium,62.9
+2441,Média,Pan,Meat & Bacon,Margherita,Super Premium,62.9
+2442,Média,Pan,Meat & Bacon,Pizza de Queijo,Super Premium,62.9
+2443,Média,Pan,Meat & Bacon,Corn & Bacon,Super Premium,62.9
+2444,Média,Pan,Meat & Bacon,Calabresa,Super Premium,62.9
+2445,Média,Pan,Meat & Bacon,Frango com Requeijão,Super Premium,62.9
+2446,Média,Pan,Meat & Bacon,3 Queijos,Super Premium,62.9
+2447,Média,Pan,Extravaganzza®,Extravaganzza®,Super Premium,62.9
+2448,Média,Pan,Extravaganzza®,Veggie®,Super Premium,62.9
+2449,Média,Pan,Extravaganzza®,Portuguesa,Super Premium,62.9
+2450,Média,Pan,Extravaganzza®,Pepperrock,Super Premium,62.9
+2451,Média,Pan,Extravaganzza®,Frango Grelhado,Super Premium,62.9
+2452,Média,Pan,Extravaganzza®,Frango com Cream Cheese,Super Premium,62.9
+2453,Média,Pan,Extravaganzza®,Egg & Bacon,Super Premium,62.9
+2454,Média,Pan,Extravaganzza®,Catuperoni,Super Premium,62.9
+2455,Média,Pan,Extravaganzza®,Calabresa Especial,Super Premium,62.9
+2456,Média,Pan,Extravaganzza®,Búfala La Bianca,Super Premium,62.9
+2457,Média,Pan,Extravaganzza®,Bauru,Super Premium,62.9
+2458,Média,Pan,Extravaganzza®,4 Queijos,Super Premium,62.9
+2459,Média,Pan,Extravaganzza®,América,Super Premium,62.9
+2460,Média,Pan,Extravaganzza®,Napolitana,Super Premium,62.9
+2461,Média,Pan,Extravaganzza®,Presunto,Super Premium,62.9
+2462,Média,Pan,Extravaganzza®,Pepperoni,Super Premium,62.9
+2463,Média,Pan,Extravaganzza®,Margherita,Super Premium,62.9
+2464,Média,Pan,Extravaganzza®,Pizza de Queijo,Super Premium,62.9
+2465,Média,Pan,Extravaganzza®,Corn & Bacon,Super Premium,62.9
+2466,Média,Pan,Extravaganzza®,Calabresa,Super Premium,62.9
+2467,Média,Pan,Extravaganzza®,Frango com Requeijão,Super Premium,62.9
+2468,Média,Pan,Extravaganzza®,3 Queijos,Super Premium,62.9
+2469,Média,Pan,Veggie®,Veggie®,Super Premium,62.9
+2470,Média,Pan,Veggie®,Portuguesa,Super Premium,62.9
+2471,Média,Pan,Veggie®,Pepperrock,Super Premium,62.9
+2472,Média,Pan,Veggie®,Frango Grelhado,Super Premium,62.9
+2473,Média,Pan,Veggie®,Frango com Cream Cheese,Super Premium,62.9
+2474,Média,Pan,Veggie®,Egg & Bacon,Super Premium,62.9
+2475,Média,Pan,Veggie®,Catuperoni,Super Premium,62.9
+2476,Média,Pan,Veggie®,Calabresa Especial,Super Premium,62.9
+2477,Média,Pan,Veggie®,Búfala La Bianca,Super Premium,62.9
+2478,Média,Pan,Veggie®,Bauru,Super Premium,62.9
+2479,Média,Pan,Veggie®,4 Queijos,Super Premium,62.9
+2480,Média,Pan,Veggie®,América,Super Premium,62.9
+2481,Média,Pan,Veggie®,Napolitana,Super Premium,62.9
+2482,Média,Pan,Veggie®,Presunto,Super Premium,62.9
+2483,Média,Pan,Veggie®,Pepperoni,Super Premium,62.9
+2484,Média,Pan,Veggie®,Margherita,Super Premium,62.9
+2485,Média,Pan,Veggie®,Pizza de Queijo,Super Premium,62.9
+2486,Média,Pan,Veggie®,Corn & Bacon,Super Premium,62.9
+2487,Média,Pan,Veggie®,Calabresa,Super Premium,62.9
+2488,Média,Pan,Veggie®,Frango com Requeijão,Super Premium,62.9
+2489,Média,Pan,Veggie®,3 Queijos,Super Premium,62.9
+2490,Média,Pan,Portuguesa,Portuguesa,Super Premium,62.9
+2491,Média,Pan,Portuguesa,Pepperrock,Super Premium,62.9
+2492,Média,Pan,Portuguesa,Frango Grelhado,Super Premium,62.9
+2493,Média,Pan,Portuguesa,Frango com Cream Cheese,Super Premium,62.9
+2494,Média,Pan,Portuguesa,Egg & Bacon,Super Premium,62.9
+2495,Média,Pan,Portuguesa,Catuperoni,Super Premium,62.9
+2496,Média,Pan,Portuguesa,Calabresa Especial,Super Premium,62.9
+2497,Média,Pan,Portuguesa,Búfala La Bianca,Super Premium,62.9
+2498,Média,Pan,Portuguesa,Bauru,Super Premium,62.9
+2499,Média,Pan,Portuguesa,4 Queijos,Super Premium,62.9
+2500,Média,Pan,Portuguesa,América,Super Premium,62.9
+2501,Média,Pan,Portuguesa,Napolitana,Super Premium,62.9
+2502,Média,Pan,Portuguesa,Presunto,Super Premium,62.9
+2503,Média,Pan,Portuguesa,Pepperoni,Super Premium,62.9
+2504,Média,Pan,Portuguesa,Margherita,Super Premium,62.9
+2505,Média,Pan,Portuguesa,Pizza de Queijo,Super Premium,62.9
+2506,Média,Pan,Portuguesa,Corn & Bacon,Super Premium,62.9
+2507,Média,Pan,Portuguesa,Calabresa,Super Premium,62.9
+2508,Média,Pan,Portuguesa,Frango com Requeijão,Super Premium,62.9
+2509,Média,Pan,Portuguesa,3 Queijos,Super Premium,62.9
+2510,Média,Pan,Pepperrock,Pepperrock,Super Premium,62.9
+2511,Média,Pan,Pepperrock,Frango Grelhado,Super Premium,62.9
+2512,Média,Pan,Pepperrock,Frango com Cream Cheese,Super Premium,62.9
+2513,Média,Pan,Pepperrock,Egg & Bacon,Super Premium,62.9
+2514,Média,Pan,Pepperrock,Catuperoni,Super Premium,62.9
+2515,Média,Pan,Pepperrock,Calabresa Especial,Super Premium,62.9
+2516,Média,Pan,Pepperrock,Búfala La Bianca,Super Premium,62.9
+2517,Média,Pan,Pepperrock,Bauru,Super Premium,62.9
+2518,Média,Pan,Pepperrock,4 Queijos,Super Premium,62.9
+2519,Média,Pan,Pepperrock,América,Super Premium,62.9
+2520,Média,Pan,Pepperrock,Napolitana,Super Premium,62.9
+2521,Média,Pan,Pepperrock,Presunto,Super Premium,62.9
+2522,Média,Pan,Pepperrock,Pepperoni,Super Premium,62.9
+2523,Média,Pan,Pepperrock,Margherita,Super Premium,62.9
+2524,Média,Pan,Pepperrock,Pizza de Queijo,Super Premium,62.9
+2525,Média,Pan,Pepperrock,Corn & Bacon,Super Premium,62.9
+2526,Média,Pan,Pepperrock,Calabresa,Super Premium,62.9
+2527,Média,Pan,Pepperrock,Frango com Requeijão,Super Premium,62.9
+2528,Média,Pan,Pepperrock,3 Queijos,Super Premium,62.9
+2529,Média,Pan,Frango Grelhado,Frango Grelhado,Super Premium,62.9
+2530,Média,Pan,Frango Grelhado,Frango com Cream Cheese,Super Premium,62.9
+2531,Média,Pan,Frango Grelhado,Egg & Bacon,Super Premium,62.9
+2532,Média,Pan,Frango Grelhado,Catuperoni,Super Premium,62.9
+2533,Média,Pan,Frango Grelhado,Calabresa Especial,Super Premium,62.9
+2534,Média,Pan,Frango Grelhado,Búfala La Bianca,Super Premium,62.9
+2535,Média,Pan,Frango Grelhado,Bauru,Super Premium,62.9
+2536,Média,Pan,Frango Grelhado,4 Queijos,Super Premium,62.9
+2537,Média,Pan,Frango Grelhado,América,Super Premium,62.9
+2538,Média,Pan,Frango Grelhado,Napolitana,Super Premium,62.9
+2539,Média,Pan,Frango Grelhado,Presunto,Super Premium,62.9
+2540,Média,Pan,Frango Grelhado,Pepperoni,Super Premium,62.9
+2541,Média,Pan,Frango Grelhado,Margherita,Super Premium,62.9
+2542,Média,Pan,Frango Grelhado,Pizza de Queijo,Super Premium,62.9
+2543,Média,Pan,Frango Grelhado,Corn & Bacon,Super Premium,62.9
+2544,Média,Pan,Frango Grelhado,Calabresa,Super Premium,62.9
+2545,Média,Pan,Frango Grelhado,Frango com Requeijão,Super Premium,62.9
+2546,Média,Pan,Frango Grelhado,3 Queijos,Super Premium,62.9
+2547,Média,Pan,Frango com Cream Cheese,Frango com Cream Cheese,Premium,57.9
+2548,Média,Pan,Frango com Cream Cheese,Egg & Bacon,Premium,57.9
+2549,Média,Pan,Frango com Cream Cheese,Catuperoni,Premium,57.9
+2550,Média,Pan,Frango com Cream Cheese,Calabresa Especial,Premium,57.9
+2551,Média,Pan,Frango com Cream Cheese,Búfala La Bianca,Premium,57.9
+2552,Média,Pan,Frango com Cream Cheese,Bauru,Premium,57.9
+2553,Média,Pan,Frango com Cream Cheese,4 Queijos,Premium,57.9
+2554,Média,Pan,Frango com Cream Cheese,América,Premium,57.9
+2555,Média,Pan,Frango com Cream Cheese,Napolitana,Premium,57.9
+2556,Média,Pan,Frango com Cream Cheese,Presunto,Premium,57.9
+2557,Média,Pan,Frango com Cream Cheese,Pepperoni,Premium,57.9
+2558,Média,Pan,Frango com Cream Cheese,Margherita,Premium,57.9
+2559,Média,Pan,Frango com Cream Cheese,Pizza de Queijo,Premium,57.9
+2560,Média,Pan,Frango com Cream Cheese,Corn & Bacon,Premium,57.9
+2561,Média,Pan,Frango com Cream Cheese,Calabresa,Premium,57.9
+2562,Média,Pan,Frango com Cream Cheese,Frango com Requeijão,Premium,57.9
+2563,Média,Pan,Frango com Cream Cheese,3 Queijos,Premium,57.9
+2564,Média,Pan,Egg & Bacon,Egg & Bacon,Premium,57.9
+2565,Média,Pan,Egg & Bacon,Catuperoni,Premium,57.9
+2566,Média,Pan,Egg & Bacon,Calabresa Especial,Premium,57.9
+2567,Média,Pan,Egg & Bacon,Búfala La Bianca,Premium,57.9
+2568,Média,Pan,Egg & Bacon,Bauru,Premium,57.9
+2569,Média,Pan,Egg & Bacon,4 Queijos,Premium,57.9
+2570,Média,Pan,Egg & Bacon,América,Premium,57.9
+2571,Média,Pan,Egg & Bacon,Napolitana,Premium,57.9
+2572,Média,Pan,Egg & Bacon,Presunto,Premium,57.9
+2573,Média,Pan,Egg & Bacon,Pepperoni,Premium,57.9
+2574,Média,Pan,Egg & Bacon,Margherita,Premium,57.9
+2575,Média,Pan,Egg & Bacon,Pizza de Queijo,Premium,57.9
+2576,Média,Pan,Egg & Bacon,Corn & Bacon,Premium,57.9
+2577,Média,Pan,Egg & Bacon,Calabresa,Premium,57.9
+2578,Média,Pan,Egg & Bacon,Frango com Requeijão,Premium,57.9
+2579,Média,Pan,Egg & Bacon,3 Queijos,Premium,57.9
+2580,Média,Pan,Catuperoni,Catuperoni,Premium,57.9
+2581,Média,Pan,Catuperoni,Calabresa Especial,Premium,57.9
+2582,Média,Pan,Catuperoni,Búfala La Bianca,Premium,57.9
+2583,Média,Pan,Catuperoni,Bauru,Premium,57.9
+2584,Média,Pan,Catuperoni,4 Queijos,Premium,57.9
+2585,Média,Pan,Catuperoni,América,Premium,57.9
+2586,Média,Pan,Catuperoni,Napolitana,Premium,57.9
+2587,Média,Pan,Catuperoni,Presunto,Premium,57.9
+2588,Média,Pan,Catuperoni,Pepperoni,Premium,57.9
+2589,Média,Pan,Catuperoni,Margherita,Premium,57.9
+2590,Média,Pan,Catuperoni,Pizza de Queijo,Premium,57.9
+2591,Média,Pan,Catuperoni,Corn & Bacon,Premium,57.9
+2592,Média,Pan,Catuperoni,Calabresa,Premium,57.9
+2593,Média,Pan,Catuperoni,Frango com Requeijão,Premium,57.9
+2594,Média,Pan,Catuperoni,3 Queijos,Premium,57.9
+2595,Média,Pan,Calabresa Especial,Calabresa Especial,Premium,57.9
+2596,Média,Pan,Calabresa Especial,Búfala La Bianca,Premium,57.9
+2597,Média,Pan,Calabresa Especial,Bauru,Premium,57.9
+2598,Média,Pan,Calabresa Especial,4 Queijos,Premium,57.9
+2599,Média,Pan,Calabresa Especial,América,Premium,57.9
+2600,Média,Pan,Calabresa Especial,Napolitana,Premium,57.9
+2601,Média,Pan,Calabresa Especial,Presunto,Premium,57.9
+2602,Média,Pan,Calabresa Especial,Pepperoni,Premium,57.9
+2603,Média,Pan,Calabresa Especial,Margherita,Premium,57.9
+2604,Média,Pan,Calabresa Especial,Pizza de Queijo,Premium,57.9
+2605,Média,Pan,Calabresa Especial,Corn & Bacon,Premium,57.9
+2606,Média,Pan,Calabresa Especial,Calabresa,Premium,57.9
+2607,Média,Pan,Calabresa Especial,Frango com Requeijão,Premium,57.9
+2608,Média,Pan,Calabresa Especial,3 Queijos,Premium,57.9
+2609,Média,Pan,Búfala La Bianca,Búfala La Bianca,Premium,57.9
+2610,Média,Pan,Búfala La Bianca,Bauru,Premium,57.9
+2611,Média,Pan,Búfala La Bianca,4 Queijos,Premium,57.9
+2612,Média,Pan,Búfala La Bianca,América,Premium,57.9
+2613,Média,Pan,Búfala La Bianca,Napolitana,Premium,57.9
+2614,Média,Pan,Búfala La Bianca,Presunto,Premium,57.9
+2615,Média,Pan,Búfala La Bianca,Pepperoni,Premium,57.9
+2616,Média,Pan,Búfala La Bianca,Margherita,Premium,57.9
+2617,Média,Pan,Búfala La Bianca,Pizza de Queijo,Premium,57.9
+2618,Média,Pan,Búfala La Bianca,Corn & Bacon,Premium,57.9
+2619,Média,Pan,Búfala La Bianca,Calabresa,Premium,57.9
+2620,Média,Pan,Búfala La Bianca,Frango com Requeijão,Premium,57.9
+2621,Média,Pan,Búfala La Bianca,3 Queijos,Premium,57.9
+2622,Média,Pan,Bauru,Bauru,Premium,57.9
+2623,Média,Pan,Bauru,4 Queijos,Premium,57.9
+2624,Média,Pan,Bauru,América,Premium,57.9
+2625,Média,Pan,Bauru,Napolitana,Premium,57.9
+2626,Média,Pan,Bauru,Presunto,Premium,57.9
+2627,Média,Pan,Bauru,Pepperoni,Premium,57.9
+2628,Média,Pan,Bauru,Margherita,Premium,57.9
+2629,Média,Pan,Bauru,Pizza de Queijo,Premium,57.9
+2630,Média,Pan,Bauru,Corn & Bacon,Premium,57.9
+2631,Média,Pan,Bauru,Calabresa,Premium,57.9
+2632,Média,Pan,Bauru,Frango com Requeijão,Premium,57.9
+2633,Média,Pan,Bauru,3 Queijos,Premium,57.9
+2634,Média,Pan,4 Queijos,4 Queijos,Premium,57.9
+2635,Média,Pan,4 Queijos,América,Premium,57.9
+2636,Média,Pan,4 Queijos,Napolitana,Premium,57.9
+2637,Média,Pan,4 Queijos,Presunto,Premium,57.9
+2638,Média,Pan,4 Queijos,Pepperoni,Premium,57.9
+2639,Média,Pan,4 Queijos,Margherita,Premium,57.9
+2640,Média,Pan,4 Queijos,Pizza de Queijo,Premium,57.9
+2641,Média,Pan,4 Queijos,Corn & Bacon,Premium,57.9
+2642,Média,Pan,4 Queijos,Calabresa,Premium,57.9
+2643,Média,Pan,4 Queijos,Frango com Requeijão,Premium,57.9
+2644,Média,Pan,4 Queijos,3 Queijos,Premium,57.9
+2645,Média,Pan,América,América,Premium,57.9
+2646,Média,Pan,América,Napolitana,Premium,57.9
+2647,Média,Pan,América,Presunto,Premium,57.9
+2648,Média,Pan,América,Pepperoni,Premium,57.9
+2649,Média,Pan,América,Margherita,Premium,57.9
+2650,Média,Pan,América,Pizza de Queijo,Premium,57.9
+2651,Média,Pan,América,Corn & Bacon,Premium,57.9
+2652,Média,Pan,América,Calabresa,Premium,57.9
+2653,Média,Pan,América,Frango com Requeijão,Premium,57.9
+2654,Média,Pan,América,3 Queijos,Premium,57.9
+2655,Média,Pan,Napolitana,Napolitana,Especialidade,52.9
+2656,Média,Pan,Napolitana,Presunto,Especialidade,52.9
+2657,Média,Pan,Napolitana,Pepperoni,Especialidade,52.9
+2658,Média,Pan,Napolitana,Margherita,Especialidade,52.9
+2659,Média,Pan,Napolitana,Pizza de Queijo,Especialidade,52.9
+2660,Média,Pan,Napolitana,Corn & Bacon,Especialidade,52.9
+2661,Média,Pan,Napolitana,Calabresa,Especialidade,52.9
+2662,Média,Pan,Napolitana,Frango com Requeijão,Especialidade,52.9
+2663,Média,Pan,Napolitana,3 Queijos,Especialidade,52.9
+2664,Média,Pan,Presunto,Presunto,Especialidade,52.9
+2665,Média,Pan,Presunto,Pepperoni,Especialidade,52.9
+2666,Média,Pan,Presunto,Margherita,Especialidade,52.9
+2667,Média,Pan,Presunto,Pizza de Queijo,Especialidade,52.9
+2668,Média,Pan,Presunto,Corn & Bacon,Especialidade,52.9
+2669,Média,Pan,Presunto,Calabresa,Especialidade,52.9
+2670,Média,Pan,Presunto,Frango com Requeijão,Especialidade,52.9
+2671,Média,Pan,Presunto,3 Queijos,Especialidade,52.9
+2672,Média,Pan,Pepperoni,Pepperoni,Especialidade,52.9
+2673,Média,Pan,Pepperoni,Margherita,Especialidade,52.9
+2674,Média,Pan,Pepperoni,Pizza de Queijo,Especialidade,52.9
+2675,Média,Pan,Pepperoni,Corn & Bacon,Especialidade,52.9
+2676,Média,Pan,Pepperoni,Calabresa,Especialidade,52.9
+2677,Média,Pan,Pepperoni,Frango com Requeijão,Especialidade,52.9
+2678,Média,Pan,Pepperoni,3 Queijos,Especialidade,52.9
+2679,Média,Pan,Margherita,Margherita,Especialidade,52.9
+2680,Média,Pan,Margherita,Pizza de Queijo,Especialidade,52.9
+2681,Média,Pan,Margherita,Corn & Bacon,Especialidade,52.9
+2682,Média,Pan,Margherita,Calabresa,Especialidade,52.9
+2683,Média,Pan,Margherita,Frango com Requeijão,Especialidade,52.9
+2684,Média,Pan,Margherita,3 Queijos,Especialidade,52.9
+2685,Média,Pan,Pizza de Queijo,Pizza de Queijo,Especialidade,52.9
+2686,Média,Pan,Pizza de Queijo,Corn & Bacon,Especialidade,52.9
+2687,Média,Pan,Pizza de Queijo,Calabresa,Especialidade,52.9
+2688,Média,Pan,Pizza de Queijo,Frango com Requeijão,Especialidade,52.9
+2689,Média,Pan,Pizza de Queijo,3 Queijos,Especialidade,52.9
+2690,Média,Pan,Corn & Bacon,Corn & Bacon,Especialidade,52.9
+2691,Média,Pan,Corn & Bacon,Calabresa,Especialidade,52.9
+2692,Média,Pan,Corn & Bacon,Frango com Requeijão,Especialidade,52.9
+2693,Média,Pan,Corn & Bacon,3 Queijos,Especialidade,52.9
+2694,Média,Pan,Calabresa,Calabresa,Especialidade,52.9
+2695,Média,Pan,Calabresa,Frango com Requeijão,Especialidade,52.9
+2696,Média,Pan,Calabresa,3 Queijos,Especialidade,52.9
+2697,Média,Pan,Frango com Requeijão,Frango com Requeijão,Especialidade,52.9
+2698,Média,Pan,Frango com Requeijão,3 Queijos,Especialidade,52.9
+2699,Média,Pan,3 Queijos,3 Queijos,Especialidade,52.9
