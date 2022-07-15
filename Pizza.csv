@@ -1,5 +1,4 @@
-,Size,Dough,MainFlavor,SecondFlavor,typeFlavor,price
-0,Brotinho,Tradicional,Frango com Barbecue,Frango com Barbecue,Super Premium,34.9
+pizza_id,Size,Dough,MainFlavor,SecondFlavor,typeFlavor,price
 1,Brotinho,Tradicional,Frango com Barbecue,Meat & Bacon,Super Premium,34.9
 2,Brotinho,Tradicional,Frango com Barbecue,Extravaganzza®,Super Premium,34.9
 3,Brotinho,Tradicional,Frango com Barbecue,Veggie®,Super Premium,34.9
@@ -2699,3 +2698,4 @@
 2697,Média,Pan,Frango com Requeijão,Frango com Requeijão,Especialidade,52.9
 2698,Média,Pan,Frango com Requeijão,3 Queijos,Especialidade,52.9
 2699,Média,Pan,3 Queijos,3 Queijos,Especialidade,52.9
+2700,Brotinho,Tradicional,Frango com Barbecue,Frango com Barbecue,Super Premium,34.9
