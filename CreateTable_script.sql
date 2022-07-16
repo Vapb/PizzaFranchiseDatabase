@@ -16,22 +16,22 @@ CREATE TABLE IF NOT EXISTS customer (
 -- Cupom Table (<ins>cupom_id</ins>, valid, start_date, expiration_date, description)
 CREATE TABLE IF NOT EXISTS cupom (
     cupom_id SERIAL PRIMARY KEY,
-    code VARCHAR(20) NOT NULL,
+    code VARCHAR(10) NOT NULL,
     valid BOOLEAN NOT NULL,
     start_date DATE NOT NULL,
     expiration_date DATE NOT NULL,
-    description VARCHAR(80)
+    description VARCHAR(100)
 );
 
 -- Restaurant Table -- Restaurant (<ins>rest_id</ins>, name, phone_number, zipcode, state, city, st_name, st_number)
 CREATE TABLE IF NOT EXISTS restaurant (
     rest_id SERIAL PRIMARY KEY,
-    name VARCHAR(50) NOT NULL,
+    name VARCHAR(30) NOT NULL,
     phone_number INTEGER NOT NULL,
     zipcode INTEGER NOT NULL,
-    state VARCHAR(30),
-    city VARCHAR(30),
-    st_name VARCHAR(50),
+    state CHAR(2) NOT NULL,
+    city VARCHAR(20) NOT NULL,
+    st_name VARCHAR(45) NOT NULL,
     st_number SMALLINT
 );
 
@@ -39,7 +39,7 @@ CREATE TABLE IF NOT EXISTS restaurant (
 CREATE TABLE IF NOT EXISTS non_pizza (
     nonpizza_id INTEGER NOT NULL,
     flavor VARCHAR(30),
-    description VARCHAR(80),
+    description VARCHAR(100),
     name VARCHAR(30) NOT NULL,
     price DECIMAL(10,2) NOT NULL,
     PRIMARY KEY (nonpizza_id)
@@ -62,8 +62,8 @@ CREATE TABLE IF NOT EXISTS pizza (
 -- Beverage -- Beverage (<ins>beverage_id</ins>, brand, size, name, price) <br>
 CREATE TABLE IF NOT EXISTS beverage (
     beverage_id INTEGER NOT NULL,
-    brand VARCHAR(30),
-    size VARCHAR(30),
+    brand VARCHAR(20),
+    size VARCHAR(20),
     name VARCHAR(30) NOT NULL,
     price DECIMAL(10,2) NOT NULL,
     PRIMARY KEY (beverage_id)
@@ -85,8 +85,8 @@ CREATE TABLE IF NOT EXISTS address_list (
     add_id INTEGER NOT NULL,
     cust_id INTEGER NOT NULL,
     zipcode INTEGER NOT NULL,
-    state VARCHAR(30) NOT NULL,
-    city VARCHAR(30) NOT NULL,
+    state CHAR(2) NOT NULL,
+    city VARCHAR(20) NOT NULL,
     st_name VARCHAR(50) NOT NULL,
     st_number SMALLINT NOT NULL,
     custom_name VARCHAR(30),
@@ -112,9 +112,8 @@ CREATE TABLE IF NOT EXISTS staff (
 -- DeliveryMan Table -- DeliveryMan (<ins>staff_id</ins>, license, exp_date, license_plate) <br>
 CREATE TABLE IF NOT EXISTS deliveryman (
     staff_id INTEGER NOT NULL,
-    license VARCHAR,
+    license VARCHAR(10),
     exp_date DATE,
-    license_plate VARCHAR,
     PRIMARY KEY (staff_id),
     FOREIGN KEY (staff_id)
         REFERENCES staff(staff_id)
@@ -129,9 +128,9 @@ CREATE TABLE IF NOT EXISTS customer_order (
     staff_id INTEGER NOT NULL,
     cupom_id INTEGER NOT NULL,
     price DECIMAL(10,2) NOT NULL,
-    status VARCHAR(30) NOT NULL,
-    order_type VARCHAR(30),
-    payment_method VARCHAR(30),
+    status VARCHAR(20) NOT NULL,
+    order_type VARCHAR(20),
+    payment_method VARCHAR(20),
     ord_startDate TIMESTAMP,
     delivered_date TIMESTAMP,
     FOREIGN KEY (cust_id)
@@ -150,7 +149,7 @@ CREATE TABLE IF NOT EXISTS order_items (
     pizza_id INTEGER DEFAULT 0,
     beverage_id INTEGER DEFAULT 0,
     nonpizza_id INTEGER DEFAULT 0,
-    quantity INTEGER,
+    quantity SMALLINT,
     PRIMARY KEY (ord_id, pizza_id, beverage_id, nonpizza_id),
     FOREIGN KEY (ord_id)
         REFERENCES customer_order(ord_id),
