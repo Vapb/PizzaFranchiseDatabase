@@ -3,6 +3,9 @@
 ### Project Description :
 Dominos is a big pizza franchise that has a lot of restaurants in the world. In this project I am going to create a relational database in Postgresql that simulates the current state of dominos website and how it possibly works inside brazil.
 
+### Project objective : 
+Prove SQL administration knowledge
+
 ### Dominos website contents :
 * Dominos has Coupons (Only one can be used byorder)
 * Dominos has a lot of restaurants in brazil and alot of employees
@@ -18,10 +21,9 @@ Dominos is a big pizza franchise that has a lot of restaurants in the world. In 
     A) Firstname, Surname, Birthday and phonenumber <br>
     B) Register address with personalized name zipcode, state, street, number andaditional_information. <br>
     C) Register payment methods.
-5) Pick menu items (choose Pizza)
+5) Pick menu items (choose Pizza) <br>
     A) pick main flavor (Pizza can have 2 flavors) <br>
     B) pick dough and size. <br>
-    C) pick extra toppings and their amount.
 6) Choose address and payment method
 7) Wait for the pizza to be delivered by the pizzadelivery man.
 
@@ -37,3 +39,10 @@ Dominos is a big pizza franchise that has a lot of restaurants in the world. In 
 ### Resulting Table Schema :
 
 ![TableSchema](/TableSchema.png "TableSchema")
+
+### SQL
+
+1) create database and the tables corresponding to the Table Schema
+2) insert data into database
+3) create users / role examples 
+4) Views / Materialized Views
