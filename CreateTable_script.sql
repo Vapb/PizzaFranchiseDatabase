@@ -32,61 +32,61 @@ CREATE TABLE IF NOT EXISTS restaurant (
     state CHAR(2) NOT NULL,
     city VARCHAR(20) NOT NULL,
     st_name VARCHAR(45) NOT NULL,
-    st_number SMALLINT
+    st_number INTEGER
 );
 
--- NonPizza -- non_pizza (<ins>nonpizza_id</ins>, flavor, description, name, price) <br>
+-- NonPizza -- non_pizza (<ins>nonpizza_id</ins>, flavor, description, name, price) 
 CREATE TABLE IF NOT EXISTS non_pizza (
     nonpizza_id INTEGER NOT NULL,
     flavor VARCHAR(30),
     description VARCHAR(100),
-    name VARCHAR(30) NOT NULL,
+    name VARCHAR(40) NOT NULL,
     price DECIMAL(10,2) NOT NULL,
     PRIMARY KEY (nonpizza_id)
 );
 
 
--- Pizza -- Pizza (<ins>pizza_id</ins>, size, dough, flavor_rightside, flavor_leftside, name, price) <br>
+-- Pizza -- Pizza (pizza_id, size, dough, mainflavor, secondflavor, typeflavor, price) 
 CREATE TABLE IF NOT EXISTS pizza (
-    pizza_id INTEGER NOT NULL,
-    size VARCHAR(30),
-    dough VARCHAR(30),
-    main_flavor VARCHAR(30),
-    second_flavor VARCHAR(30),
-    name VARCHAR(30),
+    pizza_id SERIAL NOT NULL,
+    size VARCHAR(20),
+    dough VARCHAR(20),
+    main_flavor VARCHAR(25),
+    second_flavor VARCHAR(25),
+    typeflavor VARCHAR(20),
     price DECIMAL(10,2),
     PRIMARY KEY (pizza_id)
 );
 
 
--- Beverage -- Beverage (<ins>beverage_id</ins>, brand, size, name, price) <br>
+-- Beverage -- Beverage (<ins>beverage_id</ins>, brand, size, name, price) 
 CREATE TABLE IF NOT EXISTS beverage (
     beverage_id INTEGER NOT NULL,
     brand VARCHAR(20),
     size VARCHAR(20),
-    name VARCHAR(30) NOT NULL,
+    name VARCHAR(35) NOT NULL,
     price DECIMAL(10,2) NOT NULL,
     PRIMARY KEY (beverage_id)
 );
 
 
--- Phone_list Table -- Phone_list (<ins>cust_id, phone_number</ins>) <br>
+-- Phone_list Table -- Phone_list (<ins>cust_id, phone_number</ins>) 
 CREATE TABLE IF NOT EXISTS phone_list (
     cust_id INTEGER NOT NULL,
-    phone_number INTEGER NOT NULL,
+    phone_number BIGINT NOT NULL,
     PRIMARY KEY (cust_id, phone_number),
     FOREIGN KEY (cust_id)
         REFERENCES customer (cust_id)
 );
 
 
--- Address_list -- Address_list (<ins>add_id, cust_id</ins>, zipcode, state, city, st_name, st_number, custom_name) <br>
+-- Address_list -- Address_list (<ins>add_id, cust_id</ins>, zipcode, state, city, st_name, st_number, custom_name) 
 CREATE TABLE IF NOT EXISTS address_list (
     add_id INTEGER NOT NULL,
     cust_id INTEGER NOT NULL,
     zipcode INTEGER NOT NULL,
     state CHAR(2) NOT NULL,
-    city VARCHAR(20) NOT NULL,
+    city VARCHAR(25) NOT NULL,
     st_name VARCHAR(50) NOT NULL,
     st_number SMALLINT NOT NULL,
     custom_name VARCHAR(30),
@@ -95,21 +95,21 @@ CREATE TABLE IF NOT EXISTS address_list (
         REFERENCES customer (cust_id)
 );
 
--- Staff Table -- Staff (<ins>staff_id</ins>, rest_id, name, job_role, salary, phone_number, start_timeshift, end_timeshift) <br>
+-- Staff Table -- Staff (<ins>staff_id</ins>, rest_id, name, job_role, salary, phone_number, start_timeshift, end_timeshift) 
 CREATE TABLE IF NOT EXISTS staff (
     staff_id SERIAL PRIMARY KEY,
     rest_id INTEGER NOT NULL,
     name VARCHAR(50),
     job_role VARCHAR(30),
     salary DECIMAL(10,2),
-    phone_number INTEGER,
+    phone_number BIGINT,
     start_timeshift TIME,
     end_timeshift TIME,
     FOREIGN KEY (rest_id)
         REFERENCES restaurant(rest_id)
 );
 
--- DeliveryMan Table -- DeliveryMan (<ins>staff_id</ins>, license, exp_date, license_plate) <br>
+-- DeliveryMan Table -- DeliveryMan (<ins>staff_id</ins>, license, exp_date, license_plate) 
 CREATE TABLE IF NOT EXISTS deliveryman (
     staff_id INTEGER NOT NULL,
     license VARCHAR(10),
@@ -120,7 +120,7 @@ CREATE TABLE IF NOT EXISTS deliveryman (
 );
 
 
--- customer_order Table -- customer_order (<ins>ord_id</ins>, cust_id, rest_id, staff_id, cupom_id, price, status, order_type, payment_method, ord_startDate, delivered_date) <br>
+-- customer_order Table -- customer_order (<ins>ord_id</ins>, cust_id, rest_id, staff_id, cupom_id, price, status, order_type, payment_method, ord_startDate, delivered_date) 
 CREATE TABLE IF NOT EXISTS customer_order (
     ord_id SERIAL PRIMARY KEY,
     cust_id INTEGER NOT NULL,
@@ -143,7 +143,7 @@ CREATE TABLE IF NOT EXISTS customer_order (
         REFERENCES cupom(cupom_id)
 );
 
--- Order_Item TAble -- Order_Items (<ins>ord_id, pizza_id, beverage_id, nonpizza_id</ins>, quantity) <br>
+-- Order_Item TAble -- Order_Items (<ins>ord_id, pizza_id, beverage_id, nonpizza_id</ins>, quantity) 
 CREATE TABLE IF NOT EXISTS order_items (
     ord_id INTEGER NOT NULL,
     pizza_id INTEGER DEFAULT 0,

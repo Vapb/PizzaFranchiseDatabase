@@ -1,53 +1,53 @@
 -- Customer Data
-INSERT INTO customer (username, password, firstname, surname, birthday) VALUES
-    ('auditjoyeux',	        'euMdqAaj36',	'Rigoberto',	'Mccoy',	    1973-11-16),
-    ('burgeemultishot',	    'mjqjnmrA3F',	'Oseas',	    'Pugh',	        1976-03-23),
-    ('archerypuss',	        'rHDmE5NLQk',	'Claudio',	    'Rodriguez',	1977-01-31),
-    ('shrivelplusia',	    '8AZyTEYWTE',	'Tito',	        'Hendrix',	    1977-12-15),
-    ('medicalawesome',	    'JAYMpg5RpQ',	'Ireneo',	    'Bell',	        1979-11-26),
-    ('jacketstale',	        'xuNmKtgneb',	'Beatriz',	    'Silva',	    1980-09-23),
-    ('nationdermis',	    'bQjDzB2Xwa',	'Héctor',	    'Landry',	    1981-10-06),
-    ('outfitkaaba',	        'Ax2KzBruSa',	'Rubén',	    'Coffey',	    1982-12-21),
-    ('localtransition',	    'jVSJgU6RZj',	'Sixto',	    'Pope',	        1987-01-26),
-    ('backgroundskunk',	    'a98qCbKADL',	'Adón',	        'Le',	        1987-02-27),
-    ('rankboyfriend',	    'qrwLPyLyrK',	'Claudia',	    'Nichols',	    1988-02-09),
-    ('sizepleasure',	    'jG8x4pDW3a',	'Victoria',	    'Summers',	    1988-05-12),
-    ('oblongatapreach',	    'D6RGfZN4gm',	'Tomas',	    'Park',	        1989-09-20),
-    ('channelgallery',	    'MxUjPysFbx',	'Roberto',	    'Flynn',	    1991-11-11),
-    ('moreoverrevelation',	'QpBv2dRQVD',	'Marcelo',	    'Mann',	        1992-07-01),
-    ('humankoko',	        'aGpwV6Q6XT',	'Eusebio',	    'Gill',	        1994-01-27),
-    ('butparkour',	        'kDS23GYQee',	'Sonia',	    'Johns',	    1994-11-10),
-    ('waterpoloreview',	    'w94dTmRpA8',	'Yolanda',	    'Dodson',	    1994-11-18),
-    ('keyboardtwo',	        'ELwVpGkFV4',	'Fabio',	    'Keller',	    1997-05-06),
-    ('tunabesiege',	        'CPvDG9gmKM',	'Alejandro',	'Saunders',	    1997-08-28);
+INSERT INTO customer (username, password, first_name, surname, birthday) VALUES
+    ('auditjoyeux',	        'euMdqAaj36',	'Rigoberto',	'Mccoy',	    '1973-11-16'),
+    ('burgeemultishot',	    'mjqjnmrA3F',	'Oseas',	    'Pugh',	        '1976-03-23'),
+    ('archerypuss',	        'rHDmE5NLQk',	'Claudio',	    'Rodriguez',	'1977-01-31'),
+    ('shrivelplusia',	    '8AZyTEYWTE',	'Tito',	        'Hendrix',	    '1977-12-15'),
+    ('medicalawesome',	    'JAYMpg5RpQ',	'Ireneo',	    'Bell',	        '1979-11-26'),
+    ('jacketstale',	        'xuNmKtgneb',	'Beatriz',	    'Silva',	    '1980-09-23'),
+    ('nationdermis',	    'bQjDzB2Xwa',	'Héctor',	    'Landry',	    '1981-10-06'),
+    ('outfitkaaba',	        'Ax2KzBruSa',	'Rubén',	    'Coffey',	    '1982-12-21'),
+    ('localtransition',	    'jVSJgU6RZj',	'Sixto',	    'Pope',	        '1987-01-26'),
+    ('backgroundskunk',	    'a98qCbKADL',	'Adón',	        'Le',	        '1987-02-27'),
+    ('rankboyfriend',	    'qrwLPyLyrK',	'Claudia',	    'Nichols',	    '1988-02-09'),
+    ('sizepleasure',	    'jG8x4pDW3a',	'Victoria',	    'Summers',	    '1988-05-12'),
+    ('oblongatapreach',	    'D6RGfZN4gm',	'Tomas',	    'Park',	        '1989-09-20'),
+    ('channelgallery',	    'MxUjPysFbx',	'Roberto',	    'Flynn',	    '1991-11-11'),
+    ('moreoverrevelation',	'QpBv2dRQVD',	'Marcelo',	    'Mann',	        '1992-07-01'),
+    ('humankoko',	        'aGpwV6Q6XT',	'Eusebio',	    'Gill',	        '1994-01-27'),
+    ('butparkour',	        'kDS23GYQee',	'Sonia',	    'Johns',	    '1994-11-10'),
+    ('waterpoloreview',	    'w94dTmRpA8',	'Yolanda',	    'Dodson',	    '1994-11-18'),
+    ('keyboardtwo',	        'ELwVpGkFV4',	'Fabio',	    'Keller',	    '1997-05-06'),
+    ('tunabesiege',	        'CPvDG9gmKM',	'Alejandro',	'Saunders',	    '1997-08-28');
 
 
 -- Cupom Data
 INSERT INTO cupom (valid, start_date, expiration_date, description, code) VALUES
-    (TRUE,	01-07-2022,	31-07-2022,	'COCA-COLA LATA - SEM AÇÚCAR R$1,00',	                                        'LATA1'),
-    (TRUE,	01-01-2022,	01-10-2022,	'Combo Pan (2 pessoas) – Pizza pan (30cm) + Refri 500/600ml ESPECIALIDADES',	'COMBOPAN'),
-    (TRUE,	01-01-2022,	01-10-2022,	'Combo 4 (6 pessoas) – 2 Pizzas grandes + Refri 2L  ESPECIALIDADES',	        'COMBO4'),
-    (TRUE,	01-01-2022,	01-10-2022,	'Combo 3 (4 pessoas) – Pizza giga + Refri 2L ESPECIALIDADES',	                'COMBO3'),
-    (TRUE,	01-01-2022,	01-10-2022,	'Combo 2 (3 pessoas) – Pizza grande + Refri 2L  ESPECIALIDADES',	            'COMBO2'),
-    (TRUE,	01-01-2022,	01-10-2022,	'Combo 1 (2 pessoas) – Pizza média + Refri 500/600ml ESPECIALIDADES',	        'COMBO1'),
-    (TRUE,	01-07-2022,	01-07-2022,	'Double Mix Pizza média + 1 produto à sua escolha',	                            'MIXM'),
-    (TRUE,	01-06-2022,	15-07-2022,	'Domino’s em Dobro 2 Pizzas Grandes com 40% de desconto',	                    'PIZZAGE'),
-    (TRUE,	02-06-2022,	16-07-2022,	'Domino’s em Dobro 2 Pizzas Médias com 40% de desconto',	                    'PIZZAME'),
-    (TRUE,	01-04-2022,	01-10-2022,	'Favoritas - Pizza Gigante',	                                                'TOPGG'),
-    (TRUE,	01-04-2022,	01-10-2022,	'Favoritas - Pizza Grande',	                                                    'TOPG'),
-    (TRUE,	04-07-2022,	10-07-2022,	'50% de desconto em pizzas médias e grandes, massa fina ou tradicional',	    'PIZZADAY'),
-    (TRUE,	01-04-2022,	01-10-2022,	'Favoritas - Pizza Média',	                                                    'TOPM'),
-    (TRUE,	01-07-2022,	01-07-2022,	'Double Mix Pizza grande+ 1 produto à sua escolha',	                            'MIXG'),
-    (FALSE,	25-11-2021,	28-11-2011,	'50% de desconto em pizzas médias e grandes, massa fina ou tradicional',	    'PIZZABF');
+    (TRUE,	'2022-07-01',	'2022-07-31',	'COCA-COLA LATA - SEM AÇÚCAR R$1,00',	                                        'LATA1'),
+    (TRUE,	'2022-01-01',	'2022-10-01',	'Combo Pan (2 pessoas) – Pizza pan (30cm) + Refri 500/600ml ESPECIALIDADES',	'COMBOPAN'),
+    (TRUE,	'2022-01-01',	'2022-10-01',	'Combo 4 (6 pessoas) – 2 Pizzas grandes + Refri 2L  ESPECIALIDADES',	        'COMBO4'),
+    (TRUE,	'2022-01-01',	'2022-10-01',	'Combo 3 (4 pessoas) – Pizza giga + Refri 2L ESPECIALIDADES',	                'COMBO3'),
+    (TRUE,	'2022-01-01',	'2022-10-01',	'Combo 2 (3 pessoas) – Pizza grande + Refri 2L  ESPECIALIDADES',	            'COMBO2'),
+    (TRUE,	'2022-01-01',	'2022-10-01',	'Combo 1 (2 pessoas) – Pizza média + Refri 500/600ml ESPECIALIDADES',	        'COMBO1'),
+    (TRUE,	'2022-07-01',	'2022-07-01',	'Double Mix Pizza média + 1 produto à sua escolha',	                            'MIXM'),
+    (TRUE,	'2022-06-01',	'2022-07-15',	'Domino’s em Dobro 2 Pizzas Grandes com 40% de desconto',	                    'PIZZAGE'),
+    (TRUE,	'2022-06-02',	'2022-07-16',	'Domino’s em Dobro 2 Pizzas Médias com 40% de desconto',	                    'PIZZAME'),
+    (TRUE,	'2022-04-01',	'2022-10-01',	'Favoritas - Pizza Gigante',	                                                'TOPGG'),
+    (TRUE,	'2022-04-01',	'2022-10-01',	'Favoritas - Pizza Grande',	                                                    'TOPG'),
+    (TRUE,	'2022-07-04',	'2022-07-10',	'50% de desconto em pizzas médias e grandes, massa fina ou tradicional',	    'PIZZADAY'),
+    (TRUE,	'2022-04-01',	'2022-10-01',	'Favoritas - Pizza Média',	                                                    'TOPM'),
+    (TRUE,	'2022-07-01',	'2022-07-01',	'Double Mix Pizza grande+ 1 produto à sua escolha',	                            'MIXG'),
+    (FALSE,	'2021-11-25',	'2011-11-28',	'50% de desconto em pizzas médias e grandes, massa fina ou tradicional',	    'PIZZABF');
 
 
 -- Restaurant Data
-INSERT INTO restaurant (Name	PhoneNumber	Zipcode	state	city	st_name	st_number) VALUES
+INSERT INTO restaurant (name, phone_number, zipcode, state, city, st_name, st_number) VALUES
     ('Dominos Pizza - Flamengo',	    2125545222, 	22230060,	'RJ',	'Rio de Janeiro',	'R. Marquês de Abrantes',	205),
     ('Dominos Pizza - Icaraí',	        2127192929, 	24050350,	'RJ',	'Niteroi',	        'R. Miguel de Frias',	    215),
     ('Dominos Pizza - Moema',	        1150549200, 	04524001,	'SP',	'Sao Paulo',	    'Alameda dos Arapanés',	    774),
-    ('Dominos Pizza - Cidade Nova',    	3134888200, 	31160370,	'MG',	'Belo Horizonte',	'R. Alberto Cintra',	    137),
-    ('Dominos Pizza - Vitória',	        2733154746, 	29055100,	'ES',	'Vitoria',	        'Av. Rio Branco', 	        1777);
+    ('Dominos Pizza - Cidade Nova',    	1134888200, 	31160370,	'MG',	'Belo Horizonte',	'R. Alberto Cintra',	    137),
+    ('Dominos Pizza - Vitória',	        1733154746, 	29055100,	'ES',	'Vitoria',	        'Av. Rio Branco', 	        1777);
 
 
 -- NonPizza Data
@@ -195,11 +195,11 @@ INSERT INTO staff (rest_id	name	job_role	salary	phone_number	start_timeshift	end
 
 -- DeliveryMan Data
 INSERT INTO deliveryman (staff_id, license, exp_date) VALUES
-    (6,	    '8DJG112',	  02/2024),
-    (12,	'2WA725',	  04/2028),
-    (18,	'5WYW903',	  01/2023),
-    (24,	'BEPA48',	  10/2022),
-    (30,	'7JUV249',	  01/2023);
+    (6,	    '8DJG112',	  '2024-02-01'),
+    (12,	'2WA725',	  '2028-04-01'),
+    (18,	'5WYW903',	  '2023-01-01'),
+    (24,	'BEPA48',	  '2022-10-01'),
+    (30,	'7JUV249',	  '2023-01-01');
 
 -- CustomerOrder Data
 INSERT INTO customer_order (ord_id, cust_id, rest_id, staff_id, cupom_id, price, status, order_type, payment_method, ord_startDate, delivered_date) VALUES

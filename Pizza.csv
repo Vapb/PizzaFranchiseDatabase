@@ -1,4 +1,4 @@
-pizza_id,Size,Dough,MainFlavor,SecondFlavor,typeFlavor,price
+pizza_id,size,dough,mainflavor,secondflavor,typeflavor,price
 1,Brotinho,Tradicional,Frango com Barbecue,Meat & Bacon,Super Premium,34.9
 2,Brotinho,Tradicional,Frango com Barbecue,Extravaganzza®,Super Premium,34.9
 3,Brotinho,Tradicional,Frango com Barbecue,Veggie®,Super Premium,34.9
