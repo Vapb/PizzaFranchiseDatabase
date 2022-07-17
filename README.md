@@ -4,7 +4,15 @@
 Dominos is a big pizza franchise that has a lot of restaurants in the world. In this project I am going to create a relational database in Postgresql that simulates the current state of dominos website and how it possibly works inside brazil.
 
 ### Project objective : 
-Prove SQL administration knowledge
+Prove SQL administration knowledge :
+    * Database Thinking
+    * Database Design (ER -> tableSchema -> SQL)
+    * Database Creation
+    * User-Role Management
+    * Schema Creation
+    * Views Creation
+    * Triggers and Procedures
+    * Backups
 
 ### Dominos website contents :
 * Dominos has Coupons (Only one can be used byorder)
@@ -34,15 +42,15 @@ Prove SQL administration knowledge
 
 ### Entity–Relationship Diagram :
 
-![Entity–Relationship](/DominosER.png "Entity–Relationship")
+![Entity–Relationship](Docs/DominosER.png "Entity–Relationship")
 
 ### Resulting Table Schema :
 
-![TableSchema](/TableSchema.png "TableSchema")
+![TableSchema](Docs/TableSchema.png "TableSchema")
 
 ### SQL
 
-1) create database and the tables corresponding to the Table Schema
+1) Create Database and the tables corresponding to the Table Schema
 2) insert data into database
 3) create users / role examples 
 4) Views / Materialized Views
