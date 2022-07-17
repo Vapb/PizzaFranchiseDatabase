@@ -37,7 +37,7 @@ CREATE TABLE IF NOT EXISTS restaurant (
 
 -- NonPizza -- non_pizza (<ins>nonpizza_id</ins>, flavor, description, name, price) 
 CREATE TABLE IF NOT EXISTS non_pizza (
-    nonpizza_id INTEGER NOT NULL,
+    nonpizza_id SERIAL NOT NULL,
     flavor VARCHAR(30),
     description VARCHAR(100),
     name VARCHAR(40) NOT NULL,
@@ -61,7 +61,7 @@ CREATE TABLE IF NOT EXISTS pizza (
 
 -- Beverage -- Beverage (<ins>beverage_id</ins>, brand, size, name, price) 
 CREATE TABLE IF NOT EXISTS beverage (
-    beverage_id INTEGER NOT NULL,
+    beverage_id SERIAL NOT NULL,
     brand VARCHAR(20),
     size VARCHAR(20),
     name VARCHAR(35) NOT NULL,
@@ -82,7 +82,7 @@ CREATE TABLE IF NOT EXISTS phone_list (
 
 -- Address_list -- Address_list (<ins>add_id, cust_id</ins>, zipcode, state, city, st_name, st_number, custom_name) 
 CREATE TABLE IF NOT EXISTS address_list (
-    add_id INTEGER NOT NULL,
+    add_id SERIAL NOT NULL,
     cust_id INTEGER NOT NULL,
     zipcode INTEGER NOT NULL,
     state CHAR(2) NOT NULL,
