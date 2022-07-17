@@ -71,7 +71,7 @@ INSERT INTO non_pizza (flavor, description, name, price) VALUES
 
 
 -- Pizza with \copy
-
+COPY pizza FROM '/tmp/Pizza.csv' DELIMITER ',' CSV HEADER
 
 -- Beverage Data
 INSERT INTO beverage (brand, size, name, price) VALUES
