@@ -1,6 +1,6 @@
 -- Script to create table IF NOT EXISTS  in database
 -- Create database db_dominos
-CREATE DATABASE db_dominos;
+-- CREATE DATABASE db_dominos;
 
 -- Customer Table (<ins>cust_id</ins>, username, password, firstname, surname, birthday)
 CREATE TABLE IF NOT EXISTS customer (
@@ -41,7 +41,7 @@ CREATE TABLE IF NOT EXISTS non_pizza (
     flavor VARCHAR(30),
     description VARCHAR(100),
     name VARCHAR(40) NOT NULL,
-    price DECIMAL(10,2) NOT NULL,
+    price DECIMAL(10,2),
     PRIMARY KEY (nonpizza_id)
 );
 
@@ -65,7 +65,7 @@ CREATE TABLE IF NOT EXISTS beverage (
     brand VARCHAR(20),
     size VARCHAR(20),
     name VARCHAR(35) NOT NULL,
-    price DECIMAL(10,2) NOT NULL,
+    price DECIMAL(10,2),
     PRIMARY KEY (beverage_id)
 );
 
@@ -126,7 +126,7 @@ CREATE TABLE IF NOT EXISTS customer_order (
     cust_id INTEGER NOT NULL,
     rest_id INTEGER NOT NULL,
     staff_id INTEGER NOT NULL,
-    cupom_id INTEGER NOT NULL,
+    cupom_id INTEGER,
     price DECIMAL(10,2) NOT NULL,
     status VARCHAR(20) NOT NULL,
     order_type VARCHAR(20),

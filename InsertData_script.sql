@@ -107,7 +107,7 @@ INSERT INTO beverage (brand, size, name, price) VALUES
 
 
 -- PhoneList Data
-INSERT INTO phone_list (cust_id	number) VALUES 
+INSERT INTO phone_list (cust_id, phone_number) VALUES 
     (1, 	4987959820),
     (1, 	7139442771),
     (2, 	3918617874),
@@ -160,7 +160,7 @@ INSERT INTO address_list (cust_id, zipcode, state, city, st_name, st_number, cus
 
 
 -- Staff Data
-INSERT INTO staff (rest_id	name	job_role	salary	phone_number	start_timeshift	end_timeshift) VALUES 
+INSERT INTO staff (rest_id, name, job_role, salary, phone_number, start_timeshift, end_timeshift) VALUES 
     (1,	'Ryan Duke',	      'Pizza Maker',	 3000,     2537725294,      '10:00:00',	    '19:00:00'),
     (1,	'Miah Carpenter',	  'Pizza Maker',	 3500,     7955339120,      '19:00:00',	    '02:00:00'),
     (1,	'Jax Kelley',	      'Cashier',	     1000,     9162271937,      '10:00:00',	    '18:00:00'),
@@ -201,7 +201,7 @@ INSERT INTO deliveryman (staff_id, license, exp_date) VALUES
     (24,	'BEPA48',	  '2022-10-01'),
     (30,	'7JUV249',	  '2023-01-01');
 
--- CustomerOrder Data '2022-04-09 10:30:15'
+-- CustomerOrder Data 
 INSERT INTO customer_order (cust_id, rest_id, staff_id, cupom_id, price, status, order_type, payment_method, ord_startDate, delivered_date) VALUES
     (1,	     1,   6,	4,	       69.8,	'delivered',	'delivery', 	    'CREDITCARD',	      '2022-07-07 09:30:50',	'2022-07-07 10:03:00'),
     (2,	     1,   6,    NULL,	   9.9,	    'delivered',	'delivery', 	    'DEBITCARD',	      '2022-07-07 10:05:00',	'2022-07-07 11:00:02'),
@@ -250,64 +250,72 @@ INSERT INTO customer_order (cust_id, rest_id, staff_id, cupom_id, price, status,
     (4,	     1,   6,    NULL,	   84.9,	'delivered',	'delivery', 	    'CASH',	              '2022-07-14 20:09:00',	'2022-07-14 22:03:45');
 
 
+-- WorkAround the foreing keys
+INSERT INTO beverage (beverage_id, name) VALUES (0,'NONE');
+INSERT INTO pizza (pizza_id, main_flavor) VALUES (0, 'NONE');
+INSERT INTO non_pizza (nonpizza_id, name) VALUES (0, 'NONE');
+
+
 -- OrderItem Data
 INSERT INTO order_items(ord_id, pizza_id, beverage_id, nonpizza_id, quantity) VALUES
-    (1,	     45, 	NULL,  	NULL,  	2),
-    (2,	     NULL, 	28,  	NULL,  	1),
-    (3,	     456, 	NULL,  	NULL,  	4),
-    (4,	     NULL, 	NULL,  	10,  	1),
-    (5,	     NULL, 	NULL,  	10,  	3),
-    (5,	     789, 	NULL,  	NULL,  	2),
-    (6,	     80, 	NULL,  	NULL,  	1),
-    (7,	     2000, 	NULL,  	NULL,  	2),
-    (8,	     1700, 	NULL,  	NULL,  	2),
-    (8,	     NULL, 	NULL,  	1,  	1),
-    (9,	     1, 	NULL,  	NULL,  	2),
-    (10,	 6, 	NULL,  	NULL,  	2),
-    (10,	 NULL, 	20,  	NULL,  	5),
-    (11,	 67, 	NULL,  	NULL,  	1),
-    (12,	 89, 	NULL,  	NULL,  	3),
-    (13,	 59, 	NULL,  	NULL,  	1),
-    (14,	 1298, 	NULL,  	NULL,  	2),
-    (15,	 489, 	NULL,  	NULL,  	1),
-    (15,	 NULL, 	NULL,  	15,  	2),
-    (16,	 374, 	NULL,  	NULL,  	3),
-    (17,	 1537, 	NULL,  	NULL,  	1),
-    (17,	 1489, 	NULL,  	NULL,  	2),
-    (18,	 935, 	NULL,  	NULL,  	1),
-    (19,	 199, 	NULL,  	NULL,  	1),
-    (19,	 NULL, 	NULL,  	5,  	2),
-    (19,	 9, 	NULL,  	NULL,  	1),
-    (20,	 90, 	NULL,  	NULL,  	2),
-    (21,	 2000, 	NULL,  	NULL,  	1),
-    (22,	 2003, 	NULL,  	NULL,  	1),
-    (23,	 789, 	NULL,  	NULL,  	2),
-    (24,	 1090, 	NULL,  	NULL,  	1),
-    (25,	 NULL, 	2,  	NULL,  	5),
-    (26,	 620, 	NULL,  	NULL,  	1),
-    (26,	 56, 	NULL,  	NULL,  	1),
-    (26,	 1286, 	NULL,  	NULL,  	1),
-    (27,	 1070, 	NULL,  	NULL,  	1),
-    (28,	 2070, 	NULL,  	NULL,  	1),
-    (29,	 1670, 	NULL,  	NULL,  	1),
-    (29,	 NULL, 	NULL,  	15,  	1),
-    (30,	 12, 	NULL,  	NULL,  	2),
-    (31,	 689, 	NULL,  	NULL,  	1),
-    (32,	 1400, 	NULL,  	NULL,  	1),
-    (33,	 472, 	NULL,  	NULL,  	1),
-    (34,	 990, 	NULL,  	NULL,  	2),
-    (35,	 NULL, 	1,  	NULL,  	3),
-    (36,	 2035, 	NULL,  	NULL,  	1),
-    (37,	 722, 	NULL,  	NULL,  	1),
-    (38,	 2555, 	NULL,  	NULL,  	1),
-    (39,	 2300, 	NULL,  	NULL,  	2),
-    (40,	 768, 	NULL,  	NULL,  	1),
-    (40,	 NULL, 	2,  	NULL,  	1),
-    (40,	 23, 	NULL,  	NULL,  	1),
-    (41,	 26, 	NULL,  	NULL,  	2),
-    (42,	 555, 	NULL,  	NULL,  	1),
-    (42,	 NULL, 	2,  	NULL,  	1),
-    (43,	 1899, 	NULL,  	NULL,  	1),
-    (44,	 65, 	NULL,  	NULL,  	1),
-    (44,	 NULL, 	NULL,  	5,  	1),
-    (45,	 689, 	NULL,  	NULL,  	1);
+    (1,	     45, 	0,  	0,  	2),
+    (2,	     0, 	28,  	0,  	1),
+    (3,	     456, 	0,  	0,  	4),
+    (4,	     0, 	0,  	10,  	1),
+    (5,	     0, 	0,  	10,  	3),
+    (5,	     789, 	0,  	0,  	2),
+    (6,	     80, 	0,  	0,  	1),
+    (7,	     2000, 	0,  	0,  	2),
+    (8,	     1700, 	0,  	0,  	2),
+    (8,	     0, 	0,  	1,  	1),
+    (9,	     1, 	0,  	0,  	2),
+    (10,	 6, 	0,  	0,  	2),
+    (10,	 0, 	20,  	0,  	5),
+    (11,	 67, 	0,  	0,  	1),
+    (12,	 89, 	0,  	0,  	3),
+    (13,	 59, 	0,  	0,  	1),
+    (14,	 1298, 	0,  	0,  	2),
+    (15,	 489, 	0,  	0,  	1),
+    (15,	 0, 	0,  	15,  	2),
+    (16,	 374, 	0,  	0,  	3),
+    (17,	 1537, 	0,  	0,  	1),
+    (17,	 1489, 	0,  	0,  	2),
+    (18,	 935, 	0,  	0,  	1),
+    (19,	 199, 	0,  	0,  	1),
+    (19,	 0, 	0,  	5,  	2),
+    (19,	 9, 	0,  	0,  	1),
+    (20,	 90, 	0,  	0,  	2),
+    (21,	 2000, 	0,  	0,  	1),
+    (22,	 2003, 	0,  	0,  	1),
+    (23,	 789, 	0,  	0,  	2),
+    (24,	 1090, 	0,  	0,  	1),
+    (25,	 0, 	2,  	0,  	5),
+    (26,	 620, 	0,  	0,  	1),
+    (26,	 56, 	0,  	0,  	1),
+    (26,	 1286, 	0,  	0,  	1),
+    (27,	 1070, 	0,  	0,  	1),
+    (28,	 2070, 	0,  	0,  	1),
+    (29,	 1670, 	0,  	0,  	1),
+    (29,	 0, 	0,  	15,  	1),
+    (30,	 12, 	0,  	0,  	2),
+    (31,	 689, 	0,  	0,  	1),
+    (32,	 1400, 	0,  	0,  	1),
+    (33,	 472, 	0,  	0,  	1),
+    (34,	 990, 	0,  	0,  	2),
+    (35,	 0, 	1,  	0,  	3),
+    (36,	 2035, 	0,  	0,  	1),
+    (37,	 722, 	0,  	0,  	1),
+    (38,	 2555, 	0,  	0,  	1),
+    (39,	 2300, 	0,  	0,  	2),
+    (40,	 768, 	0,  	0,  	1),
+    (40,	 0, 	2,  	0,  	1),
+    (40,	 23, 	0,  	0,  	1),
+    (41,	 26, 	0,  	0,  	2),
+    (42,	 555, 	0,  	0,  	1),
+    (42,	 0, 	2,  	0,  	1),
+    (43,	 1899, 	0,  	0,  	1),
+    (44,	 65, 	0,  	0,  	1),
+    (44,	 0, 	0,  	5,  	1),
+    (45,	 689, 	0,  	0,  	1);
+
+
