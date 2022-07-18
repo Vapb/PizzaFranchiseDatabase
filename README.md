@@ -5,14 +5,14 @@ Dominos is a big pizza franchise that has a lot of restaurants in the world. In 
 
 ### Project objective : 
 Prove SQL administration knowledge :
-    * Database Thinking
-    * Database Design (ER -> tableSchema -> SQL)
-    * Database Creation
-    * User-Role Management
-    * Schema Creation
-    * Views Creation
-    * Triggers and Procedures
-    * Backups
+ * Database Thinking 
+ * Database Design (ER -> tableSchema -> SQL)
+ * Database Creation
+ * User-Role Management
+ * Schema Creation
+ * Views Creation
+ * Triggers and Procedures
+ * Backups
 
 ### Dominos website contents :
 * Dominos has Coupons (Only one can be used byorder)

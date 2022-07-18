@@ -1,9 +1,7 @@
 -- Create a Schema that holds all this views.
 CREATE SCHEMA manager_views;
 
-
--- Restaurant cash flow details
--- Rio de Janeiro
+-- Rio de Janeiro Restaurant cash flow details
 CREATE VIEW manager_views.rio_orders AS (
     SELECT  ord_id,
 			status,
@@ -25,7 +23,22 @@ CREATE VIEW manager_views.rio_orders AS (
     ORDER BY ord_startdate;
 );
 
--- Niteroi 
+-- Employee List Rio de Janeiro
+CREATE VIEW manager_views.rio_employees AS (
+	SELECT	s.name AS "Employee",
+			job_role,
+			s.phone_number,
+			start_timeshift,
+			end_timeshift
+	FROM staff AS s
+	INNER JOIN restaurant
+		USING (rest_id)
+	WHERE city = 'Rio de Janeiro'
+);
+
+
+
+-- Niteroi Restaurant cash flow details
 CREATE VIEW manager_views.niteroi_orders AS (
     SELECT  ord_id,
 			status,
@@ -47,8 +60,23 @@ CREATE VIEW manager_views.niteroi_orders AS (
     ORDER BY ord_startdate;
 );
 
+-- Employee List Niteroi
+CREATE VIEW manager_views.niteroi_employees AS (
+	SELECT	s.name AS "Employee",
+			job_role,
+			s.phone_number,
+			start_timeshift,
+			end_timeshift
+	FROM staff AS s
+	INNER JOIN restaurant
+		USING (rest_id)
+	WHERE city = 'Niteroi'
+);
 
--- Sao Paulo 
+
+
+
+-- Sao Paulo Restaurant cash flow details
 CREATE VIEW manager_views.saopaulo_orders AS (
     SELECT  ord_id,
 			status,
@@ -70,8 +98,22 @@ CREATE VIEW manager_views.saopaulo_orders AS (
     ORDER BY ord_startdate;
 );
 
+-- Employee List Sao Paulo
+CREATE VIEW manager_views.saopaulo_employees AS (
+	SELECT	s.name AS "Employee",
+			job_role,
+			s.phone_number,
+			start_timeshift,
+			end_timeshift
+	FROM staff AS s
+	INNER JOIN restaurant
+		USING (rest_id)
+	WHERE city = 'Sao Paulo'
+);
 
--- Belo Horizonte 
+
+
+-- Belo Horizonte Restaurant cash flow details
 CREATE VIEW manager_views.belohorizonte_orders AS (
     SELECT  ord_id,
 			status,
@@ -93,8 +135,22 @@ CREATE VIEW manager_views.belohorizonte_orders AS (
     ORDER BY ord_startdate;
 );
 
+-- Employee List Belo Horizonte
+CREATE VIEW manager_views.belohorizonte_employees AS (
+	SELECT	s.name AS "Employee",
+			job_role,
+			s.phone_number,
+			start_timeshift,
+			end_timeshift
+	FROM staff AS s
+	INNER JOIN restaurant
+		USING (rest_id)
+	WHERE city = 'Belo Horizonte'
+);
 
--- Vitoria 
+
+
+-- Vitoria Restaurant cash flow details
 CREATE VIEW manager_views.vitoria_orders AS (
     SELECT  ord_id,
 			status,
@@ -114,4 +170,17 @@ CREATE VIEW manager_views.vitoria_orders AS (
         USING (staff_id)
     WHERE city = 'Vitoria'
     ORDER BY ord_startdate;
+);
+
+-- Employee List Vitoria 
+CREATE VIEW manager_views.vitoria_employees AS (
+	SELECT	s.name AS "Employee",
+			job_role,
+			s.phone_number,
+			start_timeshift,
+			end_timeshift
+	FROM staff AS s
+	INNER JOIN restaurant
+		USING (rest_id)
+	WHERE city = 'Vitoria'
 );
