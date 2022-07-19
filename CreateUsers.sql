@@ -9,6 +9,7 @@ CREATE USER vitoria_manager WITH PASSWORD 'secret';
 CREATE USER belohorizonte_manager WITH PASSWORD 'secret';
 
 CREATE USER david_dev WITH PASSWORD 'secret';
+
 CREATE USER robert_intern WITH PASSWORD 'secret';
 
 
@@ -16,9 +17,9 @@ CREATE USER robert_intern WITH PASSWORD 'secret';
 -- Only SELECT VIEW
 CREATE ROLE manager WITH LOGIN
 GRANT CONNECT ON DATABASE db_dominos TO manager;
---CREATE SCHEMA WITH ONLY VIEWS
->> GRANT USAGE ON SCHEMA public TO Postgres;;
-GRANT SELECT, INSERT, UPDATE ON ratings to manager;
+GRANT USAGE ON SCHEMA manager_views TO manager;
+GRANT SELECT ON manager_views.rio_orders TO manager;
+GRANT SELECT ON manager_views.rio_employees TO manager;
 
 
 -- GRANT ON PUBLIC SCHEMA 
