@@ -15,7 +15,7 @@ Prove SQL administration knowledge :
  * Backups
 
 ### Dominos website contents :
-* Dominos has Coupons (Only one can be used byorder)
+* Dominos has Coupons (Only one can be used by order)
 * Dominos has a lot of restaurants in brazil and alot of employees
 * Dominos a small menus with four types of food(Pizzas, Sandwiches, Desserts and Beverages)
 * Dominos has a login system that allow customersto create users with their personal information
@@ -48,26 +48,27 @@ Prove SQL administration knowledge :
 
 ![TableSchema](Docs/TableSchema.png "TableSchema")
 
-### SQL
+### Project Steps 
 
 1) Create Database and the tables corresponding to the Table Schema.
 2) Insert simulated data into database.
+2-2) Create python scripts to generate data.
 3) Create Users / Roles examples.
 4) Create Views that restrict database.
 5) Create Procedures examples.
 6) Create Triggers examples.
-7) Create Backup.
+7) Create Backups.
 
 
 ### Users - Roles
 
  In this project there are 3 Roles (Manager, Developer and Intern):
-    Manager -> Can only look at specific views that are related to their restaurant (CashFlow and EmployeeList).
-    Developer -> Can insert and update freely in the database.
-    Intern -> Can only look the database and can't interfer with the operation.
+* Manager -> Can only look at specific views that are related to their restaurant (CashFlow and EmployeeList).
+* Developer -> Can insert and update freely in the database.
+* Intern -> Can only look the database and can't interfer with the operation.
 
 Users:
-    (rio_manager,niteroi_manager,saopaulo_manager,vitoria_manager,belohorizonte_manager) Belongs to Manager Role.
-    (david_dev) Belongs to Developer Role.
-    (robert_intern) Belongs to Intern Role.
+* (rio_manager, niteroi_manager, saopaulo_manager, vitoria_manager, belohorizonte_manager) Belongs to Manager Role.
+* (david_dev) Belongs to Developer Role.
+* (robert_intern) Belongs to Intern Role.
 

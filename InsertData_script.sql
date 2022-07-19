@@ -70,7 +70,7 @@ INSERT INTO non_pizza (flavor, description, name, price) VALUES
     ('OVOMALTINE',	        'Brotinho recheada com creme de baunilha e creme de Ovomaltine crocante.',  	                        'Brotinho de Ovomaltine',	           20.90);
 
 
--- Pizza with \copy
+-- Pizza with Copy data from CSV  -> (Copy csv into tmp folder for easier permission)
 COPY pizza FROM '/tmp/Pizza.csv' DELIMITER ',' CSV HEADER
 
 -- Beverage Data
