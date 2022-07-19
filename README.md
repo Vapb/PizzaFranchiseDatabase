@@ -50,7 +50,24 @@ Prove SQL administration knowledge :
 
 ### SQL
 
-1) Create Database and the tables corresponding to the Table Schema
-2) insert data into database
-3) create users / role examples 
-4) Views / Materialized Views
+1) Create Database and the tables corresponding to the Table Schema.
+2) Insert simulated data into database.
+3) Create Users / Roles examples.
+4) Create Views that restrict database.
+5) Create Procedures examples.
+6) Create Triggers examples.
+7) Create Backup.
+
+
+### Users - Roles
+
+ In this project there are 3 Roles (Manager, Developer and Intern):
+    Manager -> Can only look at specific views that are related to their restaurant (CashFlow and EmployeeList).
+    Developer -> Can insert and update freely in the database.
+    Intern -> Can only look the database and can't interfer with the operation.
+
+Users:
+    (rio_manager,niteroi_manager,saopaulo_manager,vitoria_manager,belohorizonte_manager) Belongs to Manager Role.
+    (david_dev) Belongs to Developer Role.
+    (robert_intern) Belongs to Intern Role.
+
