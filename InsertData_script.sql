@@ -250,6 +250,12 @@ INSERT INTO customer_order (cust_id, rest_id, staff_id, cupom_id, price, status,
     (4,	     1,   6,    NULL,	   84.9,	'delivered',	'delivery', 	    'CASH',	              '2022-07-14 20:09:00',	'2022-07-14 22:03:45');
 
 
+-- Deal with random delivery time to canceled status.
+UPDATE customer_order
+SET delivered_date = NULL
+WHERE status = 'canceled';
+
+
 -- WorkAround the foreing keys
 INSERT INTO beverage (beverage_id, name) VALUES (0,'NONE');
 INSERT INTO pizza (pizza_id, main_flavor) VALUES (0, 'NONE');

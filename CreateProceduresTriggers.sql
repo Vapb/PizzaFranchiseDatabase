@@ -1,19 +1,34 @@
 --- CREATE PROCEDURES 
 
-CREATE FUNCTION function_name (p1 INT, p2 INT)
-RETURNS INT AS $$
+-- Function that calculates the real deliveryTime
+-- DROP FUNCTION delivery_time (TIMESTAMP,TIMESTAMP);
+CREATE FUNCTION delivery_time (start_timestamp TIMESTAMP, end_timestamp TIMESTAMP)
+RETURNS TEXT AS $$
 BEGIN
-    RETURN
-END;
+
+    IF end_timestamp IS NULL THEN
+        RETURN NULL;
+    ELSE
+        RETURN end_timestamp - start_timestamp;
+    END IF;
+	
+END; 
 $$ LANGUAGE plpgsql;
 
 
--- Ideia 1  Criar função que faz o calculo de entrega
--- Ia ser interessante se alterar os insert com dados de deliver sendo status canceled (Não houve entrega).
--- Esse fato constroi uma função mais complexa com CASE WHEN THEN. Se não tiver deliver time print algo. caso sim faça calculo.
+-- Function calculates the amount of hours worked by a employee per timeshift.
+CREATE FUNCTION cal_timeshift (start_timeshift TIMESTAMP, end_timeshift TIMESTAMP)
+RETURNS TEXT AS $$
+BEGIN
 
-UPDATE users SET user_pay = 1500 WHERE user_id = 1;
+    IF end_timeshift < start_timeshift THEN
+        RETURN (('24:00:00' - start_timeshift) + CAST(end_timeshift AS interval));
+	ELSE
+        RETURN end_timeshift - start_timeshift;
+	END IF;
+	
+END; 
+$$ LANGUAGE plpgsql;
 
--- Ideia 2  Calculo de hour salary
 
 --- CREATE TRIGGERS
