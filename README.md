@@ -1,7 +1,8 @@
 # DominosDatabaseProject
 
 ### Project Description :
-Dominos is a big pizza franchise that has a lot of restaurants in the world. In this project I am going to create a relational database in Postgresql that simulates the current state of dominos website and how it possibly works inside brazil.
+In this project I’ve created a relational database in Postgres that simulates the operations of a pizza franchise. Specifically, I have designed the database from scratch starting with the business understanding of the problem to the physical project therefore, doing a full cycle in database design (conceptual model to physical model). To populate the database I've used python scripts to generate “real” data and to simulate interaction with this database I've used cron jobs to schedule batches of data being ingested by the database. Other than that, I've created Users and Roles to manage access to the database and created procedures, triggers and backups to practice my Postgres understanding.
+
 
 ### Project objective : 
 Prove SQL administration knowledge :
@@ -14,15 +15,15 @@ Prove SQL administration knowledge :
  * Triggers and Procedures
  * Backups
 
-### Dominos website contents :
-* Dominos has Coupons (Only one can be used by order)
-* Dominos has a lot of restaurants in brazil and alot of employees
-* Dominos a small menus with four types of food(Pizzas, Sandwiches, Desserts and Beverages)
-* Dominos has a login system that allow customersto create users with their personal information
-* Dominos allow users to register multiple creditcards and addresses.
+### Pizza website contents :
+* The Franchise has Coupons (Only one can be used by order)
+* The Franchise has a lot of restaurants in brazil and alot of employees
+* The Franchise a small menus with four types of food(Pizzas, Sandwiches, Desserts and Beverages)
+* The Franchise has a login system that allow customersto create users with their personal information
+* The Franchise allow users to register multiple creditcards and addresses.
 
-### The flow of ordering a pizza inside dominos website.
-1) Customers open dominos' website and click on“Start Order”.
+### The flow of ordering a pizza inside pizza website.
+1) Customers open pizza franchise website and click on“Start Order”.
 2) Choose order type : Delivery or Carryout.
 3) Customer Login / Register in account.
 4) Create account with personal information: <br>
@@ -36,8 +37,8 @@ Prove SQL administration knowledge :
 7) Wait for the pizza to be delivered by the pizzadelivery man.
 
 ### Additional information :
-* Dominos has many restaurants distributed in brazil each with their information. Such as phone number, address,opening time and staff.
-* Each domino's restaurant has its own staff with their information.
+* This pizza franchise has many restaurants distributed in brazil each with their information. Such as phone number, address,opening time and staff.
+* Each pizza restaurant has its own staff with their information.
 * Some employees work as pizza delivery men and deliver pizzas.
 
 ### Entity–Relationship Diagram :
