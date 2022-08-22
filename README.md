@@ -43,7 +43,7 @@ Prove SQL administration knowledge :
 
 ### Entity–Relationship Diagram :
 
-![Entity–Relationship](Docs/DominosER.png "Entity–Relationship")
+![Entity–Relationship](Docs/PizzaFranchise.png "Entity–Relationship")
 
 ### Resulting Table Schema :
 
@@ -59,6 +59,7 @@ Prove SQL administration knowledge :
 5) Create Procedures examples.
 6) Create Triggers examples.
 7) Create Backups.
+8) Create Cron Jobs
 
 
 ### Users - Roles
