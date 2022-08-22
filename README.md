@@ -1,4 +1,4 @@
-# DominosDatabaseProject
+#  PizzaFranchiseDatabase
 
 ### Project Description :
 In this project I’ve created a relational database in Postgres that simulates the operations of a pizza franchise. Specifically, I have designed the database from scratch starting with the business understanding of the problem to the physical project therefore, doing a full cycle in database design (conceptual model to physical model). To populate the database I've used python scripts to generate “real” data and to simulate interaction with this database I've used cron jobs to schedule batches of data being ingested by the database. Other than that, I've created Users and Roles to manage access to the database and created procedures, triggers and backups to practice my Postgres understanding.
